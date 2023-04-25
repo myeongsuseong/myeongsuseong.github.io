@@ -25,3 +25,9 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+
+# Time zone Related
+gem 'tzinfo-data'
+
+gem "webrick", "~> 1.8"
