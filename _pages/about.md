@@ -19,7 +19,7 @@ News
 ======
 -Biomedical Spectroscopy, Imaing, and Therapeutics Group (BSIT) is launched on August bb, 2023.
 
--Dr. Myeongsu Seong joins Department of Mechatronics and Robotics, School of Advanced Technology, Xi'an Jiaotong University as an Assistant Professor on August aa, 2023.
+-Dr. Myeongsu Seong joins Department of Mechatronics and Robotics, School of Advanced Technology, Xi'an Jiaotong-Liverpool University (XJTLU) as an Assistant Professor on August aa, 2023.
 
 
 
