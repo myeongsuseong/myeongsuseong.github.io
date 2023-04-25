@@ -5,6 +5,5 @@ permalink: /members/
 author_profile: false
 ---
 
-Members
-======
+
 Dr. Myeongsu Seong
