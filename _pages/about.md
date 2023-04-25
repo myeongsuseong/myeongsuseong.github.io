@@ -2,7 +2,7 @@
 permalink: /
 title: "Brief Introduction"
 excerpt: "_"
-author_profile: true
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
@@ -12,7 +12,7 @@ Biomedical Spectroscopy, Imaging, and Therapeutics Group (BSIT), led by Dr. Myeo
 
 BSIT welcomes highly-motivated researchers or students with various academic backgrounds. If you are interested in joining the group or want to understand research works in the group, please feel free to contact Dr. Seong via email (myeongsu.seong__at__xjtlu.edu.cn).
 
-In the meantime, BSIT is interested in initiating multi-disciplinary collaborations (either medical or non-medical related), if you think we can do collaborative works or would like to discuss possible collaborative projects, please reach out to Dr. Seong via email as well (myeongsu.seong__at__xjtlu.edu.cn).
+In the meantime, BSIT is interested in initiating multi-disciplinary collaborations (either medical or non-medical related), if you think we can do collaborative works or would like to discuss possible collaborative projects, please reach out to Dr. Seong via email (myeongsu.seong__at__xjtlu.edu.cn).
 
 
 News
