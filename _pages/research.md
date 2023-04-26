@@ -9,17 +9,17 @@ Our short-term goal is to develop systems and algorithms that can be utilized in
 
 System development
 ------
-Diffuse optical systems
+We are
 
 
 Algorithm development
 ------
-The ranges of algorithms that we develop spans from simple signal processing methods to artificial-intelligence-based methods.
+The ranges of algorithms that we develop spans from simple signal processing methods to artificial-intelligence-based methods. 
 
 
 Simulation studies
 ------
-Simulation is a computational approach used to test the feasibility of experimental schemes. While simulation is mostly used as a complementary method to back-up the experimental results, aaaa. We use various simulation tools for performing optical (e.g., [Monte Carlo Extreme](mcx.space)) and acoustic (e.g., [k-Wave](kwave.org)) simulations. We are also interested in mult-physics simulations. 
+A simulation is a computational approach used to test the feasibility of experimental schemes. While simulation is mostly used as a complementary method to back up the experimental results, aaaa. We use various simulation tools for performing optical (e.g., [Monte Carlo Extreme](https://mcx.space)) and acoustic (e.g., [k-Wave](https://kwave.org)) simulations. We are also interested in multi-physics simulations.
 
 Application studies
 ------
