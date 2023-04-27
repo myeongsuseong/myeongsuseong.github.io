@@ -7,8 +7,8 @@ author_profile: false
 
 
 Dr. Myeongsu Seong, group leader  
-<img src="https://myeongsuseong.github.io/images/myeongsu_seong.png" width="100" height="200">  
-[CV (HTML)](https://myeongsuseong.github.io/cv) [Google Scholar](https://scholar.google.com/citations?user=UE6g5hoAAAAJ&hl=en) [Researchgate](https://www.researchgate.net/profile/Myeongsu-Seong)  
+<img src="https://myeongsuseong.github.io/images/myeongsu_seong.png" width="200" height="300">  
+[CV (HTML)](https://myeongsuseong.github.io/cv) [CV (PDF)](https://myeongsuseong.github.io/files/MyeongsuSeong_CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=UE6g5hoAAAAJ&hl=en) [Researchgate](https://www.researchgate.net/profile/Myeongsu-Seong)  
 Office address:     
 Phone: +86 (0)5128816aaaa  
 Email: myeongsu.seong__at__xjtlu.edu.cn        
@@ -16,4 +16,4 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 Researchers
 ------
-We are looking forward to working with you! Please check the section of "Prospective members".
+We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
