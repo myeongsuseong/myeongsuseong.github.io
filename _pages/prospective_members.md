@@ -28,7 +28,7 @@ It would be best if you have more than three of the relevant experiences listed 
 3. knowledge and hands-on-experiences in electronics, microprocessors (e.g., Arduino), and/or mechatronic/robotic systems
 4. experiences in cell animal, and/or human experiments
 5. experiences in simulation tools
-6. experiences in machine learning (e.g., Scikit-learn or machine learning toolbox in MATLAB) and/or deep learning (e.g., Keras, TensorFlow, PyTorch, and/or Fast-AI)
+6. experiences in machine learning (e.g., Scikit-learn or machine learning toolbox in MATLAB) and/or deep learning (e.g., Keras, TensorFlow, PyTorch, and/or Fast.ai)
 7. prior research experience (e.g., preparation of a manuscript of a research article or conference proceeding)
 
 
