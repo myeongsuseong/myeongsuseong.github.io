@@ -5,7 +5,7 @@ permalink: /prospective_members/
 author_profile: false
 ---
 
-We are always looking for highly-motivated, strongly-committed new members with different educational levels. Below shows our expectations for prospective members and what you can expect from BSIT. If you are interested in joining BSIT or would like to discuss possible research topics, please contact Dr. Seong via email (myeongsu.seong__at__xjtlu.edu.cn) providing your CV (for undergraduate students: recommended to provide, for graduate students: must be provided), research interest, background (e.g., major, year, research experience, programming ability), and availability as well as your future plan. We will schedule a meeting.
+We are always looking for highly-motivated, strongly-committed new members with different educational levels. Below shows our expectations for prospective members and what you can expect from BSIT. If you are interested in joining BSIT or would like to discuss possible research topics, please contact Dr. Seong via email (myeongsu.seong__at__xjtlu.edu.cn) providing your CV (for undergraduate students: recommended to provide, for graduate students: must be provided), research interest, background (e.g., major, year, research experience, programming ability), and availability as well as your future plan. We will schedule a meeting for discussion.
 
 
 Undergraduate students
