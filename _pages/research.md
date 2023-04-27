@@ -9,7 +9,7 @@ Our short-term goal is to develop systems and algorithms that can be utilized in
 
 System development
 ------
-We are interested in building various systems.
+We are interested in building various systems. Benchtop system and portable system 
 
 
 Algorithm development
