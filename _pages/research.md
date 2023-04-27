@@ -9,12 +9,12 @@ Our short-term goal is to develop systems and algorithms that can be utilized in
 
 System development
 ------
-We are
+We are interested in building various systems.
 
 
 Algorithm development
 ------
-The ranges of algorithms that we develop spans from simple signal processing methods to artificial-intelligence-based methods. 
+The ranges of algorithms that we develop spans from simple signal processing methods to artificial-intelligence-based methods.
 
 
 Simulation studies
@@ -23,4 +23,4 @@ A simulation is a computational approach used to test the feasibility of experim
 
 Application studies
 ------
-Developed systems are used in preclinical (i.e., animal experiments) and clinical studies.
+Developed systems are used in preclinical (i.e., cell and/or animal experiments) and clinical studies.
