@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 -----
-* B.S. in Medical engineering, Jungwon University, Goesan, Chungbuk, Korea, August 2012  
+* B.S. in Medical engineering, Jungwon University, Goesan, Chungbuk, Republic of Korea, August 2012  
 Graduate one semester earlier due to academic excellence  
 
-* M.S. in Medical system engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Korea, August 2014  
+* M.S. in Medical system engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Republic of Korea, August 2014  
 Advisor: Dr. Jae Gwan Kim  
 
-* Ph.D in Biomedical science and engineering (specialized in biophotonics), GIST, Gwangju, Korea, August 2018  
+* Ph.D in Biomedical science and engineering (specialized in biophotonics), GIST, Gwangju, Republic of Korea, August 2018  
 Advisor: Dr. Jae Gwan Kim  
 Received Excellent Research Award from GIST due to academic excellence
 
@@ -47,7 +47,7 @@ Work experience
 
 
 * Research Assistant (September 2012 - August 2018)
-  * GIST, Gwangju, Korea  
+  * GIST, Gwangju, Republic of Korea  
   Worked as a research assistant during master's and Ph.D. courses at Biophotonics Laboratory (led by Dr. Jae Gwan Kim), Department of Biomedical Science and Engineering, GIST.    
 
 
