@@ -23,14 +23,17 @@ Non-therapeutic systems and therapeutic system
 ------
 Non-therapeutic systems imply systems that monitor target signals (like the above-mentioned mono-modal and multi-modal systems). Therapeutic systems imply systems that can do some stimulations and/or treatment. Stimulation and/or treatment can be performed in various ways including electrical stimulation, optical stimulation, and ultrasound stimulation. Possibly, monitoring and therapeutic systems can be combined for various purposes including real-time monitoring of stimulation/treatment and targeting the region of interest. Both non-therapeutic and therapeutic systems can be integrated with conventional or new mechatronic/robotic systems to perform more advanced monitoring and stimulation/treatment.
 
+
 Algorithm development
 ======
 The range of algorithms that we develop spans from simple signal-processing methods to artificial intelligence-based methods. Noise reduction, fast signal processing, and decision-making can be done by developed algorithms.
+
 
 Simulation studies
 ======
 A simulation is a computational approach used to test the feasibility of experimental schemes. While simulation is mostly used as a complementary method to back up the experimental results, sometimes simulation can be possibly performed as a complete study as well. We use various simulation tools for performing optical (e.g., [Monte Carlo Extreme](https://mcx.space)) and acoustic (e.g., [k-Wave](https://kwave.org)) simulations. We are also interested in multi-physics simulations.
   
+
 Application studies
 ======
 Developed systems can be used in preclinical (i.e., cell and/or animal experiments) and clinical studies. Will be updated in the future.
