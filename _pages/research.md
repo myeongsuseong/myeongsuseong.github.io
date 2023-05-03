@@ -13,7 +13,7 @@ We are interested in building various systems. The systems in which we are inter
 <figure>
     <img src="https://myeongsuseong.github.io/images/systemExample.jpg" style="max-width: 50%;"/>
 
-    <figcaption>Example of optical spectroscopic system.</figcaption>
+    <figcaption><br><br>Example of optical spectroscopic system.</figcaption>
 </figure>
 
 
@@ -39,7 +39,7 @@ The range of algorithms that we develop spans from simple signal-processing meth
 <figure>
     <img src="https://myeongsuseong.github.io/images/sigProcssingExample.png" style="max-width: 75%;"/>
 
-    <figcaption>Example of algorithm development (Seong <i>et al.</i> Computer Methods and Programs in Biomedicine 2022).</figcaption>
+    <figcaption><br><br>Example of algorithm development (Seong <i>et al.</i> Computer Methods and Programs in Biomedicine 2022).</figcaption>
 </figure>
 
 
@@ -50,7 +50,7 @@ A simulation is a computational approach used to test the feasibility of experim
 <figure>
     <img src="https://myeongsuseong.github.io/images/simulationExample.png" style="max-width: 60%;"/>
 
-    <figcaption>Example of optical simulation (Seong <i>et al.</i> Biosensors 2022).</figcaption>
+    <figcaption><br><br>Example of optical simulation (Seong <i>et al.</i> Biosensors 2022).</figcaption>
 </figure>
 
 
@@ -61,5 +61,5 @@ Developed systems can be used in preclinical (i.e., cell and/or animal experimen
 <figure>
     <img src="https://myeongsuseong.github.io/images/applicationExample.png" style="max-width: 55%;"/>
 
-    <figcaption>Example of algorithm development (Seong <i>et al.</i> Biosensors 2022).</figcaption>
+    <figcaption><br><br>Example of algorithm development (Seong <i>et al.</i> Biosensors 2022).</figcaption>
 </figure>
