@@ -10,6 +10,8 @@ Our short-term goal is to develop novel systems and algorithms that can be utili
 System development
 ======
 We are interested in building various systems. The systems in which we are interested are described below.  
+
+\
 <img src="https://myeongsuseong.github.io/images/systemExample.jpg" style="width:30%;height:30%"/>  
 <font size="2.5">Example of optical spectroscopic system.</font>
 
@@ -32,7 +34,7 @@ Non-therapeutic systems imply systems that monitor target signals (like the abov
 Algorithm development
 ======
 The range of algorithms that we develop spans from simple signal-processing methods to artificial intelligence-based methods. Noise reduction, fast signal processing, and decision-making can be done by developed algorithms.  
-  
+
 <img src="https://myeongsuseong.github.io/images/sigProcssingExample.png" style="width: 75%;"/>  
 <font size="2.5">Example of algorithm development (Seong <i>et al.</i> Computer Methods and Programs in Biomedicine 2022).</font>   
 
