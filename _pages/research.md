@@ -9,13 +9,9 @@ Our short-term goal is to develop novel systems and algorithms that can be utili
 
 System development
 ======
-We are interested in building various systems. The systems in which we are interested are described below.
-<figure>
-    <img src="https://myeongsuseong.github.io/images/systemExample.jpg" style="width:20%;height:20%"/>
-
-    <figcaption>Example of optical spectroscopic system.</figcaption>
-</figure>
-
+We are interested in building various systems. The systems in which we are interested are described below.  
+<img src="https://myeongsuseong.github.io/images/systemExample.jpg" style="width:30%;height:30%"/>  
+<font size="2">Example of optical spectroscopic system.</font>
 
 
 Benchtop systems and Portable systems
