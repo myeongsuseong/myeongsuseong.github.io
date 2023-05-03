@@ -11,9 +11,10 @@ System development
 ======
 We are interested in building various systems. The systems in which we are interested are described below.  
 <figure>
-    <img src="https://myeongsuseong.github.io/images/systemExample.jpg" style="width:30%;height:30%"/>
+    <img src="https://myeongsuseong.github.io/images/systemExample.jpg" style="width:30%;height:30%"/>  
+    <font size="2">Example of optical spectroscopic system.</font>
 </figure>
-<font size="2">Example of optical spectroscopic system.</font>
+
 
 
 Benchtop systems and Portable systems
@@ -34,24 +35,26 @@ Algorithm development
 The range of algorithms that we develop spans from simple signal-processing methods to artificial intelligence-based methods. Noise reduction, fast signal processing, and decision-making can be done by developed algorithms.  
 
 <figure>
-    <img src="https://myeongsuseong.github.io/images/sigProcssingExample.png" style="width: 75%;"/>    
+    <img src="https://myeongsuseong.github.io/images/sigProcssingExample.png" style="width: 75%;"/>  
+    <font size="2">Example of algorithm development (Seong <i>et al.</i> Computer Methods and Programs in Biomedicine 2022).</font>   
 </figure>
-<font size="2">Example of algorithm development (Seong <i>et al.</i> Computer Methods and Programs in Biomedicine 2022).</font>
+
 
 Simulation studies
 ======
 A simulation is a computational approach used to test the feasibility of experimental schemes. While simulation is mostly used as a complementary method to back up the experimental results, sometimes simulation can be possibly performed as a complete study as well. We use various simulation tools for performing optical (e.g., [Monte Carlo Extreme](https://mcx.space)) and acoustic (e.g., [k-Wave](https://kwave.org)) simulations. We are also interested in multi-physics simulations.  
 
 <figure>
-    <img src="https://myeongsuseong.github.io/images/simulationExample.png" style="width: 100%;"/>
+    <img src="https://myeongsuseong.github.io/images/simulationExample.png" style="width: 70%;"/>
+    <font size="2">Example of optical simulation (Seong <i>et al.</i> Biosensors 2022).</font>
 </figure>
-<font size="2">Example of optical simulation (Seong <i>et al.</i> Biosensors 2022).</font>
+
 
 Application studies
 ======
 Developed systems can be used in preclinical (i.e., cell and/or animal experiments) and clinical studies. Will be updated in the future.  
 
 <figure>
-    <img src="https://myeongsuseong.github.io/images/applicationExample.png" style="width: 100%;"/>
+    <img src="https://myeongsuseong.github.io/images/applicationExample.png" style="width: 70%;"/>
+    <font size="2">Example of algorithm development (Seong <i>et al.</i> Biosensors 2022).</font>
 </figure>
-<font size="2">Example of algorithm development (Seong <i>et al.</i> Biosensors 2022).</font>
