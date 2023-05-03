@@ -17,7 +17,7 @@ Graduate one semester earlier due to academic excellence
 * M.S. in Medical system engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Republic of Korea, August 2014  
 Advisor: Dr. Jae Gwan Kim  
 
-* Ph.D in Biomedical science and engineering (specialized in biophotonics), GIST, Gwangju, Republic of Korea, August 2018  
+* Ph.D in Biomedical engineering (specialized in biophotonics), GIST, Gwangju, Republic of Korea, August 2018  
 Advisor: Dr. Jae Gwan Kim  
 Received Excellent Research Award from GIST due to academic excellence
 
@@ -56,7 +56,8 @@ Languages
 * Korean (native)
 * English (advanced)
 * Chinese (between mid-intermediate and upper-intermediate)  
-
+* Spanish (beginner)
+* Japanese (beginner)
 
 Grants (as principal investigator)
 ------
