@@ -8,7 +8,9 @@ author_profile: true
 
 After XJTLU
 ------
-1. **Myeongsu Seong**# "Comparison of numerical-integration-based methods for blood flow estimation in diffuse correlation spectroscopy," Computer Methods and Programs in Biomedicine (in revision)
+1. **Myeongsu Seong**# and Dasol Lee# "Investigation of ultra-short-separation diffuse correlation spectroscopy," (in preparation), 2023
+
+1. **Myeongsu Seong**# "Comparison of numerical-integration-based methods for blood flow estimation in diffuse correlation spectroscopy," Computer Methods and Programs in Biomedicine (in revision), 2023
 
 Before XJTLU
 ------
