@@ -11,7 +11,7 @@ System development
 ======
 We are interested in building various systems. The systems in which we are interested are described below.
 <figure>
-    <img src="https://myeongsuseong.github.io/images/systemExample.jpg" style="max-width: 70%;">
+    <img src="https://myeongsuseong.github.io/images/systemExample.jpg" style="max-width: 50%;">
 
     <figcaption>Example of optical spectroscopic system.</figcaption>
 </figure>
@@ -59,7 +59,7 @@ Application studies
 Developed systems can be used in preclinical (i.e., cell and/or animal experiments) and clinical studies. Will be updated in the future.
 
 <figure>
-    <img src="https://myeongsuseong.github.io/images/applicationExample.png" style="max-width: 70%;">
+    <img src="https://myeongsuseong.github.io/images/applicationExample.png" style="max-width: 50%;">
 
     <figcaption>Example of algorithm development (Seong <i>et al.</i> Biosensors 2022).</figcaption>
 </figure>
