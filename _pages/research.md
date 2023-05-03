@@ -32,6 +32,7 @@ Non-therapeutic systems imply systems that monitor target signals (like the abov
 Algorithm development
 ======
 The range of algorithms that we develop spans from simple signal-processing methods to artificial intelligence-based methods. Noise reduction, fast signal processing, and decision-making can be done by developed algorithms.  
+  
 <img src="https://myeongsuseong.github.io/images/sigProcssingExample.png" style="width: 75%;"/>  
 <font size="2.5">Example of algorithm development (Seong <i>et al.</i> Computer Methods and Programs in Biomedicine 2022).</font>   
 
