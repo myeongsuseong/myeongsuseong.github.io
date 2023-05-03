@@ -11,7 +11,7 @@ System development
 ======
 We are interested in building various systems. The systems in which we are interested are described below.  
 
-\
+
 <img src="https://myeongsuseong.github.io/images/systemExample.jpg" style="width:30%;height:30%"/>  
 <font size="2.5">Example of optical spectroscopic system.</font>
 
