@@ -5,6 +5,14 @@ permalink: /research/
 author_profile: false
 ---
 
+figcaption {
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
 Our short-term goal is to develop novel systems and algorithms that can be utilized in biomedical applications. Systems that we are mainly interested in may include monitoring systems, stimulation systems, and therapeutic systems. While the group mainly focuses on the development of technologies that have the potential to be used in biomedical fields, we are open to performing collaborative works that may be able to lead to breakthroughs in other fields. Please see below to understand about the research directions of BSIT. If you would like to understand the research of BSIT more in detail, please contact Dr. Seong through email (myeongsu.seong__at__xjtlu.edu.cn).   
 
 System development
@@ -37,7 +45,7 @@ The range of algorithms that we develop spans from simple signal-processing meth
 
 
 <figure>
-    <img src="https://myeongsuseong.github.io/images/sigProcssingExample.png" style="width:auto;height:600px">
+    <img src="https://myeongsuseong.github.io/images/sigProcssingExample.png" style="width:80%;height:80%">
 
     <figcaption>Example of algorithm development (Seong <i>et al.</i> Computer Methods and Programs in Biomedicine 2022).</figcaption>
 </figure>
