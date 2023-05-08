@@ -45,7 +45,7 @@ A simulation is a computational approach used to test the feasibility of experim
 <img src="https://myeongsuseong.github.io/images/simulationExample.png" style="width: 70%;"/>  
 <font size="2.5">Example of optical simulation (Seong <i>et al.</i> Biosensors 2022).</font>
 
-
+  
 Application studies
 ======
 Developed systems can be used in preclinical (i.e., cell and/or animal experiments) and clinical studies. Will be updated in the future.  

@@ -10,8 +10,9 @@ We are always looking for highly-motivated, strongly-committed new members with 
 
 Undergraduate students
 ------
-We welcome undergraduate students with various STEM (science, technology, engineering, and mathematics) backgrounds from XJTLU or other schools. As you may see, since the projects in BSIT are multi-disciplinary, we would be able to discuss and find appropriate research topics for each member. Since you may be a beginner in research activity, you can expect to get various help from Dr. Seong so that you can grow as a junior researcher. No prior research experience is required but your commitment to the assigned project is expected (e.g., more than 8 hours of working time per week). While not required, it would be helpful if you have any experience using C/C++/C#, MATLAB, LabVIEW, and/or Python, in hardware programming (e.g., Arduino, ARM, or FPGA), or artificial intelligence. Depending on your current skill sets and desire, a project will be assigned after discussion and exploration of possible topics with Dr. Seong.  
-We will aim for all undergraduate students to be involved in the procedures of journal article publications (including topic generation, data preparation, data analysis, and manuscript preparation). Ideally, we will work hard TOGETHER to generate a journal publication from the results of your work.  
+We welcome undergraduate students with various STEM (science, technology, engineering, and mathematics) backgrounds from XJTLU or other schools. As you may see, since the projects in BSIT are multi-disciplinary, we would be able to discuss and find appropriate research topics for each member. Since you may be a beginner in research activity, you can expect to get various help from Dr. Seong so that you can grow as a junior researcher. No prior research experience is required but your commitment to the assigned project is expected (e.g., more than 8 hours of working time per week). While not required, it would be helpful if you have any experience using C/C++/C#, MATLAB, LabVIEW, and/or Python, in hardware programming (e.g., Arduino, ARM, or FPGA), or artificial intelligence (You may be able to take a look the relevant experience expected for graduate students as well). Depending on your current skill sets and desire, a project will be assigned after discussion and exploration of possible topics with Dr. Seong.  
+We will aim for all undergraduate students to be involved in the procedures of journal article publications (including topic generation, data preparation, data analysis, and manuscript preparation) which may be helpful if one is considering to study postgraduate degree(s). 
+#Ideally, we will work hard TOGETHER to generate a journal publication from the results of your work.  
 For communications, while it is expected that all communications will be done in English (mainly for increasing your English ability), Dr. Seong, the group leader, can handle communications in Korean and Chinese as well if needed.
 
 
@@ -23,9 +24,10 @@ If you are a Ph.D. student, less help in project generation, journal publication
 
 It would be best if you have more than three of the relevant experiences listed below.  
 
-1. programming experiences using MATLAB, LabVIEW, and/or Python
+1. programming experiences using C/C++/C#, MATLAB, LabVIEW, and/or Python
 1. knowledge and hands-on-experiences in fiber optics/optics and/or acoustics
 1. knowledge and hands-on-experiences in electronics, microprocessors (e.g., Arduino), and/or mechatronic/robotic systems
+1. knowledge and/or experience in signal/image processing
 1. experiences in cell animal, and/or human experiments
 1. experiences in simulation tools
 1. experiences in machine learning (e.g., Scikit-learn or machine learning toolbox in MATLAB) and/or deep learning (e.g., Keras, TensorFlow, PyTorch, and/or Fast.ai)
