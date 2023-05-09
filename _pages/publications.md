@@ -12,6 +12,8 @@ After XJTLU
 
 1. **Myeongsu Seong**# "Comparison of numerical-integration-based methods for blood flow estimation in diffuse correlation spectroscopy," Computer Methods and Programs in Biomedicine (in revision), 2023
 
+1. Nan Wan, Pengcheng Zhang^, Zuheng Liu, Zhe Li, Wei Niu, Xiuye Rui, Shibo Wang, **Myeongsu Seong**, Pengbo He, Siqi Liang, Jiasheng Zhou, Rui Yang#, Sung-Liang Chen# "Implantable QR Code Subcutaneous Microchip Using Photoacoustic and Ultrasound Microscopy for Secure and Convenient Individual Identification and Authentication," Photoacoustics (in press), 2023 [IF: 9.656] (JCR rank 1/64 (1.56%) in instruments & instrumentation in JCR 2021)
+
 Before XJTLU
 ------
 1. **Myeongsu Seong**, Yoonho Oh, Hyung Joon Park, Won-Seok Choi#, and Jae Gwan Kim# "Use of hypoxic respiratory challenge for differentiating Alzheimer’s disease and wild-type mice non-invasively: A diffuse optical spectroscopy study," Biosensors 12(11), 1019, 2022 [IF: 5.743] (JCR rank 8/64 (12.5%) in instruments & instrumentation in JCR 2021)
