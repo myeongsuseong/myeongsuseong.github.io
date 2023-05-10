@@ -7,9 +7,8 @@ author_profile: true
 
 
 After XJTLU
------
-Peer-reviewed publications  
-
+------
+Peer-reviewed publications
 1. **Myeongsu Seong**# and Dasol Lee# "Investigation of ultra-short-separation diffuse correlation spectroscopy," (in preparation), 2023
 1. **Myeongsu Seong**# "Comparison of numerical-integration-based methods for blood flow estimation in diffuse correlation spectroscopy," Computer Methods and Programs in Biomedicine (in revision), 2023
 
@@ -17,8 +16,7 @@ Peer-reviewed publications
 
 Before XJTLU
 ------
-Peer-reviewed publications  
-
+Peer-reviewed publications
 1. Nan Wan, Pengcheng Zhang^, Zuheng Liu, Zhe Li, Wei Niu, Xiuye Rui, Shibo Wang, **Myeongsu Seong**, Pengbo He, Siqi Liang, Jiasheng Zhou, Rui Yang#, Sung-Liang Chen# "Implantable QR Code Subcutaneous Microchip Using Photoacoustic and Ultrasound Microscopy for Secure and Convenient Individual Identification and Authentication," Photoacoustics (in press), 2023 [IF: 9.656] (JCR rank 1/64 (1.56%) in instruments & instrumentation in JCR 2021)
 1. **Myeongsu Seong**, Yoonho Oh, Hyung Joon Park, Won-Seok Choi#, and Jae Gwan Kim# "Use of hypoxic respiratory challenge for differentiating Alzheimer’s disease and wild-type mice non-invasively: A diffuse optical spectroscopy study," Biosensors 12(11), 1019, 2022 [IF: 5.743] (JCR rank 8/64 (12.5%) in instruments & instrumentation in JCR 2021)
 1. **Myeongsu Seong**, Yoonho Oh^, Kijoon Lee#, and Jae Gwan Kim# "Blood flow estimation via numerical integration of temporal autocorrelation function in diffuse correlation spectroscopy," Computer Methods and Programs in Biomedicine 222, 106933, 2022 [IF: 7.027] (JCR rank 12/110 (10.9%) in computer science, theory & methods in JCR 2021)
@@ -39,8 +37,7 @@ Peer-reviewed publications
 1. **Myeongsu Seong**, Zephaniah Phillips V^, Phuong Minh Mai, Chaebeom Yeo, Cheol Song, Kijoon Lee, and Jae G. Kim# "Simultaneous blood flow and oxygenation measurements using a combination of diffuse speckle contrast analysis and near-infrared spectroscopy," Journal of Biomedical Optics 21(2), 027001, 2016 [IF: 3.582] (JCR rank 30/101 (29.7%) in optics in JCR 2021)  
 ^: co-first; #: corresponding author(s)
 
-Conference proceedings  
-
+Conference proceedings
 1. **Myeongsu Seong**, Zephaniah Phillips^, Phuong Minh Mai, Chaebeom Yeo, Cheol Song, Kijoon Lee, and Jae G. Kim# "A fiber optic probe coupled low-cost CMOS camera-based system for simultaneous measurement of oxy-, deoxyhemoglobin, and blood flow." Proceedings of SPIE, In International Conference on Nano-Bio Sensing, Imaging, and Spectroscopy 2015, vol. 9523, p. 95230E. International Society for Optics and Photonics, 2015. *: co-first.
 1. Songhyun Lee, **Myeongsu Seong**, Hyeryun Jeong, and Jae G. Kim# "Tumor vascular reactivity as a marker to predict tumor response to chemotherapy." Proceedings of SPIE, In Optical Tomography and Spectroscopy of Tissue XI, vol. 9319, p. 93190E. International Society for Optics and Photonics, 2015.
 1. **Myeongsu Seong**, Myoung NoSoung, Sang-Youp Yim, and Jae G. Kim# "Longitudinal in vivo transcutaneous observation of Raman signals from breast cancer during chemotherapy in small animal model." Proceeding of SPIE, In Photonic Therapeutics and Diagnostics XI, vol. 9303, p.93032U. International Society for Optics and Photonics, 2015.  
