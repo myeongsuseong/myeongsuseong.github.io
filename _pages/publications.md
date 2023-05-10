@@ -38,7 +38,7 @@ Peer-reviewed publications
 ^: co-first; #: corresponding author(s)
 
 Conference proceedings
-1. **Myeongsu Seong**, Zephaniah Phillips^, Phuong Minh Mai, Chaebeom Yeo, Cheol Song, Kijoon Lee, and Jae G. Kim# "A fiber optic probe coupled low-cost CMOS camera-based system for simultaneous measurement of oxy-, deoxyhemoglobin, and blood flow." Proceedings of SPIE, In International Conference on Nano-Bio Sensing, Imaging, and Spectroscopy 2015, vol. 9523, p. 95230E. International Society for Optics and Photonics, 2015. *: co-first.
+1. **Myeongsu Seong**, Zephaniah Phillips^, Phuong Minh Mai, Chaebeom Yeo, Cheol Song, Kijoon Lee, and Jae G. Kim# "A fiber optic probe coupled low-cost CMOS camera-based system for simultaneous measurement of oxy-, deoxyhemoglobin, and blood flow." Proceedings of SPIE, In International Conference on Nano-Bio Sensing, Imaging, and Spectroscopy 2015, vol. 9523, p. 95230E. International Society for Optics and Photonics, 2015.
 1. Songhyun Lee, **Myeongsu Seong**, Hyeryun Jeong, and Jae G. Kim# "Tumor vascular reactivity as a marker to predict tumor response to chemotherapy." Proceedings of SPIE, In Optical Tomography and Spectroscopy of Tissue XI, vol. 9319, p. 93190E. International Society for Optics and Photonics, 2015.
 1. **Myeongsu Seong**, Myoung NoSoung, Sang-Youp Yim, and Jae G. Kim# "Longitudinal in vivo transcutaneous observation of Raman signals from breast cancer during chemotherapy in small animal model." Proceeding of SPIE, In Photonic Therapeutics and Diagnostics XI, vol. 9303, p.93032U. International Society for Optics and Photonics, 2015.  
 ^: co-first; #: corresponding author(s)

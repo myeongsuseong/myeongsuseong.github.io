@@ -11,4 +11,4 @@ After XJTLU
 Before XJTLU
 ------
 * 医学信息学英语 (English in Biomedical Informatics, undergraduate course, 48 hours), Department of Biomedical Informatics, School of Medicine, Nantong University, Nantong, China, 2023.02 - 2023.04 (co-teaching, participated as one of the instructors)
-  * This course covers various topics in bioinformatics including electronic health records, telemedicine, medical information retrieval, article translation, and abstract writing. I taught 24 hours (half) of the course.
+  * This course covers various topics in bioinformatics including electronic health records, telemedicine, medical information retrieval, article translation, and abstract writing. I taught 24 hours (half) of the course. (Spring 2023)

@@ -7,9 +7,8 @@ author_profile: true
 
 Invited talks
 ------
-1. **Myeongsu Seong** "Diffuse-optics based flow measurement: towards simplified systems", Date: November 16, 2021. Invited by Prof. Dasol Lee. Organizer: Department of Biomedical Engineering, Yonsei University, Korea
 1. **Myeongsu Seong** "Spatial frequency domain imaging", Date: January 31, 2023. Invited by Prof. Dasol Lee. Organizer: Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea
-
+1. **Myeongsu Seong** "Diffuse-optics based flow measurement: towards simplified systems", Date: November 16, 2021. Invited by Prof. Dasol Lee. Organizer: Department of Biomedical Engineering, Yonsei University, Korea
 
 Oral presentations
 ------
