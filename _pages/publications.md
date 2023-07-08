@@ -11,13 +11,15 @@ After XJTLU
 Peer-reviewed publications
 1. **Myeongsu Seong**# and Dasol Lee# "Investigation of ultra-short-separation diffuse correlation spectroscopy," (in preparation), 2023
 1. **Myeongsu Seong**# "Comparison of numerical-integration-based methods for blood flow estimation in diffuse correlation spectroscopy," Computer Methods and Programs in Biomedicine (in revision), 2023
+1. Nan Wan, Zhe Li, **Myeongsu Seong**, Wei Niu, Rong Wu, and Sung-Liang Chen# "Sensing of triglyceride concentration in blood solution using photoacoustic microscopy," Optics Letters (aceepted), 2023
+
 
 ^: co-first; #: corresponding author(s)
 
 Before XJTLU
 ------
 Peer-reviewed publications
-1. Nan Wan, Pengcheng Zhang^, Zuheng Liu, Zhe Li, Wei Niu, Xiuye Rui, Shibo Wang, **Myeongsu Seong**, Pengbo He, Siqi Liang, Jiasheng Zhou, Rui Yang#, Sung-Liang Chen# "Implantable QR Code Subcutaneous Microchip Using Photoacoustic and Ultrasound Microscopy for Secure and Convenient Individual Identification and Authentication," Photoacoustics (in press), 2023 [IF: 9.656] (JCR rank 1/64 (1.56%) in instruments & instrumentation in JCR 2021)
+1. Nan Wan, Pengcheng Zhang^, Zuheng Liu, Zhe Li, Wei Niu, Xiuye Rui, Shibo Wang, **Myeongsu Seong**, Pengbo He, Siqi Liang, Jiasheng Zhou, Rui Yang#, Sung-Liang Chen# "Implantable QR code subcutaneous microchip using photoacoustic and ultrasound microscopy for secure and convenient individual identification and authentication," Photoacoustics (in press), 2023 [IF: 9.656] (JCR rank 1/64 (1.56%) in instruments & instrumentation in JCR 2021)
 1. **Myeongsu Seong**, Yoonho Oh, Hyung Joon Park, Won-Seok Choi#, and Jae Gwan Kim# "Use of hypoxic respiratory challenge for differentiating Alzheimer’s disease and wild-type mice non-invasively: A diffuse optical spectroscopy study," Biosensors 12(11), 1019, 2022 [IF: 5.743] (JCR rank 8/64 (12.5%) in instruments & instrumentation in JCR 2021)
 1. **Myeongsu Seong**, Yoonho Oh^, Kijoon Lee#, and Jae Gwan Kim# "Blood flow estimation via numerical integration of temporal autocorrelation function in diffuse correlation spectroscopy," Computer Methods and Programs in Biomedicine 222, 106933, 2022 [IF: 7.027] (JCR rank 12/110 (10.9%) in computer science, theory & methods in JCR 2021)
 1. Heming Bai#, Yuli Shi, **Myeongsu Seong**, Wenkang Gao, and Yuanhui Li "Influence of spatial resolution on satellite-based PM2.5 estimation: implications for health assessment," Remote Sensing 14(12), 2933, 2022
