@@ -27,7 +27,7 @@ Work experience
   * Department of Mechatronics and Robotics, School of Advanced Technology, XJTLU, Suzhou, Jiangsu, China  
 
 
-* Associate Professor (校聘副教授, January 2020 - July 2023)
+* Associate Professor (校聘副教授, December 2020 - June 2023)
   * Research Center for Intelligent Information Technology, Nantong University, Nantong, Jiangsu, China  
 
 
@@ -67,7 +67,7 @@ Grants (as principal investigator)
 
 Awards/Distinctions
 ------
-* Jiangsu Foreign Expert Workshop (江苏省外国专家工作室, provincial-level platform project (省级科研平台项目), secured it as the leader (领衔外国专家) of foreign scholars at the Research Center for Intelligent Information Technology, Nantong University), started from 2022.12 and officially announced in 2023.02
+* Jiangsu Foreign Expert Workshop (江苏省外国专家工作室, provincial-level platform project (省级科研平台项目), secured it as the leader (领衔外国专家) of foreign scholars at the Research Center for Intelligent Information Technology, Nantong University), started from 2022.12 and left it in 2023.06
 * Young Foreign Talent Plan of National Foreign Expert Project (国家外国专家项目中“外国青年人才计划”), Ministry of Science and Technology (MOST) of China (中国科学技术部), supported till 2022.12
 * Excellent Research Presentation Award (as a second author), Optical Society of Korea Summer Meeting, Republic of Korea, 2018.08
 * Excellent Research Award (awarded for research excellence during the Ph.D. study, only one student in the department), Gwangju Institute of Science and Technology, Republic of Korea, 2018.08
