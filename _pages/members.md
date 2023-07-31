@@ -8,7 +8,7 @@ author_profile: false
 Principal investigator
 ------
 Dr. Myeongsu Seong    
-<img src="https://myeongsuseong.github.io/images/myeongsu_seong.png" width="230" height="306">  
+<img src="https://myeongsuseong.github.io/images/myeongsu.seong.jpg" width="230" height="306">  
 [CV (HTML)](https://myeongsuseong.github.io/cv) [CV (PDF)](https://myeongsuseong.github.io/files/MyeongsuSeong_CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=UE6g5hoAAAAJ&hl=en) [Researchgate](https://www.researchgate.net/profile/Myeongsu-Seong)  
 Office address:     
 Phone: +86 (0)5128816aaaa  
