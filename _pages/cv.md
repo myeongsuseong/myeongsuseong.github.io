@@ -23,7 +23,7 @@ Received Excellent Research Award from GIST due to academic excellence
 
 Work experience
 ------
-* Incoming Assistant Professor (August 2023 - present)
+* Assistant Professor (August 2023 - present)
   * Department of Mechatronics and Robotics, School of Advanced Technology, XJTLU, Suzhou, Jiangsu, China  
 
 

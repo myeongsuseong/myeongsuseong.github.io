@@ -15,8 +15,8 @@ BSIT welcomes highly-motivated researchers or students with various academic bac
 In the meantime, BSIT is interested in initiating multi-disciplinary collaborations (either medical or non-medical related), if you think we can do collaborative works or would like to discuss possible collaborative projects, please reach out to Dr. Seong via email (myeongsu.seong__at__xjtlu.edu.cn).
 
 
-News
+Latest events and news
 ======
-* Biomedical Signal, Imaging, and Therapeutics Laboratory (BSIT) is launched on August 15, 2023.
+* Biomedical Signal, Imaging, and Therapeutics Laboratory (BSIT) is launched in August 8, 2023.
 
-* Dr. Myeongsu Seong joins Department of Mechatronics and Robotics, School of Advanced Technology, Xi'an Jiaotong-Liverpool University (XJTLU) as an Assistant Professor on August 15, 2023.
+* Dr. Myeongsu Seong joins Department of Mechatronics and Robotics, School of Advanced Technology, XJTLU as an Assistant Professor in August 8, 2023.
