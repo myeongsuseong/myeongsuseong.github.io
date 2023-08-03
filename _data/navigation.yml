@@ -11,6 +11,9 @@ main:
 
   - title: "Talks"
     url: /talks/
+    
+  - title: "Events and news"
+    url: /events_and_news/
 
   - title: "Teaching"
     url: /teaching/

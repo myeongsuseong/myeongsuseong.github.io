@@ -2,7 +2,7 @@
 layout: archive
 title: "Events and news"
 permalink: /events_and_news/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
