@@ -17,6 +17,6 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
-* Biomedical Signal, Imaging, and Therapeutics Laboratory (BSIT) is launched in August 8, 2023.
+* Biomedical Signal, Imaging, and Therapeutics Laboratory (BSIT) is launched on August 8, 2023.
 
-* Dr. Myeongsu Seong joins Department of Mechatronics and Robotics, School of Advanced Technology, XJTLU as an Assistant Professor in August 8, 2023.
+* Dr. Myeongsu Seong joins Department of Mechatronics and Robotics, School of Advanced Technology, XJTLU as an Assistant Professor on August 8, 2023.
