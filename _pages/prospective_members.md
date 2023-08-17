@@ -27,7 +27,7 @@ It would be best if you have more than three of the relevant experiences listed 
 1. knowledge and hands-on-experiences in fiber optics/optics and/or acoustics
 1. knowledge and hands-on-experiences in electronics, microprocessors (e.g., Arduino), and/or mechatronic/robotic systems
 1. knowledge and/or experience in signal/image processing
-1. experiences in cell animal, and/or human experiments
+1. experiences in cell, animal, and/or human experiments
 1. experiences in simulation tools
 1. experiences in machine learning (e.g., Scikit-learn or machine learning toolbox in MATLAB) and/or deep learning (e.g., Keras, TensorFlow, PyTorch, and/or Fast.ai)
 1. prior research experience (e.g., preparation of a manuscript of a research article or conference proceeding)
