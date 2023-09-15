@@ -10,7 +10,7 @@ After XJTLU
 ------
 Peer-reviewed publications
 1. Hyeryun Jeong, **Myeongsu Seong**^, Kwangsung Park, and Jae Gwan Kim "Evaluation of female sexual arousal response using optical techniques: a mini-review," (in preparation)
-1. Semere Asefa, Sangmin Shim, **Myeongsu Seong**#, Dasol Lee# "Chiral metasurfaces: a review of the fundamentals and research advances," Sensors (accepted for publication), 2023
+1. Semere Asefa, Sangmin Shim, **Myeongsu Seong**#, Dasol Lee# "Chiral metasurfaces: a review of the fundamentals and research advances," Applied Sciences (accepted for publication), 2023
 1. **Myeongsu Seong**# "Comparison of numerical-integration-based methods for blood flow estimation in diffuse correlation spectroscopy," Computer Methods and Programs in Biomedicine 241, 107766, 2023
 
 ^: co-first; #: corresponding author(s)
