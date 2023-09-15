@@ -17,7 +17,7 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
-* Dr. Seong gives a short presentation on September 20, 2023 at 2023 SAT Research and Industry Day organized by the School of Advanced Technology, XJTLU.
+* Dr. Seong gives a short presentation at 2023 SAT Research and Industry Day organized by the School of Advanced Technology, XJTLU on September 20, 2023.
 
 * A review article manuscript titled "Chiral metasurfaces: a review of the fundamentals and research advances" has been accepted for publication in Applied Sciences (impact factor 2.7) on September 15, 2023. This work was done with the team of Dr. Dasol Lee at Yonsei University, Korea. Dr. Seong participated in the work as a co-corresponding author.
 
