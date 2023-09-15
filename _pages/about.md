@@ -19,9 +19,9 @@ Latest events and news
 ======
 * Dr. Seong give a short presentation on September 20, 2023 at 2023 SAT Research and Industrial Day organized by the School of Advanced Technology, XJTLU.
 
-* A review article titled "Chiral metasurfaces: a review of the fundamentals and research advances" has been accpeted for publication in Sensors (impact factor 3.9) on September 15, 2023. This work was done with the team of Dr. Dasol Lee at Yonsei University, Korea. Dr. Seong participated in the work as a co-corresponding author.
+* A review article manuscript titled "Chiral metasurfaces: a review of the fundamentals and research advances" has been accpeted for publication in Sensors (impact factor 3.9) on September 15, 2023. This work was done with the team of Dr. Dasol Lee at Yonsei University, Korea. Dr. Seong participated in the work as a co-corresponding author.
 
-* A research article titled "Comparison of numerical-integration-based methods for blood flow estimation in diffuse correlation spectroscopy" by Dr. Seong has been accepted for publication in Computer Methods and Programs in Biomedicine (impact factor: 6.1; journal impact factor ranking: 15/111 (within 13.1%) in computer science, theory & methods category) on August 14, 2023.
+* A research article manuscript titled "Comparison of numerical-integration-based methods for blood flow estimation in diffuse correlation spectroscopy" by Dr. Seong has been accepted for publication in Computer Methods and Programs in Biomedicine (impact factor: 6.1; journal impact factor ranking: 15/111 (within 13.1%) in computer science, theory & methods category) on August 14, 2023.
 
 * Biomedical Signal, Imaging, and Therapeutics Laboratory (BSIT) is launched on August 8, 2023.
 
