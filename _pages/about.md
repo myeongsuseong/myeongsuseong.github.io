@@ -19,6 +19,10 @@ Latest events and news
 ======
 * Dr. Seong gives a short presentation at 2023 SAT Research and Industry Day organized by the School of Advanced Technology, XJTLU on September 20, 2023.
 
+* Chang Liu, Guorui Xu, Hao Zhong, Tobias Gilbert Jusmin, and Haiyang Li joined the Lab for their bachelor's final year project (FYP). Welcome aboard Chang, Guorui, Hao, Tobias, and Haiyang!
+
+* Siying Lyu joined the Lab for her master's final year project (FMP). Welcome aboard Siying!
+
 * A review article manuscript titled "Chiral metasurfaces: a review of the fundamentals and research advances" has been accepted for publication in Applied Sciences (impact factor 2.7) on September 15, 2023. This work was done with the team of Dr. Dasol Lee at Yonsei University, Korea. Dr. Seong participated in the work as a co-corresponding author.
 
 * A research article manuscript titled "Comparison of numerical-integration-based methods for blood flow estimation in diffuse correlation spectroscopy" by Dr. Seong has been accepted for publication in Computer Methods and Programs in Biomedicine (impact factor: 6.1; journal impact factor ranking: 15/111 (within 13.1%) in computer science, theory & methods category) on August 14, 2023.
