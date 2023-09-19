@@ -8,7 +8,7 @@ author_profile: false
 Principal investigator
 ------
 Dr. Myeongsu Seong    
-<img src="https://myeongsuseong.github.io/images/myeongsu_seong.png" width="400" height="400">  
+<img src="https://myeongsuseong.github.io/images/myeongsu_seong.png" width="300" height="300">  
 [CV (HTML)](https://myeongsuseong.github.io/cv) [CV (PDF)](https://myeongsuseong.github.io/files/MyeongsuSeong_CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=UE6g5hoAAAAJ&hl=en) [Researchgate](https://www.researchgate.net/profile/Myeongsu-Seong)  
 Office address: EB324, Xi'an Jiaotong-Liverpool University, Suzhou Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou 215123, China     
 Phone: +86 (0)512-89173951
@@ -17,37 +17,37 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 Current members
 ------
-**Master's student**
-Siying Lyu
-Photo
-Email: Siying.Lyu22__at__student.xjtlu.edu.cn
+**Master's student**  
+Siying Lyu  
+Photo  
+Email: Siying.Lyu22__at__student.xjtlu.edu.cn  
 Program: MSc Financial Computing
 
-**Bachelor's student**
-Chang Liu
-Photo
-Email: Chang.Liu2002__at__student.xjtlu.edu.cn
-Program: BEng Digital Media Technology
+**Bachelor's student**  
+Chang Liu  
+Photo  
+Email: Chang.Liu2002__at__student.xjtlu.edu.cn  
+Program: BEng Digital Media Technology  
 
-Guorui Xu
-Photo
-Email: Guorui.Xu18__at__student.xjtlu.edu.cn
-Program: BEng Electronic Science and Technology
+Guorui Xu  
+Photo  
+Email: Guorui.Xu18__at__student.xjtlu.edu.cn  
+Program: BEng Electronic Science and Technology  
 
-Hao Zhong
-Photo
-Email: Hao.Zhong20__at__student.xjtlu.edu.cn
-Program: BEng Digital Media Technology
+Hao Zhong  
+Photo  
+Email: Hao.Zhong20__at__student.xjtlu.edu.cn  
+Program: BEng Digital Media Technology  
 
-Tobias Gilbert Jusmin
-Photo
-Email: T.Jusmin2002__at__student.xjtlu.edu.cn
-Program: BEng Mechatronics and Robotic systems
+Tobias Gilbert Jusmin  
+Photo  
+Email: T.Jusmin2002__at__student.xjtlu.edu.cn  
+Program: BEng Mechatronics and Robotic systems  
 
-Haiyang Li
-Photo
-Email: Haiyang.Li19__at__student.xjtlu.edu.cn
-Program: BEng Electronic Science and Technology
+Haiyang Li  
+Photo  
+Email: Haiyang.Li19__at__student.xjtlu.edu.cn  
+Program: BEng Electronic Science and Technology  
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 
