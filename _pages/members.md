@@ -25,17 +25,17 @@ Program: MSc Financial Computing
 
 **Bachelor's student**  
 Chang Liu  
-Photo  
+<img src="https://myeongsuseong.github.io/images/chang_liu.png" width="300" height="300">  
 Email: Chang.Liu2002__at__student.xjtlu.edu.cn  
 Program: BEng Digital Media Technology  
 
 Guorui Xu  
-Photo  
+<img src="https://myeongsuseong.github.io/images/guorui_xu.png" width="300" height="300">   
 Email: Guorui.Xu18__at__student.xjtlu.edu.cn  
 Program: BEng Electronic Science and Technology  
 
 Hao Zhong  
-Photo  
+<img src="https://myeongsuseong.github.io/images/hao_zhong.png" width="300" height="300">  
 Email: Hao.Zhong20__at__student.xjtlu.edu.cn  
 Program: BEng Digital Media Technology  
 
@@ -45,7 +45,7 @@ Email: T.Jusmin2002__at__student.xjtlu.edu.cn
 Program: BEng Mechatronics and Robotic systems  
 
 Haiyang Li  
-Photo  
+<img src="https://myeongsuseong.github.io/images/haiyang_li.png" width="300" height="300">  
 Email: Haiyang.Li19__at__student.xjtlu.edu.cn  
 Program: BEng Electronic Science and Technology  
 
