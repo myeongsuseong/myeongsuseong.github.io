@@ -16,13 +16,15 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 ## Current members
 
-***Master's student***  
+***Master's student***   
+   
 Photo  
 **Siying Lyu**   
 Email: Siying.Lyu22__at__student.xjtlu.edu.cn  
 Program: MSc Financial Computing
 
 ***Bachelor's student***   
+
 <img src="https://myeongsuseong.github.io/images/chang_liu.png" width="300" height="300">   
 **Chang Liu**  
 Email: Chang.Liu2002__at__student.xjtlu.edu.cn  
