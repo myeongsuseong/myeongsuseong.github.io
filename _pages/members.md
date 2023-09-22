@@ -16,24 +16,24 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 ## Current members
 
-### Master's student  
+***Master's student***  
 Photo  
 **Siying Lyu**   
 Email: Siying.Lyu22__at__student.xjtlu.edu.cn  
 Program: MSc Financial Computing
 
-### Bachelor's student   
-<img src="https://myeongsuseong.github.io/images/chang_liu.png" width="300" height="300">
+***Bachelor's student***   
+<img src="https://myeongsuseong.github.io/images/chang_liu.png" width="300" height="300">   
 **Chang Liu**  
 Email: Chang.Liu2002__at__student.xjtlu.edu.cn  
 Program: BEng Digital Media Technology    
 
-<img src="https://myeongsuseong.github.io/images/guorui_xu.png" width="300" height="300">
+<img src="https://myeongsuseong.github.io/images/guorui_xu.png" width="300" height="300">   
 **Guorui Xu**   
 Email: Guorui.Xu18__at__student.xjtlu.edu.cn  
 Program: BEng Electronic Science and Technology  
 
-<img src="https://myeongsuseong.github.io/images/hao_zhong.png" width="300" height="300">  
+<img src="https://myeongsuseong.github.io/images/hao_zhong.png" width="300" height="300">     
 **Hao Zhong**    
 Email: Hao.Zhong20__at__student.xjtlu.edu.cn  
 Program: BEng Digital Media Technology  
@@ -43,7 +43,7 @@ Photo
 Email: T.Jusmin2002__at__student.xjtlu.edu.cn  
 Program: BEng Mechatronics and Robotic systems  
 
-<img src="https://myeongsuseong.github.io/images/haiyang_li.png" width="300" height="300">   
+<img src="https://myeongsuseong.github.io/images/haiyang_li.png" width="300" height="300">      
 **Haiyang Li**     
 Email: Haiyang.Li19__at__student.xjtlu.edu.cn  
 Program: BEng Electronic Science and Technology  
