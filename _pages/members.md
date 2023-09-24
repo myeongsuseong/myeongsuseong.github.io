@@ -17,38 +17,44 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 ## Current members
 
 ***Master's student***   
-   
+
 Photo  
 **Siying Lyu**   
 Email: Siying.Lyu22__at__student.xjtlu.edu.cn  
-Program: MSc Financial Computing
+Program: MSc Financial Computing (3rd semester)
 
 ***Bachelor's student***   
 
 <img src="https://myeongsuseong.github.io/images/chang_liu.png" width="300" height="300">   
-**Chang Liu**  
+**Chang Liu**
 Email: Chang.Liu2002__at__student.xjtlu.edu.cn  
-Program: BEng Digital Media Technology    
+Program: BEng Digital Media Technology (7th semester)   
 
 <img src="https://myeongsuseong.github.io/images/guorui_xu.png" width="300" height="300">   
-**Guorui Xu**   
+**Guorui Xu**    
 Email: Guorui.Xu18__at__student.xjtlu.edu.cn  
-Program: BEng Electronic Science and Technology  
+Program: BEng Electronic Science and Technology (7th semester)     
 
 <img src="https://myeongsuseong.github.io/images/hao_zhong.png" width="300" height="300">     
-**Hao Zhong**    
+**Hao Zhong**         
 Email: Hao.Zhong20__at__student.xjtlu.edu.cn  
-Program: BEng Digital Media Technology  
+Program: BEng Digital Media Technology (7th semester)     
 
-Photo   
-**Tobias Gilbert Jusmin**      
+<img src="https://myeongsuseong.github.io/images/tobias-jusmin.png" width="300" height="300">     
+**Tobias Gilbert Jusmin**        
 Email: T.Jusmin2002__at__student.xjtlu.edu.cn  
-Program: BEng Mechatronics and Robotic systems  
+Program: BEng Mechatronics and Robotic systems (7th semester)     
 
 <img src="https://myeongsuseong.github.io/images/haiyang_li.png" width="300" height="300">      
-**Haiyang Li**     
+**Haiyang Li**       
 Email: Haiyang.Li19__at__student.xjtlu.edu.cn  
-Program: BEng Electronic Science and Technology  
+Program: BEng Electronic Science and Technology (7th semester)   
+
+Photo   
+**Wenzhe Shi**      
+Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
+Program: BEng Telecommunications Engineering (5th semester)     
+
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 
