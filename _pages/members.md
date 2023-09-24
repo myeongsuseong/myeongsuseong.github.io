@@ -26,7 +26,7 @@ Program: MSc Financial Computing (3rd semester)
 ***Bachelor's student***   
 
 <img src="https://myeongsuseong.github.io/images/chang_liu.png" width="300" height="300">   
-**Chang Liu**
+**Chang Liu**   
 Email: Chang.Liu2002__at__student.xjtlu.edu.cn  
 Program: BEng Digital Media Technology (7th semester)   
 
