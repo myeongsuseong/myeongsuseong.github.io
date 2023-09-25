@@ -50,7 +50,7 @@ Program: BEng Mechatronics and Robotic systems (7th semester)
 Email: Haiyang.Li19__at__student.xjtlu.edu.cn  
 Program: BEng Electronic Science and Technology (7th semester)   
 
-Photo   
+<img src="https://myeongsuseong.github.io/images/wenzhe-shi.png" width="300" height="300">     
 **Wenzhe Shi**      
 Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
 Program: BEng Telecommunications Engineering (5th semester)     
