@@ -16,7 +16,12 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 ## Current members
 
-***Master's student***   
+***Master's student***  
+
+Photo  
+**Xingqian (Boray) Wang**   
+Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
+Program: MSc Multimedia Telecommunications (1st semester)
 
 Photo  
 **Siying Lyu**   
