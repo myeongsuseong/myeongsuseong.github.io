@@ -9,6 +9,8 @@ author_profile: false
 
 2023
 -----
+* Dr. Seong gives an invited talk at International Bimedical Engineering Conference (IBEC) 2023 organized by the Korean Society of Medical and Biological Engineering (KOSOMBE) on November 10, 2023 in Korea. 
+
 * Xingqian (Boray) Wang joins the Lab aiming to utilize his skills in software and hardware in biomedical engineering (and biomedical optics) on October 23, 2023. Welcome aboard Xingqian!
 
 * Wenzhe Shi joins the Lab for learning about biomedical engineering (and biomedical optics) on September 23, 2023. Welcome aboard Wenzhe!
