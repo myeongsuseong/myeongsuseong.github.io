@@ -23,8 +23,9 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
 Program: MSc Multimedia Telecommunications (1st semester)   
 
-<img src="https://myeongsuseong.github.io/images/siying-lyu.png" width="300" height="300">   
-Email: Siying.Lyu22__at__student.xjtlu.edu.cn  
+<img src="https://myeongsuseong.github.io/images/siying-lyu.png" width="300" height="300">
+**Siying Lyu**      
+Email: Siying.Lyu22__at__student.xjtlu.edu.cn   
 Program: MSc Financial Computing (3rd semester)
 
 ***Bachelor's student***   
