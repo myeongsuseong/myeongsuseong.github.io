@@ -7,10 +7,6 @@ author_profile: false
 
 {% include base_path %}
 
-2024
------
-* Dr. Seong participated in the Biannual Workshop of the Neurophotonics lab. at Gwangju Institute of Science and Technology, Korea led by Prof. Euiheon Chung as a reviewer of the presentations of the Lab. members on February 7, 2024.    
-
 2023
 -----
 * Zhenxu Gao joins the Lab to gain a research experience in BSIT on November 20, 2023. Welcome aboard Zhenxu!
