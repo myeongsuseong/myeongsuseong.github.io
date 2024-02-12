@@ -9,8 +9,9 @@ author_profile: true
 After XJTLU
 ------
 Peer-reviewed publications
-1. Zhe Li, Hua Zhang#, Lei Sheng, Kaifei Nong, Kailong Wang, Zilong Wang, Zhendong Zhang, **Myeongsu Seong** "Simulation and experimental study on thermal management of small cylindrical lithium-ion battery module based on immersion cooling," (submitted)
-1. Hyeryun Jeong, **Myeongsu Seong**^, Kwangsung Park#, and Jae Gwan Kim# "Evaluation of female sexual arousal response using optical techniques: a mini-review," (submitted)
+1. Nan Wan^, Guo Chen^, Sung-Liang Chen# **Myeongsu Seong**# "Sensing of the change of triglyceride concentration in blood solution using diffuse optical spectroscopy (tentative title)," (in preparation)
+1. Zhe Li, Hua Zhang#, Lei Sheng, Kaifei Nong, Kailong Wang, Zilong Wang, Zhendong Zhang, **Myeongsu Seong** "Simulation and experimental study on thermal management of small cylindrical lithium-ion battery module based on immersion cooling," (Major revision)
+1. Hyeryun Jeong, **Myeongsu Seong**^, Kwangsung Park#, and Jae Gwan Kim# "Evaluation of female sexual arousal response using optical techniques: a mini-review," (in preparation)
 1. Semere Asefa, Sangmin Shim, **Myeongsu Seong**#, Dasol Lee# "Chiral metasurfaces: a review of the fundamentals and research advances," Applied Sciences 13(19), 10590, 2023
 1. **Myeongsu Seong**# "Comparison of numerical-integration-based methods for blood flow estimation in diffuse correlation spectroscopy," Computer Methods and Programs in Biomedicine 241, 107766, 2023
 

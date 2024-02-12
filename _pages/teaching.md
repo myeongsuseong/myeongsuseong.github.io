@@ -7,6 +7,7 @@ author_profile: false
 
 After XJTLU
 ------
+* SAT006 Foundations of Computer Science and Engineering (co-teaching), AY2324-semester 1   
 
 Before XJTLU
 ------
