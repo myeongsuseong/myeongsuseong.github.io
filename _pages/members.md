@@ -21,51 +21,44 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 <img src="https://myeongsuseong.github.io/images/xingqian-wang.png" width="300" height="300">   
 **Xingqian (Boray) Wang**   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
-Program: MSc in Multimedia Telecommunications (1st semester)   
+Program: MSc in Multimedia Telecommunications (2nd semester)   
 
 <img src="https://myeongsuseong.github.io/images/siying-lyu.png" width="300" height="300">    
 **Siying Lyu**      
 Email: Siying.Lyu22__at__student.xjtlu.edu.cn   
 Program: MSc in Financial Computing (3rd semester)
 
-***Fresh bachelor graduate***   
-
-<img src="https://myeongsuseong.github.io/images/zhenxu-gao.png" width="300" height="300">    
-**Zhenxu Gao**      
-Email: Zhenxu.Gao19__at__alumni.xjtlu.edu.cn   
-BSc in Information and Computing Science    
-
 ***Bachelor's student***   
 
 <img src="https://myeongsuseong.github.io/images/chang_liu.png" width="300" height="300">   
 **Chang Liu**   
 Email: Chang.Liu2002__at__student.xjtlu.edu.cn  
-Program: BEng in Digital Media Technology (7th semester)   
+Program: BEng in Digital Media Technology (8th semester)   
 
 <img src="https://myeongsuseong.github.io/images/guorui_xu.png" width="300" height="300">   
 **Guorui Xu**    
 Email: Guorui.Xu18__at__student.xjtlu.edu.cn  
-Program: BEng in Electronic Science and Technology (7th semester)     
+Program: BEng in Electronic Science and Technology (8th semester)     
 
 <img src="https://myeongsuseong.github.io/images/hao_zhong.png" width="300" height="300">     
 **Hao Zhong**         
 Email: Hao.Zhong20__at__student.xjtlu.edu.cn  
-Program: BEng in Digital Media Technology (7th semester)     
+Program: BEng in Digital Media Technology (8th semester)     
 
 <img src="https://myeongsuseong.github.io/images/tobias-jusmin.png" width="300" height="300">     
 **Tobias Gilbert Jusmin**        
 Email: T.Jusmin2002__at__student.xjtlu.edu.cn  
-Program: BEng in Mechatronics and Robotic systems (7th semester)     
+Program: BEng in Mechatronics and Robotic systems (8th semester)     
 
 <img src="https://myeongsuseong.github.io/images/haiyang_li.png" width="300" height="300">      
 **Haiyang Li**       
 Email: Haiyang.Li19__at__student.xjtlu.edu.cn  
-Program: BEng in Electronic Science and Technology (7th semester)   
+Program: BEng in Electronic Science and Technology (8th semester)   
 
 <img src="https://myeongsuseong.github.io/images/wenzhe-shi.png" width="300" height="300">     
 **Wenzhe Shi**      
 Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (5th semester)     
+Program: BEng in Telecommunications Engineering (6th semester)     
 
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
@@ -73,4 +66,4 @@ We are looking forward to working with you! Please check the section of [Prospec
 
 Previous members
 ------
-TBA
+Zhenxu Gao, last known position: unknown.
