@@ -17,6 +17,8 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
+* A research article manuscript titled "Liquid-immersed thermal management to cylindrical lithium-ion batteries for their pack applications" that Dr. Seong participated as a co-author has been accepted for publication by Journal of Energy Storage on February 21, 2024. 
+
 * Dr. Seong participated in the Biannual Workshop of the Neurophotonics lab. at Gwangju Institute of Science and Technology, Korea led by Prof. Euiheon Chung as a reviewer of the presentations of the Lab. members on February 7, 2024.   
 
 * Zhenxu Gao joins the Lab to gain a research experience in BSIT on November 20, 2023. Welcome aboard Zhenxu!
@@ -26,5 +28,3 @@ Latest events and news
 * Xingqian (Boray) Wang joins the Lab aiming to utilize his skills in software and hardware in biomedical engineering (and biomedical optics) on October 23, 2023. Welcome aboard Xingqian!
 
 * Wenzhe Shi joins the Lab for learning about biomedical engineering (and biomedical optics) on September 23, 2023. Welcome aboard Wenzhe!
-
-* Dr. Seong gives a short presentation at 2023 SAT Research and Industry Day organized by the School of Advanced Technology, XJTLU on September 20, 2023.
