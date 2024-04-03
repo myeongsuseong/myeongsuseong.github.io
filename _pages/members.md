@@ -58,8 +58,12 @@ Program: BEng in Electronic Science and Technology (8th semester)
 <img src="https://myeongsuseong.github.io/images/wenzhe-shi.png" width="300" height="300">     
 **Wenzhe Shi**      
 Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (6th semester)     
+Program: BEng in Telecommunications Engineering (6th semester)   
 
+
+**Jingxuan Qian**      
+Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
+Program: BEng in Telecommunications Engineering (4th semester)     
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 
