@@ -60,7 +60,7 @@ Program: BEng in Electronic Science and Technology (8th semester)
 Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering (6th semester)   
 
-<img src="https://myeongsuseong.github.io/images/jignxuan-qian.png" width="300" height="300">   
+<img src="https://myeongsuseong.github.io/images/jingxuan-qian.png" width="300" height="300">   
 **Jingxuan Qian**      
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering (4th semester)     
