@@ -7,7 +7,7 @@ author_profile: false
 
 After XJTLU
 ------
-* MEC104 Experimental, Computer Skills and Sustainability (co-teaching, teaching MATLAB and Sustainability), AY2324-semester 2   
+* MEC104 Experimental, Computer Skills and Sustainability (co-teaching), AY2324-semester 2   
 
 * SAT006 Foundations of Computer Science and Engineering (co-teaching), AY2324-semester 1   
 
