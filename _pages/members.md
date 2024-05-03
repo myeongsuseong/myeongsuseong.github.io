@@ -23,10 +23,6 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
 Program: MSc in Multimedia Telecommunications (2nd semester)   
 
-<img src="https://myeongsuseong.github.io/images/siying-lyu.png" width="300" height="300">    
-**Siying Lyu**      
-Email: Siying.Lyu22__at__student.xjtlu.edu.cn   
-Program: MSc in Financial Computing (3rd semester)
 
 ***Bachelor's student***   
 
@@ -70,4 +66,5 @@ We are looking forward to working with you! Please check the section of [Prospec
 
 Previous members
 ------
+Siying Lyu (MSc), April 2024, last known position: unknown.
 Zhenxu Gao, last known position: unknown.
