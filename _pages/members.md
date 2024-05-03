@@ -66,5 +66,5 @@ We are looking forward to working with you! Please check the section of [Prospec
 
 Previous members
 ------
-Siying Lyu (MSc), April 2024, last known position: unknown.
+Siying Lyu (MSc), April 2024, last known position: unknown.   
 Zhenxu Gao, last known position: unknown.
