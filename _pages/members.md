@@ -16,55 +16,75 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 ## Current members
 
+***PhD student***     
+TBA   
+
 ***Master's student***  
 
-<img src="https://myeongsuseong.github.io/images/xingqian-wang.png" width="300" height="300">   
 **Xingqian (Boray) Wang**   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
 Program: MSc in Multimedia Telecommunications (2nd semester)   
 
 
-***Bachelor's student***   
+***Undergraduate student***   
 
-<img src="https://myeongsuseong.github.io/images/chang_liu.png" width="300" height="300">   
 **Chang Liu**   
 Email: Chang.Liu2002__at__student.xjtlu.edu.cn  
 Program: BEng in Digital Media Technology (8th semester)   
+Doing the final year project in the Lab.      
 
-<img src="https://myeongsuseong.github.io/images/guorui_xu.png" width="300" height="300">   
 **Guorui Xu**    
 Email: Guorui.Xu18__at__student.xjtlu.edu.cn  
-Program: BEng in Electronic Science and Technology (8th semester)     
+Program: BEng in Electronic Science and Technology (8th semester)   
+Doing the final year project in the Lab.      
 
-<img src="https://myeongsuseong.github.io/images/hao_zhong.png" width="300" height="300">     
 **Hao Zhong**         
 Email: Hao.Zhong20__at__student.xjtlu.edu.cn  
-Program: BEng in Digital Media Technology (8th semester)     
+Program: BEng in Digital Media Technology (8th semester)   
+Doing the final year project in the Lab.      
 
-<img src="https://myeongsuseong.github.io/images/tobias-jusmin.png" width="300" height="300">     
 **Tobias Gilbert Jusmin**        
 Email: T.Jusmin2002__at__student.xjtlu.edu.cn  
-Program: BEng in Mechatronics and Robotic systems (8th semester)     
+Program: BEng in Mechatronics and Robotic systems (8th semester)   
+Doing the final year project in the Lab.         
 
-<img src="https://myeongsuseong.github.io/images/haiyang_li.png" width="300" height="300">      
 **Haiyang Li**       
 Email: Haiyang.Li19__at__student.xjtlu.edu.cn  
 Program: BEng in Electronic Science and Technology (8th semester)   
+Doing the final year project in the Lab.       
 
-<img src="https://myeongsuseong.github.io/images/wenzhe-shi.png" width="300" height="300">     
 **Wenzhe Shi**      
 Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering (6th semester)   
 
-<img src="https://myeongsuseong.github.io/images/jingxuan-qian.png" width="300" height="300">   
 **Jingxuan Qian**      
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (4th semester)     
+Program: BEng in Telecommunications Engineering (4th semester)
+
+**Eunyong Lee**
+Email: E.Lee1802__at__student.xjtlu.edu.cn   
+Program: BEng in Mechatronics and Robotic systems (6th semester)      
+Doing the summer undergraduate research fellowship (SURF) in the Lab.   
+
+**Xiangru Feng**
+Email: Xiangru.Feng22__at__student.xjtlu.edu.cn   
+Program: BEng in Mechatronics and Robotic systems (4th semester)   
+Doing the summer undergraduate research fellowship (SURF) in the Lab.   
+
+**Haoran Xu**
+Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
+Program: BEng in Electronic Science and Technology (4th semester)      
+Doing the summer undergraduate research fellowship (SURF) in the Lab.   
+
+**Ruiyu Luo**
+Email: Ruiyu.Luo22__at__student.xjtlu.edu.cn   
+Program: BEng in Electrical Engineering (4th semester)      
+Doing the summer undergraduate research fellowship (SURF) in the Lab.    
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 
 
 Previous members
 ------
-Siying Lyu (MSc), April 2024, last known position: unknown.   
-Zhenxu Gao, last known position: unknown.
+Siying Lyu (MSc in Financial Computing, completed the master's degree in the Lab), April 2024.     
+Zhenxu Gao.   

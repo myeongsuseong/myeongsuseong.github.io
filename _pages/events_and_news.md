@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2024
 -----
+* Eunyong, Xiangru, Haoran, and Ruiyu participate in the summer undergraduate research fellowship (SURF) suggested by Dr. Seong in summer 2024. Welcome all!     
+
 * Jingxuan Qian joins the Lab to gain a research experience in BSIT on April 2, 2024. Welcome aboard Jingxuan!   
 
 * A research article manuscript titled "Liquid-immersed thermal management to cylindrical lithium-ion batteries for their pack applications" that Dr. Seong participated as a co-author has been accepted for publication by Journal of Energy Storage on February 21, 2024.
