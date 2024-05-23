@@ -61,25 +61,25 @@ Program: BEng in Telecommunications Engineering (6th semester)
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering (4th semester)
 
-**Eunyong Lee**
+**Eunyong Lee**   
 Email: E.Lee1802__at__student.xjtlu.edu.cn   
 Program: BEng in Mechatronics and Robotic systems (6th semester)      
-Doing the summer undergraduate research fellowship (SURF) in the Lab.   
+Doing SURF in the Lab.   
 
-**Xiangru Feng**
+**Xiangru Feng**   
 Email: Xiangru.Feng22__at__student.xjtlu.edu.cn   
 Program: BEng in Mechatronics and Robotic systems (4th semester)   
-Doing the summer undergraduate research fellowship (SURF) in the Lab.   
+Doing SURF in the Lab.   
 
-**Haoran Xu**
+**Haoran Xu**   
 Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
 Program: BEng in Electronic Science and Technology (4th semester)      
-Doing the summer undergraduate research fellowship (SURF) in the Lab.   
+Doing SURF in the Lab.   
 
-**Ruiyu Luo**
+**Ruiyu Luo**   
 Email: Ruiyu.Luo22__at__student.xjtlu.edu.cn   
 Program: BEng in Electrical Engineering (4th semester)      
-Doing the summer undergraduate research fellowship (SURF) in the Lab.    
+Doing SURF in the Lab.    
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 
@@ -87,4 +87,4 @@ We are looking forward to working with you! Please check the section of [Prospec
 Previous members
 ------
 Siying Lyu (MSc in Financial Computing, completed the master's degree in the Lab), April 2024.     
-Zhenxu Gao.   
+Zhenxu Gao (BSc in Information and Computing Science).   

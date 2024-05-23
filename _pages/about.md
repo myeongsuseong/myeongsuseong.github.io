@@ -17,7 +17,7 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
-* Eunyong, Xiangru, Haoran, and Ruiyu participate in the summer undergraduate research fellowship (SURF) suggested by Dr. Seong in summer 2024. Welcome all!     
+* Eunyong Lee, Xiangru Feng, Haoran Xu, and Ruiyu Luo participate in the summer undergraduate research fellowship (SURF) suggested by Dr. Seong in summer 2024. Welcome all!     
 
 * Jingxuan Qian joins the Lab to gain a research experience in BSIT on April 2, 2024. Welcome aboard Jingxuan!   
 
