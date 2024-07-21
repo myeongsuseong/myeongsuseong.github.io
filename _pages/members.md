@@ -17,7 +17,7 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 ## Current members
 
 ***PhD student***   
-         
+
 TBA   
 
 ***Master's student***     
@@ -56,6 +56,16 @@ Doing SURF in the Lab.
 Email: Ruiyu.Luo22__at__student.xjtlu.edu.cn   
 Program: BEng in Electrical Engineering (4th semester)      
 Doing SURF in the Lab.    
+
+**Mingjian Jia**   
+Email: Mingjian.Jia23__at__student.xjtlu.edu.cn   
+Program: BEng in Mechatronics and Robotic Systems (2nd semester)      
+Volunteering SURF in the Lab.   
+
+**Yihai Hu**   
+Email: Yihai.Hu23__at__student.xjtlu.edu.cn   
+Program: BEng in Electronic Science and Technology (2nd semester)      
+Volunteering SURF in the Lab.
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 
