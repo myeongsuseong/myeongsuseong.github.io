@@ -16,10 +16,11 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 ## Current members
 
-***PhD student***     
+***PhD student***   
+         
 TBA   
 
-***Master's student***  
+***Master's student***     
 
 **Xingqian (Boray) Wang**   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
@@ -27,31 +28,6 @@ Program: MSc in Multimedia Telecommunications (2nd semester)
 
 
 ***Undergraduate student***   
-
-**Chang Liu**   
-Email: Chang.Liu2002__at__student.xjtlu.edu.cn  
-Program: BEng in Digital Media Technology (8th semester)   
-Doing the final year project in the Lab.      
-
-**Guorui Xu**    
-Email: Guorui.Xu18__at__student.xjtlu.edu.cn  
-Program: BEng in Electronic Science and Technology (8th semester)   
-Doing the final year project in the Lab.      
-
-**Hao Zhong**         
-Email: Hao.Zhong20__at__student.xjtlu.edu.cn  
-Program: BEng in Digital Media Technology (8th semester)   
-Doing the final year project in the Lab.      
-
-**Tobias Gilbert Jusmin**        
-Email: T.Jusmin2002__at__student.xjtlu.edu.cn  
-Program: BEng in Mechatronics and Robotic systems (8th semester)   
-Doing the final year project in the Lab.         
-
-**Haiyang Li**       
-Email: Haiyang.Li19__at__student.xjtlu.edu.cn  
-Program: BEng in Electronic Science and Technology (8th semester)   
-Doing the final year project in the Lab.       
 
 **Wenzhe Shi**      
 Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
@@ -86,5 +62,47 @@ We are looking forward to working with you! Please check the section of [Prospec
 
 Previous members
 ------
-Siying Lyu (MSc in Financial Computing, completed the master's degree in the Lab), April 2024.     
-Zhenxu Gao (BSc in Information and Computing Science).   
+***PhD student***   
+
+TBA   
+
+***Master's student***   
+
+**Siying Lyu**
+From September 2023 to April 2024   
+Program: MSc in Financial Computing   
+Completed the master's thesis in the Lab.   
+
+***Undergraduate student***   
+
+**Chang Liu**   
+From September 2023 to July 2024  
+Email: Chang.Liu2002__at__student.xjtlu.edu.cn  
+Program: BEng in Digital Media Technology     
+Completed the final year project in the Lab.   
+
+**Guorui Xu**   
+From September 2023 to July 2024         
+Email: Guorui.Xu18__at__student.xjtlu.edu.cn  
+Program: BEng in Electronic Science and Technology   
+Completed the final year project in the Lab.   
+
+**Hao Zhong**   
+From September 2023 to July 2024              
+Email: Hao.Zhong20__at__student.xjtlu.edu.cn  
+Program: BEng in Digital Media Technology      
+Completed the final year project in the Lab.   
+
+**Tobias Gilbert Jusmin**   
+From September 2023 to July 2024             
+Email: T.Jusmin2002__at__student.xjtlu.edu.cn  
+Program: BEng in Mechatronics and Robotic systems    
+Completed the final year project in the Lab.   
+
+**Haiyang Li**   
+From September 2023 to July 2024            
+Email: Haiyang.Li19__at__student.xjtlu.edu.cn  
+Program: BEng in Electronic Science and Technology     
+Completed the final year project in the Lab.       
+
+**Zhenxu Gao** (BSc in Information and Computing Science).   

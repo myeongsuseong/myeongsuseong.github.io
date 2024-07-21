@@ -61,8 +61,9 @@ Languages
 
 Grants (as principal investigator)
 ------
-* University internal project, SURF-2024-0378, Summer Undergraduate Research Fellowship, 10 weeks, 2024.06 - 2026.08, 6,000 RMB, ongoing, Principal investigator    
-* University internal project, RDF-23-01-119, Research Development Fund, 36 months, 2024.01 - 2026.12, 100,000 RMB, ongoing, Principal investigator   
+* University internal project (XJTLU), FOSA2406037, Postgraduate research fellowship (PGRS), 2024.09 - 2027.08 (tentatively), 297,000 RMB, 3-year tuition fee of a PhD student, Principal investigator   
+* University internal project (XJTLU), SURF-2024-0378, Summer Undergraduate Research Fellowship (SURF), 10 weeks, 2024.06 - 2026.08, 6,000 RMB, ongoing, Principal investigator    
+* University internal project (XJTLU), RDF-23-01-119, Research Development Fund, 36 months, 2024.01 - 2026.12, 100,000 RMB, ongoing, Principal investigator   
 * Provincial project, BK20220603, Jiangsu Young Scientist Fund (江苏省基础研究计划自然科学基金-青年基金项目), 36 months, 2022.07 - 2025.06, 200,000 RMB, ongoing, Principal investigator
 * National project, NRF-2015H1A2A1032268, Development of an optical hemodynamic measurement system and monitoring acute and chronic brain diseases using the developed system (Global Ph.D. Fellowship, 同等国家自然科学基金项目的“优青”), 36 months, 2015.03 - 2018.02 (worked on the project: 2015.03 - 2018.02), approximately 540,000 RMB (90,000,000 Korean Won), completed, Principal investigator  
 

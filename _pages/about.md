@@ -17,12 +17,12 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
+* Postgraduate research fellowship (PGRS, FOSA2406037, value: 297,000 RMB) has been awarded from XJTLU to support the 3-year tuition fee of a PhD student on July 16, 2024.   
+
 * Eunyong Lee, Xiangru Feng, Haoran Xu, and Ruiyu Luo participate in the summer undergraduate research fellowship (SURF) suggested by Dr. Seong in summer 2024. Welcome all!     
 
 * Jingxuan Qian joins the Lab to gain a research experience in BSIT on April 2, 2024. Welcome aboard Jingxuan!   
 
 * A research article manuscript titled "Liquid-immersed thermal management to cylindrical lithium-ion batteries for their pack applications" that Dr. Seong participated as a co-author has been accepted for publication by Journal of Energy Storage on February 21, 2024.
 
-* Dr. Seong participated in the Biannual Workshop of the Neurophotonics lab. at Gwangju Institute of Science and Technology, Korea led by Prof. Euiheon Chung as a reviewer of the presentations of the Lab. members on February 7, 2024.   
-
-* Dr. Seong gives an invited talk at International Biomedical Engineering Conference (IBEC) 2023 organized by the Korean Society of Medical and Biological Engineering (KOSOMBE) on November 10, 2023 in Korea.
+* Dr. Seong participated in the Biannual Workshop of the Neurophotonics lab. at Gwangju Institute of Science and Technology, Korea led by Prof. Euiheon Chung as a reviewer of the presentations of the Lab. members on February 7, 2024.

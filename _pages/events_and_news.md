@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2024
 -----
+* Postgraduate research fellowship (PGRS, FOSA2406037, value: 297,000 RMB) has been awarded from XJTLU to support the 3-year tuition fee of a PhD student on July 16, 2024.    
+
 * Eunyong Lee, Xiangru Feng, Haoran Xu, and Ruiyu Luo participate in the summer undergraduate research fellowship (SURF) suggested by Dr. Seong in summer 2024. Welcome all!   
 
 * Jingxuan Qian joins the Lab to gain a research experience in BSIT on April 2, 2024. Welcome aboard Jingxuan!   
