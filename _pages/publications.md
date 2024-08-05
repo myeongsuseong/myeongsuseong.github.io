@@ -9,8 +9,8 @@ author_profile: true
 After XJTLU
 ------
 Peer-reviewed publications
-
-1. <ins>Hao Zhong</ins> and **Myeongsu Seong**# "speckle imaging for meat monitoring (tentative title)," (in preparation)
+1. Siqi Liang^, Nan Wan^, Wenxuan Pi^, Sung-Liang Chen#, **Myeongsu Seong**# "Stents + PA (tentative title)," (in preparation)     
+1. <ins>Hao Zhong</ins> and **Myeongsu Seong**# "speckle imaging for meat monitoring (tentative title)," (in preparation)   
 1. Jingfei Wen, **Myeongsu Seong**, Sung-Liang Chen# "Low-cost diffuse optical spectroscopy for assisting sclerotherapy: A proof-of-concept study," (submitted)    
 1. Nan Wan^, Guo Chen^, Sung-Liang Chen# **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," (submitted)
 1. Hyeryun Jeong, **Myeongsu Seong**^, Kwangsung Park#, and Jae Gwan Kim# "Evaluation of female sexual arousal response using optical techniques: a mini-review," (submitted)

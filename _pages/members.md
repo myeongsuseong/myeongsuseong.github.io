@@ -20,11 +20,17 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 TBA   
 
+
 ***Master's student***     
 
 **Xingqian (Boray) Wang**   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
 Program: MSc in Multimedia Telecommunications (2nd semester)   
+
+**Yuchen Zhong**   
+Email: Yuchen.Zhong23__at__student.xjtlu.edu.cn  
+Program: MSc in Social Comupting (2nd semester)   
+Co-supervised by Yu Liu (industry supervisor) at Institute of Digital Medical Technology Shanghai Yangtze Delta Innovation Institute, Jiangsu Industrial Technology Research Institute (JITRI)
 
 
 ***Undergraduate student***   
