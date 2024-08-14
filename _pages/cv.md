@@ -65,7 +65,7 @@ Grants (as principal investigator)
 * University internal project (XJTLU), SURF-2024-0378, Summer Undergraduate Research Fellowship (SURF), 10 weeks, 2024.06 - 2026.08, 6,000 RMB, ongoing, Principal investigator    
 * University internal project (XJTLU), RDF-23-01-119, Research Development Fund, 36 months, 2024.01 - 2026.12, 100,000 RMB, ongoing, Principal investigator   
 * Provincial project, BK20220603, Jiangsu Young Scientist Fund (江苏省基础研究计划自然科学基金-青年基金项目), 36 months, 2022.07 - 2025.06, 200,000 RMB, ongoing, Principal investigator
-* National project, NRF-2015H1A2A1032268, Development of an optical hemodynamic measurement system and monitoring acute and chronic brain diseases using the developed system (Global Ph.D. Fellowship, 同等国家自然科学基金项目的“优青”), 36 months, 2015.03 - 2018.02 (worked on the project: 2015.03 - 2018.02), approximately 540,000 RMB (90,000,000 Korean Won), completed, Principal investigator  
+* National project, NRF-2015H1A2A1032268, Development of an optical hemodynamic measurement system and monitoring acute and chronic brain diseases using the developed system (Global Ph.D. Fellowship), 36 months, 2015.03 - 2018.02 (worked on the project: 2015.03 - 2018.02), approximately 540,000 RMB (90,000,000 Korean Won), completed, Principal investigator  
 
 
 Awards/Distinctions
@@ -77,8 +77,35 @@ Awards/Distinctions
 * Best Presentation Award, The 3rd IEEE EMBS International Summer School of Neural Engineering held by the Department of Biomedical Engineering, Shanghai Jiao Tong University, China, 2017.08
 * IT Innovative Idea Award (2016 Qualcomm-GIST Innovation Award), School of Electrical Engineering and Computer Science, Gwangju Institute of Science and Technology (Supported by Qualcomm Korea), Republic of Korea, 2016.12
 * iMSE (Institute of Medical System Engineering) Scholarship (Only three students in the department based on academic performance), Department of Biomedical Science and Engineering, Gwangju Institute of Science and Technology, Republic of Korea, 2016.12
-* Global Ph.D. Fellowship (One of the most prestigious fellowships for Ph.D. students with high potential in Korea, only applicable once in a lifetime, similar to 中国自然科学基金项目的“优青”), KRW 90,000,000 (around 540,000 RMB), National Research Foundation of Korea, Republic of Korea, 2015.03 - 2018.02
+* Global Ph.D. Fellowship (One of the most prestigious fellowships for Ph.D. students with high potential in Korea, only applicable once in a lifetime), KRW 90,000,000 (around 540,000 RMB), National Research Foundation of Korea, Republic of Korea, 2015.03 - 2018.02
 * Outstanding Research Award (Conference Presentation), The Korean Society of Medical and Biological Engineering, Republic of Korea, 2014.05
 * Best Research Award (as a second author), Optical Society of Korea Summer Meeting, Republic of Korea, 2013.07
 * Government Supported Full Tuition Fee Waiver, Gwangju Institute of Science and Technology, Republic of Korea, 2012.09 - 2018.08
 * Scholarships Awarded Six Times for Excellent Academic Achievements, Jungwon University, Republic of Korea, 2009.03 - 2012.08
+
+
+Services and Membership
+------
+***Review provided for journals***   
+* 2024   
+Computers in Biology and Medicine (x1); IEEE Open Journal of Engineering in Medicine and Biology (x1); Applied physics Letters (x1); APL Photonics (x2); IEEE Access (x4); Sensors (x1); Biosensors (x1); Photonics (x1)   
+* 2023   
+Journal of Biomedical Optics (x2); Journal of Biophotonics (x1); APL Photonics (x1)   
+* 2022   
+APL Photonics (x1)   
+* 2020   
+Neurophotonics (x1)   
+
+***Technical program committee member***   
+* International Conference on Smart Computing, IoT and Machine Learning 2024, July 25, 2024 - July 27, 2024   
+
+***Review provided for conferences***   
+* 10th Asia Conference on Mechanical Engineering and Aerospace Engineering (Reviewed three manuscripts), October 18, 2024 - 20 October, 2024   
+* International Conference on Smart Computing, IoT and Machine Learning 2024 (reviewed five manuscripts), June 6, 2024 - June 7, 2024      
+* 10th International Conference on Smart Computing and Communication 2024 (reviewed two manuscripts), July 25, 2024 - July 27, 2024   
+
+***Membership***   
+* •	Certified scientific research expert, Korean National Assembly Library, 2021 – present   
+
+***External examiner for Ph.D dissertation***   
+* Deep learning-aided spectroscopic approaches for assessment of beef quality and authenticity, Youngjoo Lee, November 21, 2023

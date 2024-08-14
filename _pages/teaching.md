@@ -7,6 +7,8 @@ author_profile: false
 
 After XJTLU
 ------
+* MEC106 Engineering Drawing (co-teaching), AY2425-semester 1   
+
 * MEC104 Experimental, Computer Skills and Sustainability (co-teaching), AY2324-semester 2   
 
 * SAT006 Foundations of Computer Science and Engineering (co-teaching), AY2324-semester 1   
