@@ -23,7 +23,7 @@ TBA
 
 ***Master's student***     
 
-**Xingqian (Boray) Wang** (From October 2023 to present)
+**Xingqian (Boray) Wang** (From October 2023 to present)   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
 Program: MSc in Multimedia Telecommunications (2nd semester)   
 
@@ -39,11 +39,11 @@ Co-supervised by Yu Liu (industry supervisor) at Institute of Digital Medical Te
 Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering (6th semester)   
 
-**Jingxuan Qian** (From April 2024 to present)
+**Jingxuan Qian** (From April 2024 to present)   
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering (4th semester)
 
-**Eunyong Lee** (From June 2024 to present)
+**Eunyong Lee** (From June 2024 to present)   
 Email: E.Lee1802__at__student.xjtlu.edu.cn   
 Program: BEng in Mechatronics and Robotic systems (6th semester)      
 Doing SURF in the Lab.   
