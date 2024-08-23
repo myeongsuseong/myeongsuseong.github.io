@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2024
 -----
+* Jiachen Zhou received an unconditional offer for PhD study on August 21, 2024. Jiachen will join the Lab as a PhD student in Electronic and Electrical Engineering in September 2024. He will mainly study and work on the development and applications of photoacoustic imaging systems. Welcome aboard Jiachen!   
+
 * Postgraduate research fellowship (PGRS, FOSA2406037, value: 297,000 RMB) has been awarded from XJTLU to support the 3-year tuition fee of a PhD student on July 16, 2024.    
 
 * Eunyong Lee, Xiangru Feng, Haoran Xu, and Ruiyu Luo participate in the summer undergraduate research fellowship (SURF) suggested by Dr. Seong in summer 2024. Meanwhile, Mingjian Jia and Yihai Hu, who plan to work in BSIT long-term, volunteer SURF. Welcome all!    
