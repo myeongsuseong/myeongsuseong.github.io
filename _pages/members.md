@@ -20,9 +20,9 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 **Jiachen Zhou** (From September 2024 to present)   
 Email: Jiachen.Zhou24__at__student.xjtlu.edu.cn  
-Program: PhD in Electronic and Electrical Engineering   
+Program: Ph.D. in Electronic and Electrical Engineering   
 Working on the development and applications of photoacoustic imaging systems.   
-Co-supervised with Dr Anh Nguyen (UoL) and Dr Jeong Hyeon Park (XJTLU).          
+Co-supervised with Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).          
 
 
 ***Master's student***     

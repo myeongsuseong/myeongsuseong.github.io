@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2024
 -----
+* Dr. Seong gave an invited talk at Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea, on August 26, 2024.    
+
 * Jiachen Zhou received an unconditional offer for PhD study on August 21, 2024. Jiachen will join the Lab as a PhD student in Electronic and Electrical Engineering in September 2024. He will mainly study and work on the development and applications of photoacoustic imaging systems. Welcome aboard Jiachen!   
 
 * Postgraduate research fellowship (PGRS, FOSA2406037, value: 297,000 RMB) has been awarded from XJTLU to support the 3-year tuition fee of a PhD student on July 16, 2024.    
@@ -18,7 +20,7 @@ author_profile: false
 
 * A research article manuscript titled "Liquid-immersed thermal management to cylindrical lithium-ion batteries for their pack applications" that Dr. Seong participated as a co-author has been accepted for publication by Journal of Energy Storage on February 21, 2024.
 
-* Dr. Seong participated in the Biannual Workshop of the Neurophotonics lab. at Gwangju Institute of Science and Technology, Korea led by Prof. Euiheon Chung as a reviewer of the presentations of the Lab. members on February 7, 2024.
+* Dr. Seong participated in the Biannual Workshop of the Neurophotonics Lab. (led by Prof. Euiheon Chung) at Gwangju Institute of Science and Technology, Korea as a reviewer of the presentations of the Lab. members on February 7, 2024.
 
 
 2023

@@ -88,7 +88,7 @@ Services and Membership
 ------
 ***Review provided for journals***   
 * 2024   
-Computers in Biology and Medicine (x1); IEEE Open Journal of Engineering in Medicine and Biology (x1); Applied physics Letters (x1); APL Photonics (x2); IEEE Access (x4); Sensors (x1); Biosensors (x1); Photonics (x1)   
+Computers in Biology and Medicine (x1); IEEE Open Journal of Engineering in Medicine and Biology (x1); Applied physics Letters (x1); APL Photonics (x2); IEEE Access (x4); Sensors (x1); Biosensors (x1); Photonics (x1); BMC Research Notes (x1)   
 * 2023   
 Journal of Biomedical Optics (x2); Journal of Biophotonics (x1); APL Photonics (x1)   
 * 2022   

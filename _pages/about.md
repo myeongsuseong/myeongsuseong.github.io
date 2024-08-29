@@ -17,6 +17,8 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
+* Dr. Seong gave an invited talk at Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea, on August 26, 2024.    
+
 * Jiachen Zhou received an unconditional offer for PhD study on August 21, 2024. Jiachen will join the Lab as a PhD student in Electronic and Electrical Engineering in September 2024. He will mainly study and work on the development and applications of photoacoustic imaging systems. Welcome aboard Jiachen!     
 
 * Postgraduate research fellowship (PGRS, FOSA2406037, value: 297,000 RMB) has been awarded from XJTLU to support the 3-year tuition fee of a PhD student on July 16, 2024.   
@@ -24,7 +26,3 @@ Latest events and news
 * Eunyong Lee, Xiangru Feng, Haoran Xu, and Ruiyu Luo participate in the summer undergraduate research fellowship (SURF) suggested by Dr. Seong in summer 2024. Meanwhile, Mingjian Jia and Yihai Hu, who plan to work in BSIT long-term, volunteer SURF. Welcome all!     
 
 * Jingxuan Qian joins the Lab to gain a research experience in BSIT on April 2, 2024. Welcome aboard Jingxuan!   
-
-* A research article manuscript titled "Liquid-immersed thermal management to cylindrical lithium-ion batteries for their pack applications" that Dr. Seong participated as a co-author has been accepted for publication by Journal of Energy Storage on February 21, 2024.
-
-* Dr. Seong participated in the Biannual Workshop of the Neurophotonics lab. at Gwangju Institute of Science and Technology, Korea led by Prof. Euiheon Chung as a reviewer of the presentations of the Lab. members on February 7, 2024.
