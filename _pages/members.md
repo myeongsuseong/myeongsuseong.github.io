@@ -34,7 +34,7 @@ Program: MSc in Multimedia Telecommunications (2nd semester)
 **Yuchen Zhong** (From August 2024 to present)   
 Email: Yuchen.Zhong23__at__student.xjtlu.edu.cn  
 Program: MSc in Social Comupting (2nd semester)   
-Co-supervised by Yu Liu (industry supervisor) at Institute of Digital Medical Technology Shanghai Yangtze Delta Innovation Institute, Jiangsu Industrial Technology Research Institute (JITRI)
+Co-supervised with Yu Liu (industry supervisor) at Institute of Digital Medical Technology Shanghai Yangtze Delta Innovation Institute, Jiangsu Industrial Technology Research Institute (JITRI)
 
 
 ***Undergraduate student***   
@@ -42,6 +42,7 @@ Co-supervised by Yu Liu (industry supervisor) at Institute of Digital Medical Te
 **Wenzhe Shi** (From September 2023 to present)         
 Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering (6th semester)   
+Doing the final year project in the Lab.
 
 **Jingxuan Qian** (From April 2024 to present)   
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
@@ -50,32 +51,17 @@ Program: BEng in Telecommunications Engineering (4th semester)
 **Eunyong Lee** (From June 2024 to present)   
 Email: E.Lee1802__at__student.xjtlu.edu.cn   
 Program: BEng in Mechatronics and Robotic systems (6th semester)      
-Doing SURF in the Lab.   
-
-**Xiangru Feng** (From June 2024 to Aug 2024)   
-Email: Xiangru.Feng22__at__student.xjtlu.edu.cn   
-Program: BEng in Mechatronics and Robotic systems (4th semester)   
-Doing SURF in the Lab.   
-
-**Haoran Xu** (From June 2024 to Aug 2024)   
-Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (4th semester)      
-Doing SURF in the Lab.   
-
-**Ruiyu Luo** (From June 2024 to Aug 2024)   
-Email: Ruiyu.Luo22__at__student.xjtlu.edu.cn   
-Program: BEng in Electrical Engineering (4th semester)      
-Doing SURF in the Lab.    
+Participated in SURF and doing the final year project in the Lab.   
 
 **Mingjian Jia** (From June 2024 to present)   
 Email: Mingjian.Jia23__at__student.xjtlu.edu.cn   
 Program: BEng in Mechatronics and Robotic Systems (2nd semester)      
-Volunteering SURF in the Lab.   
+Volunteered for SURF.   
 
 **Yihai Hu** (From June 2024 to present)   
 Email: Yihai.Hu23__at__student.xjtlu.edu.cn   
 Program: BEng in Electronic Science and Technology (2nd semester)      
-Volunteering SURF in the Lab.
+Volunteered for SURF.
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 
@@ -83,16 +69,28 @@ We are looking forward to working with you! Please check the section of [Prospec
 Previous members
 ------
 ***PhD student***   
-
-TBA   
+TBA      
 
 ***Master's student***   
-
 **Siying Lyu** (From September 2023 to April 2024)   
 Program: MSc in Financial Computing   
 Completed the master's thesis in the Lab.   
 
 ***Undergraduate student***   
+**Xiangru Feng** (From June 2024 to Aug 2024)   
+Email: Xiangru.Feng22__at__student.xjtlu.edu.cn   
+Program: BEng in Mechatronics and Robotic systems (4th semester)   
+Participated in SURF.   
+
+**Haoran Xu** (From June 2024 to Aug 2024)   
+Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
+Program: BEng in Electronic Science and Technology (4th semester)      
+Participated in SURF.   
+
+**Ruiyu Luo** (From June 2024 to Aug 2024)   
+Email: Ruiyu.Luo22__at__student.xjtlu.edu.cn   
+Program: BEng in Electrical Engineering (4th semester)      
+Participated in SURF.   
 
 **Chang Liu** (From September 2023 to July 2024)     
 Email: Chang.Liu2002__at__student.xjtlu.edu.cn  
