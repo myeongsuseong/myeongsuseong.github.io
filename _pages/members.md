@@ -20,20 +20,20 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 **Jiachen Zhou** (From September 2024 to present)   
 Email: Jiachen.Zhou24__at__student.xjtlu.edu.cn  
-Program: Ph.D. in Electronic and Electrical Engineering   
+Program: Ph.D. in Electronic and Electrical Engineering (1st semester)     
 Working on the development and applications of photoacoustic imaging systems.   
-Co-supervised with Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).          
+Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).          
 
 
 ***Master's student***     
 
 **Xingqian (Boray) Wang** (From October 2023 to present)   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
-Program: MSc in Multimedia Telecommunications (2nd semester)   
+Program: MSc in Multimedia Telecommunications (3rd semester)   
 
 **Yuchen Zhong** (From August 2024 to present)   
 Email: Yuchen.Zhong23__at__student.xjtlu.edu.cn  
-Program: MSc in Social Comupting (2nd semester)   
+Program: MSc in Social Comupting (3rd semester)   
 Co-supervised with Yu Liu (industry supervisor) at Institute of Digital Medical Technology Shanghai Yangtze Delta Innovation Institute, Jiangsu Industrial Technology Research Institute (JITRI)
 
 
@@ -41,27 +41,42 @@ Co-supervised with Yu Liu (industry supervisor) at Institute of Digital Medical 
 
 **Wenzhe Shi** (From September 2023 to present)         
 Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (6th semester)   
+Program: BEng in Telecommunications Engineering (7th semester)   
 Doing the final year project in the Lab.
 
 **Jingxuan Qian** (From April 2024 to present)   
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (4th semester)
+Program: BEng in Telecommunications Engineering (5th semester)
 
 **Eunyong Lee** (From June 2024 to present)   
 Email: E.Lee1802__at__student.xjtlu.edu.cn   
-Program: BEng in Mechatronics and Robotic systems (6th semester)      
+Program: BEng in Mechatronics and Robotic systems (7th semester)      
 Participated in SURF and doing the final year project in the Lab.   
 
 **Mingjian Jia** (From June 2024 to present)   
 Email: Mingjian.Jia23__at__student.xjtlu.edu.cn   
-Program: BEng in Mechatronics and Robotic Systems (2nd semester)      
+Program: BEng in Mechatronics and Robotic Systems (3rd semester)      
 Volunteered for SURF.   
 
 **Yihai Hu** (From June 2024 to present)   
 Email: Yihai.Hu23__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (2nd semester)      
-Volunteered for SURF.
+Program: BEng in Electronic Science and Technology (3rd semester)      
+Volunteered for SURF.   
+
+**Miao Lu** (From September 2024 to present)         
+Email: Miao.Lu21__at__student.xjtlu.edu.cn  
+Program: BEng in Telecommunications Engineering (7th semester)   
+Doing the final year project in the Lab.   
+
+**Yanxue Guo** (From September 2024 to present)         
+Email: Yanxue.Guo21__at__student.xjtlu.edu.cn  
+Program: BEng in Electronic Science and Technology (7th semester)   
+Doing the final year project in the Lab.   
+
+**Linwei Ye** (From September 2024 to present)         
+Email: Linwei.Ye21__at__student.xjtlu.edu.cn  
+Program: BEng in Information Management and Information Systems (7th semester)   
+Doing the final year project in the Lab.     
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 

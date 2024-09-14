@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2024
 -----
+* Eunyong Lee, Wenzhe Shi, Miao Lu, Yanxue Guo and Linwei Ye work with Dr. Seong for their bachelor's final year project (FYP) from September 12, 2023. Welcome aboard Eunyong, Wenzhe, Miao, Yanxue, and Linwei!   
+
 * Dr. Seong gave an invited talk at Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea, on August 26, 2024.    
 
 * Jiachen Zhou received an unconditional offer for PhD study on August 21, 2024. Jiachen will join the Lab as a PhD student in Electronic and Electrical Engineering in September 2024. He will mainly study and work on the development and applications of photoacoustic imaging systems. Welcome aboard Jiachen!   
@@ -35,7 +37,7 @@ author_profile: false
 
 * Dr. Seong gives a short presentation at 2023 SAT Research and Industry Day organized by the School of Advanced Technology, XJTLU on September 20, 2023.
 
-* Chang Liu, Guorui Xu, Hao Zhong, Tobias Gilbert Jusmin, and Haiyang Li joins the Lab for their bachelor's final year project (FYP) on September 19, 2023. Welcome aboard Chang, Guorui, Hao, Tobias, and Haiyang!
+* Chang Liu, Guorui Xu, Hao Zhong, Tobias Gilbert Jusmin, and Haiyang Li join the Lab for their bachelor's final year project (FYP) on September 19, 2023. Welcome aboard Chang, Guorui, Hao, Tobias, and Haiyang!
 
 * Siying Lyu joins the Lab for her master's final year project (FMP) on September 19, 2023. Welcome aboard Siying!
 
