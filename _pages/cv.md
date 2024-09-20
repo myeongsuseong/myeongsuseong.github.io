@@ -11,15 +11,17 @@ redirect_from:
 
 Education
 -----
-* B.S. in Medical engineering, Jungwon University, Goesan, Chungbuk, Republic of Korea, August 2012  
-Graduate one semester earlier due to academic excellence  
-
-* M.S. in Medical system engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Republic of Korea, August 2014  
-Advisor: Dr. Jae Gwan Kim  
+* Postgraduate Certificate in Teaching and Supporting Learning in Higher Education (Pass with Merit), University of Liverpool, Liverpool, United Kingdom, August 2024   
 
 * Ph.D in Biomedical engineering (specialized in biophotonics), GIST, Gwangju, Republic of Korea, August 2018  
-Advisor: Dr. Jae Gwan Kim  
-Received Excellent Research Award from GIST due to academic excellence
+Advisor: Dr. Jae Gwan Kim   
+Received Excellent Research Award from GIST due to academic excellence   
+
+* M.S. in Medical system engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Republic of Korea, August 2014  
+Advisor: Dr. Jae Gwan Kim      
+
+* B.S. in Medical engineering, Jungwon University, Goesan, Chungbuk, Republic of Korea, August 2012     
+Graduate one semester earlier due to academic excellence    
 
 Work experience
 ------
@@ -61,8 +63,8 @@ Languages
 
 Grants (as principal investigator)
 ------
-* University internal project (XJTLU), FOSA2406037, Postgraduate research fellowship (PGRS), 2024.09 - 2027.08 (tentatively), 297,000 RMB, 3-year tuition fee of a PhD student, Principal investigator   
-* University internal project (XJTLU), SURF-2024-0378, Summer Undergraduate Research Fellowship (SURF), 10 weeks, 2024.06 - 2026.08, 6,000 RMB, ongoing, Principal investigator    
+* University internal project (XJTLU), FOSA2406037, Postgraduate research fellowship (PGRS), 2024.09 - 2027.08, 297,000 RMB, 3-year tuition fee of a PhD student, Principal investigator   
+* University internal project (XJTLU), SURF-2024-0378, Summer Undergraduate Research Fellowship (SURF, supervised four undergraduate students), 10 weeks, 2024.06 - 2026.08, 6,000 RMB, completed, Principal investigator    
 * University internal project (XJTLU), RDF-23-01-119, Research Development Fund, 36 months, 2024.01 - 2026.12, 100,000 RMB, ongoing, Principal investigator   
 * Provincial project, BK20220603, Jiangsu Young Scientist Fund (江苏省基础研究计划自然科学基金-青年基金项目), 36 months, 2022.07 - 2025.06, 200,000 RMB, ongoing, Principal investigator
 * National project, NRF-2015H1A2A1032268, Development of an optical hemodynamic measurement system and monitoring acute and chronic brain diseases using the developed system (Global Ph.D. Fellowship), 36 months, 2015.03 - 2018.02 (worked on the project: 2015.03 - 2018.02), approximately 540,000 RMB (90,000,000 Korean Won), completed, Principal investigator  
@@ -88,7 +90,7 @@ Services and Membership
 ------
 ***Review provided for journals***   
 * 2024   
-Computers in Biology and Medicine (x1); IEEE Open Journal of Engineering in Medicine and Biology (x1); Applied physics Letters (x1); APL Photonics (x2); IEEE Access (x4); Sensors (x1); Biosensors (x1); Photonics (x1); BMC Research Notes (x1); Scientific Reports (x1)      
+Computers in Biology and Medicine (x1); IEEE Open Journal of Engineering in Medicine and Biology (x1); Applied physics Letters (x1); APL Photonics (x2); IEEE Access (x4); Sensors (x1); Biosensors (x1); Photonics (x2); BMC Research Notes (x1); Scientific Reports (x1)      
 * 2023   
 Journal of Biomedical Optics (x2); Journal of Biophotonics (x1); APL Photonics (x1)   
 * 2022   
@@ -106,7 +108,9 @@ Neurophotonics (x1)
 * 10th International Conference on Smart Computing and Communication 2024 (reviewed two manuscripts), July 25, 2024 - July 27, 2024   
 
 ***Membership***   
-* •	Certified scientific research expert, Korean National Assembly Library, 2021 – present   
+* Fellow of Advance HE (FHEA), Advance HE, 2024 – present   
+* Member, Optical Society of Korea, 2024 – present   
+* Certified scientific research expert, Korean National Assembly Library, 2021 – present   
 
 ***External examiner for Ph.D dissertation***   
 * Deep learning-aided spectroscopic approaches for assessment of beef quality and authenticity, Youngjoo Lee, November 21, 2023

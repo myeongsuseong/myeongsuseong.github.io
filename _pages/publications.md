@@ -13,7 +13,7 @@ Peer-reviewed publications
 1. <ins>Hao Zhong</ins> and **Myeongsu Seong**# "speckle imaging for meat monitoring (tentative title)," (in preparation)   
 1. Jingfei Wen, **Myeongsu Seong**, Sung-Liang Chen# "Low-cost diffuse optical spectroscopy for assisting sclerotherapy: A proof-of-concept study," (submitted)   
 1. Tianru Zhang, Huangjia Wu, Yixin Feng, Quan Zhang, **Myeongsu Seong**, Jie Sun, Mark Leach, Eng Gee Lim "Construction of an Educational Teaching Evaluation System under the Context of Deep Integration of Artificial Intelligence and Teaching Practices," (submitted to and accepted by the International Conference on Higher Education Learning and Teaching 2024)   
-1. Nan Wan^, Guo Chen^, Sung-Liang Chen# **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," (submitted)
+1. Siqi Liang^, Nan Wan^, Guo Chen^, Sung-Liang Chen# **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," (in revision)
 1. Hyeryun Jeong, **Myeongsu Seong**^, Kwangsung Park#, and Jae Gwan Kim# "Evaluation of female sexual arousal response using optical techniques: a mini-review," (submitted)
 1. Zhe Li, Hua Zhang#, Lei Sheng#, Kaifei Nong, Kailong Wang, Zilong Wang, Zhendong Zhang, **Myeongsu Seong** "Liquid-immersed thermal management to cylindrical lithium-ion batteries for their pack applications," Journal of Energy Storage 85, 111060, 2024
 1. Semere Asefa, Sangmin Shim, **Myeongsu Seong**#, Dasol Lee# "Chiral metasurfaces: a review of the fundamentals and research advances," Applied Sciences 13(19), 10590, 2023

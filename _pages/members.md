@@ -7,7 +7,7 @@ author_profile: false
 
 ## Principal investigator   
 <img src="https://myeongsuseong.github.io/images/myeongsu_seong.png" width="300" height="300">   
-**Dr. Myeongsu Seong**    
+**Dr. Myeongsu Seong, Ph.D., FHEA**    
 [CV (HTML)](https://myeongsuseong.github.io/cv) [CV (PDF)](https://myeongsuseong.github.io/files/MyeongsuSeong_CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=UE6g5hoAAAAJ&hl=en) [Researchgate](https://www.researchgate.net/profile/Myeongsu-Seong)  
 Office address: EB324, Xi'an Jiaotong-Liverpool University, Suzhou Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou 215123, China     
 Phone: +86 (0)512-89173951
@@ -29,11 +29,13 @@ Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).
 
 **Xingqian (Boray) Wang** (From October 2023 to present)   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
-Program: MSc in Multimedia Telecommunications (3rd semester)   
+Program: MSc in Multimedia Telecommunications (3rd semester)    
+Working on the master's thesis in the Lab.   
 
 **Yuchen Zhong** (From August 2024 to present)   
 Email: Yuchen.Zhong23__at__student.xjtlu.edu.cn  
-Program: MSc in Social Comupting (3rd semester)   
+Program: MSc in Social Comupting (3rd semester)    
+Working on the master's thesis in the Lab.    
 Co-supervised with Yu Liu (industry supervisor) at Institute of Digital Medical Technology Shanghai Yangtze Delta Innovation Institute, Jiangsu Industrial Technology Research Institute (JITRI)
 
 
