@@ -7,7 +7,7 @@ author_profile: false
 
 ## Principal investigator   
 <img src="https://myeongsuseong.github.io/images/myeongsu_seong.png" width="300" height="300">   
-**Dr. Myeongsu Seong, Ph.D., FHEA**    
+**Myeongsu Seong, Ph.D., FHEA**    
 [CV (HTML)](https://myeongsuseong.github.io/cv) [CV (PDF)](https://myeongsuseong.github.io/files/MyeongsuSeong_CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=UE6g5hoAAAAJ&hl=en) [Researchgate](https://www.researchgate.net/profile/Myeongsu-Seong)  
 Office address: EB324, Xi'an Jiaotong-Liverpool University, Suzhou Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou 215123, China     
 Phone: +86 (0)512-89173951
