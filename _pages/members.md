@@ -55,6 +55,11 @@ Email: E.Lee1802__at__student.xjtlu.edu.cn
 Program: BEng in Mechatronics and Robotic systems (7th semester)      
 Participated in SURF and doing the final year project in the Lab.   
 
+**Haoran Xu** (From June 2024 to Aug 2024 (SURF); From October 2024 to present)   
+Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
+Program: BEng in Electronic Science and Technology (4th semester)      
+Participated in SURF.   
+
 **Mingjian Jia** (From June 2024 to present)   
 Email: Mingjian.Jia23__at__student.xjtlu.edu.cn   
 Program: BEng in Mechatronics and Robotic Systems (3rd semester)      
@@ -97,11 +102,6 @@ Completed the master's thesis in the Lab.
 **Xiangru Feng** (From June 2024 to Aug 2024)   
 Email: Xiangru.Feng22__at__student.xjtlu.edu.cn   
 Program: BEng in Mechatronics and Robotic systems (4th semester)   
-Participated in SURF.   
-
-**Haoran Xu** (From June 2024 to Aug 2024)   
-Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (4th semester)      
 Participated in SURF.   
 
 **Ruiyu Luo** (From June 2024 to Aug 2024)   
