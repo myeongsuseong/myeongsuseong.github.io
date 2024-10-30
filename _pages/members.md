@@ -57,7 +57,7 @@ Participated in SURF and doing the final year project in the Lab.
 
 **Haoran Xu** (From June 2024 to Aug 2024 (SURF); From October 2024 to present)   
 Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (4th semester)      
+Program: BEng in Electronic Science and Technology (5th semester)      
 Participated in SURF.   
 
 **Mingjian Jia** (From June 2024 to present)   
