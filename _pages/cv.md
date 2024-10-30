@@ -90,7 +90,7 @@ Services and Membership
 ------
 ***Review provided for journals***   
 * 2024   
-Computers in Biology and Medicine (x1); IEEE Open Journal of Engineering in Medicine and Biology (x1); Applied physics Letters (x1); APL Photonics (x2); IEEE Access (x4); Sensors (x1); Biosensors (x1); Photonics (x2); BMC Research Notes (x1); Scientific Reports (x1)      
+Computers in Biology and Medicine (x1); IEEE Open Journal of Engineering in Medicine and Biology (x1); Applied physics Letters (x1); APL Photonics (x2); IEEE Access (x4); Sensors (x2); Biosensors (x2); Photonics (x2); BMC Research Notes (x1); Scientific Reports (x1)      
 * 2023   
 Journal of Biomedical Optics (x2); Journal of Biophotonics (x1); APL Photonics (x1)   
 * 2022   
@@ -102,7 +102,8 @@ Neurophotonics (x1)
 * 10th Asia Conference on Mechanical Engineering and Aerospace Engineering, October 18, 2024 - 20 October, 2024     
 * International Conference on Smart Computing, IoT and Machine Learning 2024, July 25, 2024 - July 27, 2024   
 
-***Review provided for conferences***   
+***Review provided for conferences***
+* The 2nd International Conference on Optical Communication and Optical Information Processing (reviewed one manuscript), December 20, 2024 - December 22, 2024      
 * 10th Asia Conference on Mechanical Engineering and Aerospace Engineering (Reviewed three manuscripts), October 18, 2024 - 20 October, 2024   
 * International Conference on Smart Computing, IoT and Machine Learning 2024 (reviewed five manuscripts), June 6, 2024 - June 7, 2024      
 * 10th International Conference on Smart Computing and Communication 2024 (reviewed two manuscripts), July 25, 2024 - July 27, 2024   
