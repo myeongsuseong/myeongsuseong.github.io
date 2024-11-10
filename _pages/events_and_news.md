@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2024
 -----
+* Dr. Seong gave an invited talk at International Biomedical Engineering Conference (IBEC) 2024 organized by the Korean Society of Medical and Biological Engineering (KOSOMBE) on November 7, 2024 in Korea.   
+
 * Eunyong Lee, Wenzhe Shi, Miao Lu, Yanxue Guo and Linwei Ye work with Dr. Seong for their bachelor's final year project (FYP) from September 12, 2023. Welcome aboard Eunyong, Wenzhe, Miao, Yanxue, and Linwei!   
 
 * Dr. Seong gave an invited talk at Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea, on August 26, 2024.    
