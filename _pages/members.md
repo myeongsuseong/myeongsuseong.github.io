@@ -83,7 +83,11 @@ Doing the final year project in the Lab.
 **Linwei Ye** (From September 2024 to present)         
 Email: Linwei.Ye21__at__student.xjtlu.edu.cn  
 Program: BEng in Information Management and Information Systems (7th semester)   
-Doing the final year project in the Lab.     
+Doing the final year project in the Lab.
+
+**Junhe Liu** (From January 2025 to present)   
+Email: Junhe.Liu22__at__student.xjtlu.edu.cn  
+Program: BEng in Telecommunications Engineering (5th semester)    
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 

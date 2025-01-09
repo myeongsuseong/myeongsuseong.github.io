@@ -6,6 +6,11 @@ author_profile: false
 ---
 
 {% include base_path %}
+2025
+-----
+* Junhe Liu joins the Lab to gain a research experience in BSIT on January 9, 2025. Welcome aboard Junhe!
+
+
 2024
 -----
 * Dr. Seong gave an invited talk at International Biomedical Engineering Conference (IBEC) 2024 organized by the Korean Society of Medical and Biological Engineering (KOSOMBE) on November 7, 2024 in Korea.   

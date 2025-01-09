@@ -110,8 +110,7 @@ Neurophotonics (x1)
 
 ***Membership***   
 * Fellow of Advance HE (FHEA), Advance HE, 2024 – present   
-* Member, Optical Society of Korea, 2024 – present   
-* Certified scientific research expert, Korean National Assembly Library, 2021 – present   
+* Member, Optical Society of Korea, 2024 – present     
 
 ***External examiner for Ph.D dissertation***   
 * Deep learning-aided spectroscopic approaches for assessment of beef quality and authenticity, Youngjoo Lee, November 21, 2023

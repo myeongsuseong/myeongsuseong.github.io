@@ -17,6 +17,8 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
+* Junhe Liu joins the Lab to gain a research experience in BSIT on January 9, 2025. Welcome aboard Junhe!   
+
 * Dr. Seong gave an invited talk at International Biomedical Engineering Conference (IBEC) 2024 organized by the Korean Society of Medical and Biological Engineering (KOSOMBE) on November 7, 2024 in Korea.   
 
 * Eunyong Lee, Wenzhe Shi, Miao Lu, Yanxue Guo and Linwei Ye work with Dr. Seong for their bachelor's final year project (FYP) from September 12, 2023. Welcome aboard Eunyong, Wenzhe, Miao, Yanxue, and Linwei!   
@@ -24,5 +26,3 @@ Latest events and news
 * Dr. Seong gave an invited talk at Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea, on August 26, 2024.    
 
 * Jiachen Zhou received an unconditional offer for PhD study on August 21, 2024. Jiachen will join the Lab as a PhD student in Electronic and Electrical Engineering in September 2024. He will mainly study and work on the development and applications of photoacoustic imaging systems. Welcome aboard Jiachen!     
-
-* Postgraduate research fellowship (PGRS, FOSA2406037, value: 297,000 RMB) has been awarded from XJTLU to support the 3-year tuition fee of a PhD student on July 16, 2024.   
