@@ -11,11 +11,11 @@ After XJTLU
 Peer-reviewed publications
 1. <ins>Hao Zhong</ins> and **Myeongsu Seong**# "speckle imaging for meat monitoring (tentative title)," (in preparation)
 1. Seokgyu Kwon^, Sangmin Shim^, Kyunghyun Yu, **Myeongsu Seong**#, Dasol Lee# "Electrospun nanofiber for biomedical engineering," Gels (in preparation)
-1. Semere Asefa, **Myeongsu Seong**#, Dasol Lee# "Design of bilayer crescent chiral metasurfaces for enhanced chiroptical activity," Sensors (in revision)
 1. Siqi Liang^, Nan Wan^, Wenxuan Pi^, Ke Zhang, Jingfei Wen, Sung-Liang Chen#, **Myeongsu Seong**# "Photoacoustic microscopy for visualization of stents in multiple scenarios," Measurement (in review)        
 1. Jingfei Wen, **Myeongsu Seong**, Sung-Liang Chen# "Low-cost diffuse optical spectroscopy for assisting sclerotherapy: A proof-of-concept study," (in revision)   
 1. Siqi Liang^, Nan Wan^, Guo Chen^, Sung-Liang Chen# **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," Analytical Chemistry (in revision)
-1. Hyeryun Jeong, **Myeongsu Seong**^, Kwangsung Park#, and Jae Gwan Kim# "Evaluation of female sexual arousal response using optical techniques: a mini-review," Sexual Medicine (in revision)   
+1. Hyeryun Jeong, **Myeongsu Seong**^, Kwangsung Park#, and Jae Gwan Kim# "Evaluation of female sexual arousal response using optical techniques: a mini-review," Sexual Medicine (in revision)
+1. Semere Asefa, **Myeongsu Seong**#, Dasol Lee# "Design of Bilayer Crescent Chiral Metasurfaces for Enhanced Chiroptical Response," Sensors 25(3), 915, 2025   
 1. Zhe Li, Hua Zhang#, Lei Sheng#, Kaifei Nong, Kailong Wang, Zilong Wang, Zhendong Zhang, **Myeongsu Seong** "Liquid-immersed thermal management to cylindrical lithium-ion batteries for their pack applications," Journal of Energy Storage 85, 111060, 2024
 1. Semere Asefa, Sangmin Shim, **Myeongsu Seong**#, Dasol Lee# "Chiral metasurfaces: a review of the fundamentals and research advances," Applied Sciences 13(19), 10590, 2023
 1. **Myeongsu Seong**# "Comparison of numerical-integration-based methods for blood flow estimation in diffuse correlation spectroscopy," Computer Methods and Programs in Biomedicine 241, 107766, 2023
