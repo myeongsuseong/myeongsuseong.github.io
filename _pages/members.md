@@ -20,7 +20,7 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 **Jiachen Zhou** (From September 2024 to present)   
 Email: Jiachen.Zhou24__at__student.xjtlu.edu.cn  
-Program: Ph.D. in Electronic and Electrical Engineering (1st semester)     
+Program: Ph.D. in Electronic and Electrical Engineering (2nd semester)     
 Working on the development and applications of photoacoustic imaging systems.   
 Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).          
 
@@ -29,12 +29,12 @@ Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).
 
 **Xingqian (Boray) Wang** (From October 2023 to present)   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
-Program: MSc in Multimedia Telecommunications (3rd semester)    
+Program: MSc in Multimedia Telecommunications      
 Working on the master's thesis in the Lab.   
 
 **Yuchen Zhong** (From August 2024 to present)   
 Email: Yuchen.Zhong23__at__student.xjtlu.edu.cn  
-Program: MSc in Social Comupting (3rd semester)    
+Program: MSc in Social Comupting   
 Working on the master's thesis in the Lab.    
 Co-supervised with Yu Liu (industry supervisor) at Institute of Digital Medical Technology Shanghai Yangtze Delta Innovation Institute, Jiangsu Industrial Technology Research Institute (JITRI)
 
@@ -43,51 +43,51 @@ Co-supervised with Yu Liu (industry supervisor) at Institute of Digital Medical 
 
 **Wenzhe Shi** (From September 2023 to present)         
 Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (7th semester)   
+Program: BEng in Telecommunications Engineering (8th semester)   
 Doing the final year project in the Lab.
 
 **Jingxuan Qian** (From April 2024 to present)   
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (5th semester)
+Program: BEng in Telecommunications Engineering (6th semester)
 
 **Eunyong Lee** (From June 2024 to present)   
 Email: E.Lee1802__at__student.xjtlu.edu.cn   
-Program: BEng in Mechatronics and Robotic systems (7th semester)      
+Program: BEng in Mechatronics and Robotic systems (8th semester)      
 Participated in SURF and doing the final year project in the Lab.   
 
 **Haoran Xu** (From June 2024 to Aug 2024 (SURF); From October 2024 to present)   
 Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (5th semester)      
+Program: BEng in Electronic Science and Technology (6th semester)      
 Participated in SURF.   
 
 **Mingjian Jia** (From June 2024 to present)   
 Email: Mingjian.Jia23__at__student.xjtlu.edu.cn   
-Program: BEng in Mechatronics and Robotic Systems (3rd semester)      
+Program: BEng in Mechatronics and Robotic Systems (4th semester)      
 Volunteered for SURF.   
 
 **Yihai Hu** (From June 2024 to present)   
 Email: Yihai.Hu23__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (3rd semester)      
+Program: BEng in Electronic Science and Technology (4th semester)      
 Volunteered for SURF.   
 
 **Miao Lu** (From September 2024 to present)         
 Email: Miao.Lu21__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (7th semester)   
+Program: BEng in Telecommunications Engineering (8th semester)   
 Doing the final year project in the Lab.   
 
 **Yanxue Guo** (From September 2024 to present)         
 Email: Yanxue.Guo21__at__student.xjtlu.edu.cn  
-Program: BEng in Electronic Science and Technology (7th semester)   
+Program: BEng in Electronic Science and Technology (8th semester)   
 Doing the final year project in the Lab.   
 
 **Linwei Ye** (From September 2024 to present)         
 Email: Linwei.Ye21__at__student.xjtlu.edu.cn  
-Program: BEng in Information Management and Information Systems (7th semester)   
+Program: BEng in Information Management and Information Systems (8th semester)   
 Doing the final year project in the Lab.
 
 **Junhe Liu** (From January 2025 to present)   
 Email: Junhe.Liu22__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (5th semester)    
+Program: BEng in Telecommunications Engineering (6th semester)    
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 
