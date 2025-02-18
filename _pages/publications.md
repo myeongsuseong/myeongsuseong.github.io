@@ -10,7 +10,7 @@ After XJTLU
 ------
 Peer-reviewed publications
 1. <ins>Hao Zhong</ins> and **Myeongsu Seong**# "speckle imaging for meat monitoring (tentative title)," (in preparation)
-1. Seokgyu Kwon^, Sangmin Shim^, Kyunghyun Yu, **Myeongsu Seong**#, and Dasol Lee# "Electrospun nanofiber for biomedical engineering," (in preparation)   
+1. Seokgyu Kwon^, Sangmin Shim^, Kyunghyun Yu, **Myeongsu Seong**#, and Dasol Lee# "Electrospun nanofiber for biomedical engineering," (in submission)   
 1. Changhwan Hyeon^, Minseo Jeong^, Seokgyu Kwon, Juhoon Baek, **Myeongsu Seong**, Minkyung Kim, and Dasol Lee# "Thermal protection of wearable devices under outdoor conditions using radiative cooling films," (in submission)   
 1. Siqi Liang^, Nan Wan^, Wenxuan Pi^, Ke Zhang, Jingfei Wen, and Sung-Liang Chen#, **Myeongsu Seong**# "Photoacoustic microscopy for visualization of stents in multiple scenarios," Measurement (in review)        
 1. Jingfei Wen, **Myeongsu Seong**, and Sung-Liang Chen# "Low-cost diffuse optical spectroscopy for assisting sclerotherapy: A proof-of-concept study," (in revision)   
