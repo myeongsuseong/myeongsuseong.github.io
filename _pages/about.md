@@ -17,6 +17,8 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
+* A research article manuscript titled "Low-Cost Diffuse Optical Spectroscopy for Assisting Sclerotherapy: A Proof-of-Concept Study" that Dr. Seong participated as a co-author has been accepted for publication by Sensors on February 19, 2025.   
+
 * A research article manuscript titled "Design of Bilayer Crescent Chiral Metasurfaces for Enhanced Chiroptical Response" that Dr. Seong participated as a co-corresponding author has been accepted for publication by Sensors on February 2, 2025.   
 
 * Junhe Liu joins the Lab to gain a research experience in BSIT on January 9, 2025. Welcome aboard Junhe!   
@@ -24,5 +26,3 @@ Latest events and news
 * Dr. Seong gave an invited talk at International Biomedical Engineering Conference (IBEC) 2024 organized by the Korean Society of Medical and Biological Engineering (KOSOMBE) on November 7, 2024 in Korea.   
 
 * Eunyong Lee, Wenzhe Shi, Miao Lu, Yanxue Guo and Linwei Ye work with Dr. Seong for their bachelor's final year project (FYP) from September 12, 2023. Welcome aboard Eunyong, Wenzhe, Miao, Yanxue, and Linwei!   
-
-* Dr. Seong gave an invited talk at Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea, on August 26, 2024.    

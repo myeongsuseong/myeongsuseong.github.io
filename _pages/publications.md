@@ -12,9 +12,9 @@ Peer-reviewed publications
 1. <ins>Hao Zhong</ins> and **Myeongsu Seong**# "speckle imaging for meat monitoring (tentative title)," (in preparation)
 1. Seokgyu Kwon^, Sangmin Shim^, Kyunghyun Yu, **Myeongsu Seong**#, and Dasol Lee# "Electrospun nanofiber for biomedical engineering," (in submission)   
 1. Changhwan Hyeon^, Minseo Jeong^, Seokgyu Kwon, Juhoon Baek, **Myeongsu Seong**, Minkyung Kim, and Dasol Lee# "Thermal protection of wearable devices under outdoor conditions using radiative cooling films," (in submission)   
-1. Siqi Liang^, Nan Wan^, Wenxuan Pi^, Ke Zhang, Jingfei Wen, and Sung-Liang Chen#, **Myeongsu Seong**# "Photoacoustic microscopy for visualization of stents in multiple scenarios," Measurement (in review)        
-1. Jingfei Wen, **Myeongsu Seong**, and Sung-Liang Chen# "Low-cost diffuse optical spectroscopy for assisting sclerotherapy: A proof-of-concept study," (in revision)   
-1. Siqi Liang^, Nan Wan^, Guo Chen^, Sung-Liang Chen#, and **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," Analytical Chemistry (in revision)
+1. Siqi Liang^, Nan Wan^, Guo Chen^, Sung-Liang Chen#, and **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," Analytical Chemistry (in revision)   
+1. Siqi Liang^, Nan Wan^, Wenxuan Pi^, Ke Zhang, Jingfei Wen, and Sung-Liang Chen#, **Myeongsu Seong**# "Photoacoustic microscopy for visualization of stents in multiple scenarios," Measurement (in revision)     
+1. Jingfei Wen, **Myeongsu Seong**, and Sung-Liang Chen# "Low-cost diffuse optical spectroscopy for assisting sclerotherapy: A proof-of-concept study," Optics and Laser Technology (accepted)     
 1. Hyeryun Jeong^, **Myeongsu Seong**#, Kwangsung Park#, and Jae Gwan Kim# "Evaluation of female sexual arousal response using optical techniques: a mini-review," Sexual Medicine (in revision)
 1. Semere Asefa, **Myeongsu Seong**#, and Dasol Lee# "Design of Bilayer Crescent Chiral Metasurfaces for Enhanced Chiroptical Response," Sensors 25(3), 915, 2025   
 1. Zhe Li, Hua Zhang#, Lei Sheng#, Kaifei Nong, Kailong Wang, Zilong Wang, Zhendong Zhang, and **Myeongsu Seong** "Liquid-immersed thermal management to cylindrical lithium-ion batteries for their pack applications," Journal of Energy Storage 85, 111060, 2024
