@@ -15,16 +15,19 @@ Peer-reviewed publications
 1. Siqi Liang^, Nan Wan^, Guo Chen^, Sung-Liang Chen#, and **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," Analytical Chemistry (in revision)   
 1. Hyeryun Jeong^, **Myeongsu Seong**#, Kwangsung Park#, and Jae Gwan Kim# "Evaluation of female sexual arousal response using optical techniques: a mini-review," Sexual Medicine (in revision)   
 1. Siqi Liang^, Nan Wan^, Wenxuan Pi^, Ke Zhang, Jingfei Wen, and Sung-Liang Chen#, **Myeongsu Seong**# "Photoacoustic microscopy for visualization of stents in multiple scenarios," Measurement (in revision)   
-1. Jingfei Wen, **Myeongsu Seong**, and Sung-Liang Chen# "Low-cost diffuse optical spectroscopy for assisting sclerotherapy: A proof-of-concept study," Optics and Laser Technology (accepted)    
+1. Jingfei Wen, **Myeongsu Seong**, Guo Chen, and Sung-Liang Chen# "Low-cost diffuse optical spectroscopy for assisting sclerotherapy: A proof-of-concept study," Optics and Laser Technology 186, 112664, 2025       
 1. Semere Asefa, **Myeongsu Seong**#, and Dasol Lee# "Design of Bilayer Crescent Chiral Metasurfaces for Enhanced Chiroptical Response," Sensors 25(3), 915, 2025   
 1. Zhe Li, Hua Zhang#, Lei Sheng#, Kaifei Nong, Kailong Wang, Zilong Wang, Zhendong Zhang, and **Myeongsu Seong** "Liquid-immersed thermal management to cylindrical lithium-ion batteries for their pack applications," Journal of Energy Storage 85, 111060, 2024
 1. Semere Asefa, Sangmin Shim, **Myeongsu Seong**#, and Dasol Lee# "Chiral metasurfaces: a review of the fundamentals and research advances," Applied Sciences 13(19), 10590, 2023
 1. **Myeongsu Seong**# "Comparison of numerical-integration-based methods for blood flow estimation in diffuse correlation spectroscopy," Computer Methods and Programs in Biomedicine 241, 107766, 2023
 
-^: co-first; #: corresponding author(s); <ins>implies the previous or current Lab member</ins>   
 
 Conference proceedings   
-1. Tianru Zhang, Huangjia Wu, Yixin Feng, Quan Zhang, **Myeongsu Seong**, Jie Sun, Mark Leach, and Eng Gee Lim "Construction of an Educational Teaching Evaluation System under the Context of Deep Integration of Artificial Intelligence and Teaching Practices," (submitted to and accepted by the International Conference on Higher Education Learning and Teaching 2024)   
+1. Muhammad Jawad Hussain#, Heming Bai, **Myeongsu Seong**, and Behjat Shahid "An improved hybrid transfer learning model for estimating PM2.5 concentrations in Pakistan and rural China," Submitted to 2025 International Conference on Advanced Machine Learning and Data Science   
+1. <ins>Jingxuan Qian</ins> and **Myeongsu Seong**# "YOLO-ASFF: A model for detecting tomatoes of different maturities based on improved YOLO v5s," Submitted to 2025 7th International Conference on Software Engineering and Computer Science    
+1. Tianru Zhang#, Huangjia Wu, Yixin Feng, Quan Zhang, **Myeongsu Seong**, Jie Sun, Mark Leach, and Eng Gee Lim "Construction of an educational teaching evaluation system under the context of deep integration of artificial intelligence and teaching practices," Submitted to and accepted by the International Conference on Higher Education Learning and Teaching 2024      
+
+^: co-first; #: corresponding author(s); <ins>implies the previous or current Lab member</ins>    
 
 Before XJTLU
 ------
