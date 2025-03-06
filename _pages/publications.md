@@ -12,6 +12,7 @@ Peer-reviewed publications
 1. <ins>Hao Zhong</ins> and **Myeongsu Seong**# "speckle imaging for meat monitoring (tentative title)," (in preparation)
 1. Seokgyu Kwon^, Sangmin Shim^, Kyunghyun Yu, **Myeongsu Seong**#, and Dasol Lee# "Electrospun nanofiber for biomedical engineering," (in submission)   
 1. Changhwan Hyeon^, Minseo Jeong^, Seokgyu Kwon, Juhoon Baek, **Myeongsu Seong**, Minkyung Kim, and Dasol Lee# "Thermal protection of wearable devices under outdoor conditions using radiative cooling films," (in submission)   
+1. Muhammad Jawad Hussain#, **Myeongsu Seong**, and Behjat Shahid, and Heming Bai# "Assessing PM2.5 exposures across the Yangtze River Delta region by filling satellite aerosol optical depth and top-of-atmosphere retrieval gaps using a temporal and spatial convolutional approach," Remote Sensing (in submission)   
 1. Siqi Liang^, Nan Wan^, Guo Chen^, Sung-Liang Chen#, and **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," Analytical Chemistry (in revision)   
 1. Hyeryun Jeong^, **Myeongsu Seong**#, Kwangsung Park#, and Jae Gwan Kim# "Evaluation of female sexual arousal response using optical techniques: a mini-review," Sexual Medicine (in revision)   
 1. Siqi Liang^, Nan Wan^, Wenxuan Pi^, Ke Zhang, Jingfei Wen, and Sung-Liang Chen#, **Myeongsu Seong**# "Photoacoustic microscopy for visualization of stents in multiple scenarios," Measurement (in revision)   
@@ -23,7 +24,6 @@ Peer-reviewed publications
 
 
 Conference proceedings   
-1. Muhammad Jawad Hussain#, Heming Bai, **Myeongsu Seong**, and Behjat Shahid "An improved hybrid transfer learning model for estimating PM2.5 concentrations in Pakistan and rural China," Submitted to 2025 International Conference on Advanced Machine Learning and Data Science   
 1. <ins>Jingxuan Qian</ins> and **Myeongsu Seong**# "YOLO-ASFF: A model for detecting tomatoes of different maturities based on improved YOLO v5s," Submitted to 2025 7th International Conference on Software Engineering and Computer Science    
 1. Tianru Zhang#, Huangjia Wu, Yixin Feng, Quan Zhang, **Myeongsu Seong**, Jie Sun, Mark Leach, and Eng Gee Lim "Construction of an educational teaching evaluation system under the context of deep integration of artificial intelligence and teaching practices," Submitted to and accepted by the International Conference on Higher Education Learning and Teaching 2024      
 
