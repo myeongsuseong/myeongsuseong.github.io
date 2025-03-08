@@ -17,7 +17,7 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
-* A research article manuscript titled "Low-Cost Diffuse Optical Spectroscopy for Assisting Sclerotherapy: A Proof-of-Concept Study" that Dr. Seong participated as a co-author has been accepted for publication by Sensors on February 19, 2025.   
+* A research article manuscript titled "Low-Cost Diffuse Optical Spectroscopy for Assisting Sclerotherapy: A Proof-of-Concept Study" that Dr. Seong participated as a co-author has been accepted for publication by Optics and Laser Technology on February 19, 2025.   
 
 * A research article manuscript titled "Design of Bilayer Crescent Chiral Metasurfaces for Enhanced Chiroptical Response" that Dr. Seong participated as a co-corresponding author has been accepted for publication by Sensors on February 2, 2025.   
 
