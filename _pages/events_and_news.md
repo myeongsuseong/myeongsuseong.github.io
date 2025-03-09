@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2025
 -----
+* Jingxuan's conference proceeding manuscript entitled "YOLO-ASFF: A model for Detecting Tomatoes of Different Maturities Based on Improved YOLO v5s" has been accepted for publication by 2025 7th International Conference on Software Engineering and Computer Science (CSECS 2025) on March 7, 2025. Congratulations Jingxuan!    
+     
 * A research article manuscript titled "Low-Cost Diffuse Optical Spectroscopy for Assisting Sclerotherapy: A Proof-of-Concept Study" that Dr. Seong participated as a co-author has been accepted for publication by Optics and Laser Technology on February 19, 2025.   
 
 * A research article manuscript titled "Design of Bilayer Crescent Chiral Metasurfaces for Enhanced Chiroptical Response" that Dr. Seong participated as a co-corresponding author has been accepted for publication by Sensors on February 2, 2025.   
