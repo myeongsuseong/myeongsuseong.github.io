@@ -7,8 +7,8 @@ author_profile: false
 
 ## Principal investigator   
 <img src="https://myeongsuseong.github.io/images/myeongsu_seong.png" width="300" height="300">   
-**Myeongsu Seong, Ph.D., FHEA**    
-[CV (HTML)](https://myeongsuseong.github.io/cv) [CV (PDF)](https://myeongsuseong.github.io/files/MyeongsuSeong_CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=UE6g5hoAAAAJ&hl=en) [Researchgate](https://www.researchgate.net/profile/Myeongsu-Seong)  
+**Myeongsu Seong, PhD, FHEA**    
+[CV (HTML, less frequently updated)](https://myeongsuseong.github.io/cv) [CV (PDF)](https://myeongsuseong.github.io/files/MyeongsuSeong_CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=UE6g5hoAAAAJ&hl=en) [Researchgate](https://www.researchgate.net/profile/Myeongsu-Seong)  
 Office address: EB324, Xi'an Jiaotong-Liverpool University, Suzhou Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou 215123, China     
 Phone: +86 (0)512-89173951
 Email: Myeongsu.Seong__at__xjtlu.edu.cn          
@@ -26,17 +26,8 @@ Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).
 
 
 ***Master's student***     
+TBA    
 
-**Xingqian (Boray) Wang** (From October 2023 to present)   
-Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
-Program: MSc in Multimedia Telecommunications      
-Working on the master's thesis in the Lab.   
-
-**Yuchen Zhong** (From August 2024 to present)   
-Email: Yuchen.Zhong23__at__student.xjtlu.edu.cn  
-Program: MSc in Social Comupting   
-Working on the master's thesis in the Lab.    
-Co-supervised with Yu Liu (industry supervisor) at Institute of Digital Medical Technology Shanghai Yangtze Delta Innovation Institute, Jiangsu Industrial Technology Research Institute (JITRI)
 
 
 ***Undergraduate student***   
@@ -98,6 +89,17 @@ Previous members
 TBA      
 
 ***Master's student***   
+**Xingqian (Boray) Wang** (From October 2023 to April 2025)   
+Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
+Program: MSc in Multimedia Telecommunications      
+Completed the master's thesis in the Lab.   
+
+**Yuchen Zhong** (From August 2024 to April 2025)   
+Email: Yuchen.Zhong23__at__student.xjtlu.edu.cn  
+Program: MSc in Social Comupting   
+Completed the master's thesis in the Lab.    
+Co-supervised with Yu Liu (industry supervisor) at Institute of Digital Medical Technology Shanghai Yangtze Delta Innovation Institute, Jiangsu Industrial Technology Research Institute (JITRI)   
+
 **Siying Lyu** (From September 2023 to April 2024)   
 Program: MSc in Financial Computing   
 Completed the master's thesis in the Lab.   
@@ -138,4 +140,4 @@ Email: Haiyang.Li19__at__student.xjtlu.edu.cn
 Program: BEng in Electronic Science and Technology     
 Completed the final year project in the Lab.       
 
-**Zhenxu Gao** (BSc in Information and Computing Science).   
+**Zhenxu Gao** (BSc in Information and Computing Science)   

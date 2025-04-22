@@ -63,11 +63,12 @@ Languages
 
 Grants (as principal investigator)
 ------
-* University internal project (XJTLU), FOSA2406037, Postgraduate research fellowship (PGRS), 2024.09 - 2027.08, 297,000 RMB, 3-year tuition fee of a PhD student, Principal investigator   
-* University internal project (XJTLU), SURF-2024-0378, Summer Undergraduate Research Fellowship (SURF, supervised four undergraduate students), 10 weeks, 2024.06 - 2026.08, 6,000 RMB, completed, Principal investigator    
-* University internal project (XJTLU), RDF-23-01-119, Research Development Fund, 36 months, 2024.01 - 2026.12, 100,000 RMB, ongoing, Principal investigator   
-* Provincial project, BK20220603, Jiangsu Young Scientist Fund (江苏省基础研究计划自然科学基金-青年基金项目), 36 months, 2022.07 - 2025.06, 200,000 RMB, ongoing, Principal investigator
-* National project, NRF-2015H1A2A1032268, Development of an optical hemodynamic measurement system and monitoring acute and chronic brain diseases using the developed system (Global Ph.D. Fellowship), 36 months, 2015.03 - 2018.02 (worked on the project: 2015.03 - 2018.02), approximately 540,000 RMB (90,000,000 Korean Won), completed, Principal investigator  
+* •	University internal project (XJTLU), SURF-2025-0143 and SURF-2025-0144, Summer Undergraduate Research Fellowship (SURF, supervised four undergraduate students), 10 weeks, 2025.06 – 2025.08, 6,000 RMB, approved, Principal investigator   
+* University internal project (XJTLU), FOSA2406037, Postgraduate research fellowship (PGRS), 2024.09 – 2027.08, 297,000 RMB, 3-year tuition fee of a PhD student, Principal investigator   
+* University internal project (XJTLU), SURF-2024-0378, Summer Undergraduate Research Fellowship (SURF, supervised four undergraduate students), 10 weeks, 2024.06 – 2024.08, 6,000 RMB, completed, Principal investigator    
+* University internal project (XJTLU), RDF-23-01-119, Research Development Fund, 36 months, 2024.01 – 2026.12, 100,000 RMB, ongoing, Principal investigator   
+* Provincial project, BK20220603, Jiangsu Young Scientist Fund (江苏省基础研究计划自然科学基金-青年基金项目), 36 months, 2022.07 – 2025.06, 200,000 RMB, ongoing, Principal investigator
+* National project, NRF-2015H1A2A1032268, Development of an optical hemodynamic measurement system and monitoring acute and chronic brain diseases using the developed system (Global Ph.D. Fellowship), 36 months, 2015.03 – 2018.02 (worked on the project: 2015.03 – 2018.02), approximately 540,000 RMB (90,000,000 Korean Won), completed, Principal investigator  
 
 
 Awards/Distinctions
@@ -89,6 +90,8 @@ Awards/Distinctions
 Services and Membership
 ------
 ***Review provided for journals***   
+* 2025
+AIP Advances (x1); Spectroscopy Journal (x1); Optics Letters (x1)   
 * 2024   
 Computers in Biology and Medicine (x1); IEEE Open Journal of Engineering in Medicine and Biology (x1); Applied physics Letters (x1); APL Photonics (x2); IEEE Access (x4); Sensors (x2); Biosensors (x2); Photonics (x2); BMC Research Notes (x1); Scientific Reports (x1)      
 * 2023   
@@ -99,18 +102,19 @@ APL Photonics (x1)
 Neurophotonics (x1)   
 
 ***Technical program committee member***   
-* 10th Asia Conference on Mechanical Engineering and Aerospace Engineering, October 18, 2024 - 20 October, 2024     
-* International Conference on Smart Computing, IoT and Machine Learning 2024, July 25, 2024 - July 27, 2024   
+* 10th Asia Conference on Mechanical Engineering and Aerospace Engineering, October 18, 2024 – 20 October, 2024     
+* International Conference on Smart Computing, IoT and Machine Learning 2024, July 25, 2024 – July 27, 2024   
 
 ***Review provided for conferences***
-* The 2nd International Conference on Optical Communication and Optical Information Processing (reviewed one manuscript), December 20, 2024 - December 22, 2024      
-* 10th Asia Conference on Mechanical Engineering and Aerospace Engineering (Reviewed three manuscripts), October 18, 2024 - 20 October, 2024   
-* International Conference on Smart Computing, IoT and Machine Learning 2024 (reviewed five manuscripts), June 6, 2024 - June 7, 2024      
-* 10th International Conference on Smart Computing and Communication 2024 (reviewed two manuscripts), July 25, 2024 - July 27, 2024   
+* International Conference on Smart Computing, IoT and Machine Learning 2025 (reviewed one manuscript, June 3, 2025 – June 4, 2025)
+* The 2nd International Conference on Optical Communication and Optical Information Processing (reviewed one manuscript), December 20, 2024 – December 22, 2024      
+* 10th Asia Conference on Mechanical Engineering and Aerospace Engineering (Reviewed three manuscripts), October 18, 2024 – 20 October, 2024   
+* International Conference on Smart Computing, IoT and Machine Learning 2024 (reviewed five manuscripts), June 6, 2024 – June 7, 2024      
+* 10th International Conference on Smart Computing and Communication 2024 (reviewed two manuscripts), July 25, 2024 – July 27, 2024   
 
 ***Membership***   
 * Fellow of Advance HE (FHEA), Advance HE, 2024 – present   
 * Member, Optical Society of Korea, 2024 – present     
 
 ***External examiner for Ph.D dissertation***   
-* Deep learning-aided spectroscopic approaches for assessment of beef quality and authenticity, Youngjoo Lee, November 21, 2023
+* Youngjoo Lee at GIST (November 21, 2023); Minhee Kim at GIST (November 18, 2024); Yoonho Oh at GIST (November 27, 2023)
