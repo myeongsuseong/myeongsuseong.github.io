@@ -117,4 +117,4 @@ Neurophotonics (x1)
 * Member, Optical Society of Korea, 2024 – present     
 
 ***External examiner for Ph.D dissertation***   
-* Youngjoo Lee at GIST (November 21, 2023); Minhee Kim at GIST (November 18, 2024); Yoonho Oh at GIST (November 27, 2023)
+* Youngjoo Lee at GIST (November 21, 2023); Minhee Kim at GIST (November 18, 2024); Yoonho Oh at GIST (November 27, 2024)
