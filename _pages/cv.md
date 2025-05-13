@@ -102,7 +102,7 @@ APL Photonics (x1)
 Neurophotonics (x1)   
 
 ***Technical program committee member***   
-* 10th Asia Conference on Mechanical Engineering and Aerospace Engineering, October 18, 2024 – 20 October, 2024     
+* 10th Asia Conference on Mechanical Engineering and Aerospace Engineering, October 18, 2024 – October 20, 2024     
 * International Conference on Smart Computing, IoT and Machine Learning 2024, July 25, 2024 – July 27, 2024   
 
 ***Review provided for conferences***
@@ -113,6 +113,7 @@ Neurophotonics (x1)
 * 10th International Conference on Smart Computing and Communication 2024 (reviewed two manuscripts), July 25, 2024 – July 27, 2024   
 
 ***Membership***   
+* Member, IEEE, 2025 – present
 * Fellow of Advance HE (FHEA), Advance HE, 2024 – present   
 * Member, Optical Society of Korea, 2024 – present     
 
