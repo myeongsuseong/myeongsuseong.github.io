@@ -7,6 +7,8 @@ author_profile: true
 
 Invited talks
 ------
+1. **Myeongsu Seong** "A brief introduction of optical tools for biomedical engineering researches", Date: May 24, 2025. 2025 Spring Conference of Korean Scientists and Engineers Association in China  
+1. **Myeongsu Seong** "의학과 공학의 만남이 열어가는 길: 의공학 (A path opened by the meeting of medicine and engineering: biomedical engineering)", Date: May 23, 2025. Shanghai Korean School (for high school students who will enter a colleage soon)    
 1. **Myeongsu Seong** "Classification of Alzheimer’s and age-matched animals using hemodynamic signals during hypoxic gas challenge", Date: November 7, 2024 (period: November 7, 2024 - November 9, 2024). Organizer: International Biomedical Engineering Conference 2024 (jointly held with 2024 Autumn Conference of the Korean Society of Medical and Biological Engineering)   
 1. **Myeongsu Seong** "Meat Freshness Monitoring Using Speckle Imaging", Date: August 26, 2024. Invited by Prof. Dasol Lee. Organizer: Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea
 1. **Myeongsu Seong** "Advancements in deep tissue optical blood flow monitoring technology", Date: November 10, 2023 (period: November 9, 2023 - November 11, 2023). Organizer: International Biomedical Engineering Conference 2023 (jointly held with 2023 Autumn Conference of the Korean Society of Medical and Biological Engineering)   
