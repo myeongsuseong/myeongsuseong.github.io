@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2025
 -----
+* Junhe Liu, Yihai Hu, Mingjian Jia, and Zibo Ji participate in the summer undergraduate research fellowship (SURF) suggested by Dr. Seong in summer 2025. Welcome all!   
+   
 * Dr. Seong will give an invited talk about biomedical engineering for Korean high school students in Shanghai on May 23, 2025 and an invited talk entitled "A brief introduction to optical tools for biomedical engineering researches" at the 2025 Spring Conference of Korean Scientists and Engineers Association in China on May 24, 2025.      
 
 * A research article manuscript titled "Estimating PM2.5 exposures and cardiovascular disease risks in the Yangtze River Delta region using a spatiotemporal convolutional approach to fill satellite data gaps" that Dr. Seong participated as a co-author has been accepted for publication by Toxics on May 12, 2025.     

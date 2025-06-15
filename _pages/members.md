@@ -54,12 +54,12 @@ Participated in SURF.
 **Mingjian Jia** (From June 2024 to present)   
 Email: Mingjian.Jia23__at__student.xjtlu.edu.cn   
 Program: BEng in Mechatronics and Robotic Systems (4th semester)      
-Volunteered for SURF.   
+Participating in SURF.     
 
 **Yihai Hu** (From June 2024 to present)   
 Email: Yihai.Hu23__at__student.xjtlu.edu.cn   
 Program: BEng in Electronic Science and Technology (4th semester)      
-Volunteered for SURF.   
+Participating in SURF.   
 
 **Miao Lu** (From September 2024 to present)         
 Email: Miao.Lu21__at__student.xjtlu.edu.cn  
@@ -79,6 +79,12 @@ Doing the final year project in the Lab.
 **Junhe Liu** (From January 2025 to present)   
 Email: Junhe.Liu22__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering (6th semester)    
+Participating in SURF.   
+
+**Zibo Ji** (From June 2025 to present)   
+Email: Zibo.Ji23__at__student.xjtlu.edu.cn  
+Program: BEng in Electronic Science and Technology (4th semester)    
+Participating in SURF.   
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 
