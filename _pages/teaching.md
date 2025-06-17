@@ -9,7 +9,7 @@ After XJTLU
 ------
 * MEC106 Engineering Drawing (co-teaching), AY2425-S1   
 
-* MEC104 Experimental, Computer Skills and Sustainability (co-teaching), AY2324-S2; AY2425-S2         
+* MEC104 Experimental, Computer Skills and Sustainability (co-teaching), AY2324-S2; AY2425-S2 (module leader)         
 
 * SAT006 Foundations of Computer Science and Engineering (co-teaching), AY2324-S1   
 

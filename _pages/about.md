@@ -17,7 +17,7 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
-* A research article manuscript titled "Photoacoustic microscopy for visualization of stents in multiple scenarios" that Dr. Seong participated as a coresponding author has been accepted for publication by Optics Letters on June 17, 2025.     
+* A research article manuscript titled "Photoacoustic microscopy for visualization of stents in multiple scenarios" that Dr. Seong participated as a co-corresponding author has been accepted for publication by Optics Letters on June 17, 2025.     
 
 * Junhe Liu, Yihai Hu, Mingjian Jia, and Zibo Ji participate in the summer undergraduate research fellowship (SURF) suggested by Dr. Seong in summer 2025. Welcome all!         
 
