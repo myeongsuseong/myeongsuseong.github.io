@@ -91,7 +91,7 @@ Services and Membership
 ------
 ***Review provided for journals***   
 * 2025
-AIP Advances (x1); Spectroscopy Journal (x1); Optics Letters (x1)   
+AIP Advances (x1); Spectroscopy Journal (x1); Optics Letters (x1); International Journal of Pervasive Computing and Communications (x1); Sensors (x1)   
 * 2024   
 Computers in Biology and Medicine (x1); IEEE Open Journal of Engineering in Medicine and Biology (x1); Applied physics Letters (x1); APL Photonics (x2); IEEE Access (x4); Sensors (x2); Biosensors (x2); Photonics (x2); BMC Research Notes (x1); Scientific Reports (x1)      
 * 2023   
@@ -106,6 +106,7 @@ Neurophotonics (x1)
 * International Conference on Smart Computing, IoT and Machine Learning 2024, July 25, 2024 – July 27, 2024   
 
 ***Review provided for conferences***
+* 2025 4th International Conference On Multidisciplinary Applications of Information Technology (reviewed one manuscript) August 25, 2025 – August 26, 2025      
 * International Conference on Smart Computing, IoT and Machine Learning 2025 (reviewed one manuscript, June 3, 2025 – June 4, 2025)
 * The 2nd International Conference on Optical Communication and Optical Information Processing (reviewed one manuscript), December 20, 2024 – December 22, 2024      
 * 10th Asia Conference on Mechanical Engineering and Aerospace Engineering (Reviewed three manuscripts), October 18, 2024 – 20 October, 2024   
@@ -113,9 +114,10 @@ Neurophotonics (x1)
 * 10th International Conference on Smart Computing and Communication 2024 (reviewed two manuscripts), July 25, 2024 – July 27, 2024   
 
 ***Membership***   
+* Member (MIET), Institution of Engineering and Technology, 2025 – present    
 * Member, IEEE, 2025 – present
 * Fellow of Advance HE (FHEA), Advance HE, 2024 – present   
 * Member, Optical Society of Korea, 2024 – present     
 
 ***External examiner for Ph.D dissertation***   
-* Youngjoo Lee at GIST (November 21, 2023); Minhee Kim at GIST (November 18, 2024); Yoonho Oh at GIST (November 27, 2024)
+* Youngjoo Lee at GIST (November 21, 2023); Minhee Kim at GIST (November 18, 2024); Yoonho Oh at GIST (November 27, 2024); Nourelhuda Ali Yousif Mohamed at GIST (May 19, 2025); Manal Mustafa Mohamedali Mohamed at GIST (May 19, 2025); Semere Araya Asefa at Yonsei University Mirae Campus (June 9, 2025)

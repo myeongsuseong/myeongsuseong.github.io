@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2025
 -----
+* A research article manuscript titled "Thermal protection of wearable devices under outdoor conditions using radiative cooling films" that Dr. Seong participated as a co-author has been accepted for publication by Optical Materials on June 19, 2025.    
+
 * A research article manuscript titled "Photoacoustic microscopy for visualization of stents in multiple scenarios" that Dr. Seong participated as a co-corresponding author has been accepted for publication by Optics Letters on June 17, 2025.     
 
 * Junhe Liu, Yihai Hu, Mingjian Jia, and Zibo Ji participate in the summer undergraduate research fellowship (SURF) suggested by Dr. Seong in summer 2025. Welcome all!   

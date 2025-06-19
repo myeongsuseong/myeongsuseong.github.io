@@ -7,7 +7,7 @@ author_profile: false
 
 ## Principal investigator   
 <img src="https://myeongsuseong.github.io/images/myeongsu_seong.png" width="300" height="300">   
-**Myeongsu Seong, PhD, FHEA**    
+**Myeongsu Seong, PhD, FHEA, MIET**    
 [CV (HTML, less frequently updated)](https://myeongsuseong.github.io/cv) [CV (PDF)](https://myeongsuseong.github.io/files/MyeongsuSeong_CV.pdf) [Google Scholar](https://scholar.google.com/citations?user=UE6g5hoAAAAJ&hl=en) [Researchgate](https://www.researchgate.net/profile/Myeongsu-Seong)  
 Office address: EB324, Xi'an Jiaotong-Liverpool University, Suzhou Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou 215123, China     
 Phone: +86 (0)512-89173951
@@ -29,22 +29,11 @@ Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).
 TBA    
 
 
-
-***Undergraduate student***   
-
-**Wenzhe Shi** (From September 2023 to present)         
-Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (8th semester)   
-Doing the final year project in the Lab.
+***Undergraduate student***    
 
 **Jingxuan Qian** (From April 2024 to present)   
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering (6th semester)
-
-**Eunyong Lee** (From June 2024 to present)   
-Email: E.Lee1802__at__student.xjtlu.edu.cn   
-Program: BEng in Mechatronics and Robotic systems (8th semester)      
-Participated in SURF and doing the final year project in the Lab.   
 
 **Haoran Xu** (From June 2024 to Aug 2024 (SURF); From October 2024 to present)   
 Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
@@ -60,21 +49,6 @@ Participating in SURF.
 Email: Yihai.Hu23__at__student.xjtlu.edu.cn   
 Program: BEng in Electronic Science and Technology (4th semester)      
 Participating in SURF.   
-
-**Miao Lu** (From September 2024 to present)         
-Email: Miao.Lu21__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (8th semester)   
-Doing the final year project in the Lab.   
-
-**Yanxue Guo** (From September 2024 to present)         
-Email: Yanxue.Guo21__at__student.xjtlu.edu.cn  
-Program: BEng in Electronic Science and Technology (8th semester)   
-Doing the final year project in the Lab.   
-
-**Linwei Ye** (From September 2024 to present)         
-Email: Linwei.Ye21__at__student.xjtlu.edu.cn  
-Program: BEng in Information Management and Information Systems (8th semester)   
-Doing the final year project in the Lab.
 
 **Junhe Liu** (From January 2025 to present)   
 Email: Junhe.Liu22__at__student.xjtlu.edu.cn  
@@ -95,6 +69,7 @@ Previous members
 TBA      
 
 ***Master's student***   
+
 **Xingqian (Boray) Wang** (From October 2023 to April 2025)   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
 Program: MSc in Multimedia Telecommunications      
@@ -111,6 +86,31 @@ Program: MSc in Financial Computing
 Completed the master's thesis in the Lab.   
 
 ***Undergraduate student***   
+
+**Linwei Ye** (From September 2024 to July 2025)         
+Email: Linwei.Ye21__at__student.xjtlu.edu.cn  
+Program: BEng in Information Management and Information Systems      
+Completed the final year project in the Lab.
+
+**Miao Lu** (From September 2024 to July 2025)         
+Email: Miao.Lu21__at__student.xjtlu.edu.cn  
+Program: BEng in Telecommunications Engineering      
+Completed the final year project in the Lab.   
+
+**Eunyong Lee** (From June 2024 to July 2025)   
+Email: E.Lee1802__at__student.xjtlu.edu.cn   
+Program: BEng in Mechatronics and Robotic systems      
+Participated in SURF and completed the final year project in the Lab.   
+
+**Wenzhe Shi** (From September 2023 to July 2025)         
+Email: Wenzhe.Shi21__at__student.xjtlu.edu.cn  
+Program: BEng in Telecommunications Engineering   
+Completed the final year project in the Lab.   
+
+**Yanxue Guo** (From September 2024 to July 2025)         
+Email: Yanxue.Guo21__at__student.xjtlu.edu.cn  
+Program: BEng in Electronic Science and Technology   
+
 **Xiangru Feng** (From June 2024 to Aug 2024)   
 Email: Xiangru.Feng22__at__student.xjtlu.edu.cn   
 Program: BEng in Mechatronics and Robotic systems (4th semester)   
