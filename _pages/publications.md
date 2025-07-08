@@ -9,14 +9,13 @@ author_profile: true
 After XJTLU
 ------
 Peer-reviewed publications
-1. <ins>Hao Zhong</ins> and **Myeongsu Seong**# "speckle imaging for meat monitoring (tentative title)," (in preparation)
 1. Muhammad Jawad Hussain#, **Myeongsu Seong**, Heming Bai  "WordNet-based semantic computation (tentative title)," (in review)    
 1. Seokgyu Kwon^, Sangmin Shim^, Kyunghyun Yu, **Myeongsu Seong**#, and Dasol Lee# "Advances in electrospun nanofibers for tissue engineering, wound dressing, biosensors, and drug delivery (tentative title)," (in submission)   
 1. Minseo Jeong, Seokgyu Kwon, Changhwan Hyeon, Juhoon Baek **Myeongsu Seong**, Minkyung Kim#, and Dasol Lee# "Zein-integrated PVA nanofibers for radiative cooling (tentative title)," (in submission)   
 1. Siqi Liang^, Nan Wan^, Guo Chen^, Sung-Liang Chen#, and **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," (in submission)   
 1. Hyeryun Jeong^, **Myeongsu Seong**#, Kwangsung Park#, and Jae Gwan Kim# "Evaluation of female sexual arousal response using optical techniques: a mini-review," Sexual Medicine (in revision)   
-1. Changhwan Hyeon^, Minseo Jeong^, Seokgyu Kwon, Juhoon Baek, **Myeongsu Seong**, Minkyung Kim, and Dasol Lee# "Thermal protection of wearable devices under outdoor conditions using radiative cooling films," Optical Materials (accepted for publication)   
 1. Siqi Liang^, Nan Wan^, Wenxuan Pi^, Ke Zhang, Jingfei Wen, and Sung-Liang Chen#, **Myeongsu Seong**# "Photoacoustic microscopy for visualization of stents in multiple scenarios," Optics Letters (accepted for publication)   
+1. Changhwan Hyeon^, Minseo Jeong^, Seokgyu Kwon, Juhoon Baek, **Myeongsu Seong**, Minkyung Kim, and Dasol Lee# "Thermal protection of wearable devices under outdoor conditions using radiative cooling films," Optical Materials 167, 117258, 2025     
 1. Muhammad Jawad Hussain#, **Myeongsu Seong**, and Behjat Shahid, and Heming Bai# "Assessing PM2.5 exposures across the Yangtze River Delta region by filling satellite aerosol optical depth and top-of-atmosphere retrieval gaps using a temporal and spatial convolutional approach," Toxics 13(5), 392, 2025      
 1. Jingfei Wen, **Myeongsu Seong**, Guo Chen, and Sung-Liang Chen# "Low-cost diffuse optical spectroscopy for assisting sclerotherapy: A proof-of-concept study," Optics and Laser Technology 186, 112664, 2025       
 1. Semere Asefa, **Myeongsu Seong**#, and Dasol Lee# "Design of Bilayer Crescent Chiral Metasurfaces for Enhanced Chiroptical Response," Sensors 25(3), 915, 2025   
