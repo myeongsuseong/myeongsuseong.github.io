@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2025
 -----
+* Postgraduate research fellowship (PGRS, FOSA2506035, value: 297,000 RMB) has been awarded from XJTLU to support the 3-year tuition fee of a PhD student on July 16, 2025.   
+
 * A research article manuscript titled "Thermal protection of wearable devices under outdoor conditions using radiative cooling films" that Dr. Seong participated as a co-author has been accepted for publication by Optical Materials on June 19, 2025.    
 
 * A research article manuscript titled "Photoacoustic microscopy for visualization of stents in multiple scenarios" that Dr. Seong participated as a co-corresponding author has been accepted for publication by Optics Letters on June 17, 2025.     
