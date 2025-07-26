@@ -17,6 +17,8 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
+* A work "Photoacoustic microscopy for visualization of stents in multiple scenarios" has been highlighted in the media ([Optica Newsroom](https://www.optica.org/about/newsroom/news_releases/2025/noninvasive_stent_imaging_powered_by_light_and_sound/); [AAAS Eurekalert!](https://www.eurekalert.org/news-releases/1092525)).     
+
 * Postgraduate research fellowship (PGRS, FOSA2506035, value: 297,000 RMB) has been awarded from XJTLU to support the 3-year tuition fee of a PhD student on July 16, 2025.   
 
 * A research article manuscript titled "Thermal protection of wearable devices under outdoor conditions using radiative cooling films" that Dr. Seong participated as a co-author has been accepted for publication by Optical Materials on June 19, 2025.    
@@ -24,5 +26,3 @@ Latest events and news
 * A research article manuscript titled "Photoacoustic microscopy for visualization of stents in multiple scenarios" that Dr. Seong participated as a co-corresponding author has been accepted for publication by Optics Letters on June 17, 2025.     
 
 * Junhe Liu, Yihai Hu, Mingjian Jia, and Zibo Ji participate in the summer undergraduate research fellowship (SURF) suggested by Dr. Seong in summer 2025. Welcome all!         
-
-* Dr. Seong will give an invited talk about biomedical engineering for Korean high school students in Shanghai on May 23, 2025 and an invited talk entitled "A brief introduction to optical tools for biomedical engineering researches (tentative)" at the 2025 Spring Conference of Korean Scientists and Engineers Association in China on May 24, 2025.      
