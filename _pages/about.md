@@ -17,7 +17,7 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
-* A work "Photoacoustic microscopy for visualization of stents in multiple scenarios" has been highlighted in the media ([Optica Newsroom](https://www.optica.org/about/newsroom/news_releases/2025/noninvasive_stent_imaging_powered_by_light_and_sound/); [AAAS Eurekalert!](https://www.eurekalert.org/news-releases/1092525)).     
+* A work "Photoacoustic microscopy for visualization of stents in multiple scenarios" has been highlighted in the media \[[Optica Newsroom](https://www.optica.org/about/newsroom/news_releases/2025/noninvasive_stent_imaging_powered_by_light_and_sound/); [AAAS Eurekalert!](https://www.eurekalert.org/news-releases/1092525)\].     
 
 * Postgraduate research fellowship (PGRS, FOSA2506035, value: 297,000 RMB) has been awarded from XJTLU to support the 3-year tuition fee of a PhD student on July 16, 2025.   
 
