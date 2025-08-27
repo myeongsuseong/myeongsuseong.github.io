@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2025
 -----
+* Dr. Seong gave an invited talk about photoacoustic microscopy for through-skin stent imaging at Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea, on August 26, 2025.   
+
 * A review article manuscript titled "Optical Assessment of Genital Changes Associated with Female Sexual Arousal: A Mini-Review" that Dr. Seong participated as a co-corresponding author has been accepted for publication by Sexual Medicine on August 10, 2025.     
 
 * "Photoacoustic microscopy for visualization of stents in multiple scenarios" has been highlighted in the media \[[Optica Newsroom](https://www.optica.org/about/newsroom/news_releases/2025/noninvasive_stent_imaging_powered_by_light_and_sound/); [AAAS Eurekalert!](https://www.eurekalert.org/news-releases/1092525); [Optics & Photonics News](https://www.optica-opn.org/home/newsroom/2025/july/monitoring_stents_through_skin/); [Phys.org](https://phys.org/news/2025-07-noninvasive-stent-imaging-powered.html); [Optics.org](https://optics.org/news/16/7/51); [AZoOptics](https://www.azooptics.com/News.aspx?newsID=30437); [SSBCracK News](https://news.ssbcrack.com/revolutionary-imaging-technique-allows-noninvasive-monitoring-of-stents-through-skin/)\].     
