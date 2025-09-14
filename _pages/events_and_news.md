@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2025
 -----
+* Jingxuan Qian, Haoran Xu, Junhe Liu, Ruiyu Wu, Xingyu Chen, and Haobo Zhang work with Dr. Seong for their bachelor's final year projects (FYP) from September 10, 2025. Welcome all!   
+
 * Dr. Seong gave an invited talk about photoacoustic microscopy for through-skin stent imaging at Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea, on August 26, 2025.   
 
 * A review article manuscript titled "Optical Assessment of Genital Changes Associated with Female Sexual Arousal: A Mini-Review" that Dr. Seong participated as a co-corresponding author has been accepted for publication by Sexual Medicine on August 10, 2025.     
@@ -39,7 +41,7 @@ author_profile: false
 -----
 * Dr. Seong gave an invited talk at International Biomedical Engineering Conference (IBEC) 2024 organized by the Korean Society of Medical and Biological Engineering (KOSOMBE) on November 7, 2024 in Korea.   
 
-* Eunyong Lee, Wenzhe Shi, Miao Lu, Yanxue Guo and Linwei Ye work with Dr. Seong for their bachelor's final year project (FYP) from September 12, 2023. Welcome aboard Eunyong, Wenzhe, Miao, Yanxue, and Linwei!   
+* Eunyong Lee, Wenzhe Shi, Miao Lu, Yanxue Guo and Linwei Ye work with Dr. Seong for their bachelor's final year projects (FYP) from September 12, 2023. Welcome aboard Eunyong, Wenzhe, Miao, Yanxue, and Linwei!   
 
 * Dr. Seong gave an invited talk at Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea, on August 26, 2024.    
 
@@ -68,7 +70,7 @@ author_profile: false
 
 * Dr. Seong gives a short presentation at 2023 SAT Research and Industry Day organized by the School of Advanced Technology, XJTLU on September 20, 2023.
 
-* Chang Liu, Guorui Xu, Hao Zhong, Tobias Gilbert Jusmin, and Haiyang Li join the Lab for their bachelor's final year project (FYP) on September 19, 2023. Welcome aboard Chang, Guorui, Hao, Tobias, and Haiyang!
+* Chang Liu, Guorui Xu, Hao Zhong, Tobias Gilbert Jusmin, and Haiyang Li join the Lab for their bachelor's final year projects (FYP) on September 19, 2023. Welcome aboard Chang, Guorui, Hao, Tobias, and Haiyang!
 
 * Siying Lyu joins the Lab for her master's final year project (FMP) on September 19, 2023. Welcome aboard Siying!
 

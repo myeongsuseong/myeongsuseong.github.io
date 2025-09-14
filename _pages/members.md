@@ -20,8 +20,8 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 **Jiachen Zhou** (From September 2024 to present)   
 Email: Jiachen.Zhou24__at__student.xjtlu.edu.cn  
-Program: Ph.D. in Electronic and Electrical Engineering (2nd semester)     
-Working on the development and applications of photoacoustic imaging systems.   
+Program: Ph.D. in Electronic and Electrical Engineering (3rd semester)     
+Working on the development and applications of laser speckle systems.   
 Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).          
 
 
@@ -33,32 +33,33 @@ TBA
 
 **Jingxuan Qian** (From April 2024 to present)   
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (6th semester)
+Program: BEng in Telecommunications Engineering (7th semester)
+Doing his final year project in the Lab.
 
 **Haoran Xu** (From June 2024 to Aug 2024 (SURF); From October 2024 to present)   
 Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (6th semester)      
-Participated in SURF.   
-
-**Mingjian Jia** (From June 2024 to present)   
-Email: Mingjian.Jia23__at__student.xjtlu.edu.cn   
-Program: BEng in Mechatronics and Robotic Systems (4th semester)      
-Participating in SURF.     
-
-**Yihai Hu** (From June 2024 to present)   
-Email: Yihai.Hu23__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (4th semester)      
-Participating in SURF.   
+Program: BEng in Electronic Science and Technology (7th semester)      
+Participated in SURF and doing his final year project in the Lab.     
 
 **Junhe Liu** (From January 2025 to present)   
 Email: Junhe.Liu22__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (6th semester)    
-Participating in SURF.   
+Program: BEng in Telecommunications Engineering (7th semester)    
+Participated in SURF and doing his final year project in the Lab.  
 
-**Zibo Ji** (From June 2025 to present)   
-Email: Zibo.Ji23__at__student.xjtlu.edu.cn  
-Program: BEng in Electronic Science and Technology (4th semester)    
-Participating in SURF.   
+**Ruiyu Wu** (From September 2025 to present)   
+Email: Ruiyu.Wu2202__at__student.xjtlu.edu.cn   
+Program: BEng in Electronic Science and Technology (7th semester)      
+Doing his final year project in the Lab.   
+
+**Xingyu Chen** (From September 2025 to present)   
+Email: Xingyu.Chen2203__at__student.xjtlu.edu.cn   
+Program: BSc in Information Management and Information Systems (7th semester)      
+Doing his final year project in the Lab.   
+
+**Haobo Zhang** (From September 2025 to present)   
+Email: Haobo.Zhang22__at__student.xjtlu.edu.cn   
+Program: BEng in Digital Media Technology (7th semester)      
+Doing his final year project in the Lab.   
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 
@@ -86,10 +87,24 @@ Program: MSc in Financial Computing
 Completed the master's thesis in the Lab.   
 
 ***Undergraduate student***   
+**Mingjian Jia** (From June 2024 to August 2025)   
+Email: Mingjian.Jia23__at__student.xjtlu.edu.cn   
+Program: BEng in Mechatronics and Robotic Systems (4th semester)      
+Participated in SURF.     
+
+**Yihai Hu** (From June 2024 to August 2025)   
+Email: Yihai.Hu23__at__student.xjtlu.edu.cn   
+Program: BEng in Electronic Science and Technology (4th semester)      
+Participated in SURF.  
+
+**Zibo Ji** (From June 2025 to August 2025)   
+Email: Zibo.Ji23__at__student.xjtlu.edu.cn  
+Program: BEng in Electronic Science and Technology (4th semester)    
+Participated in SURF.  
 
 **Linwei Ye** (From September 2024 to July 2025)         
 Email: Linwei.Ye21__at__student.xjtlu.edu.cn  
-Program: BEng in Information Management and Information Systems      
+Program: BSc in Information Management and Information Systems      
 Completed the final year project in the Lab.
 
 **Miao Lu** (From September 2024 to July 2025)         

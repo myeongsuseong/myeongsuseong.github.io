@@ -64,7 +64,7 @@ Languages
 Grants (as principal investigator)
 ------
 * University internal project (XJTLU), FOSA2506035, Postgraduate research fellowship (PGRS), TBA, 297,000 RMB, 3-year tuition fee of a PhD student, Principal investigator   
-* University internal project (XJTLU), SURF-2025-0143 and SURF-2025-0144, Summer Undergraduate Research Fellowship (SURF, supervised four undergraduate students), 10 weeks, 2025.06 – 2025.08, 6,000 RMB, approved, Principal investigator   
+* University internal project (XJTLU), SURF-2025-0143 and SURF-2025-0144, Summer Undergraduate Research Fellowship (SURF, supervised four undergraduate students), 10 weeks, 2025.06 – 2025.08, 6,000 RMB, completed, Principal investigator   
 * University internal project (XJTLU), FOSA2406037, Postgraduate research fellowship (PGRS), 2024.09 – 2027.08, 297,000 RMB, 3-year tuition fee of a PhD student, Principal investigator   
 * University internal project (XJTLU), SURF-2024-0378, Summer Undergraduate Research Fellowship (SURF, supervised four undergraduate students), 10 weeks, 2024.06 – 2024.08, 6,000 RMB, completed, Principal investigator    
 * University internal project (XJTLU), RDF-23-01-119, Research Development Fund, 36 months, 2024.01 – 2026.12, 100,000 RMB, ongoing, Principal investigator   
