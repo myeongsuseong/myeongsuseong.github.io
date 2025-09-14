@@ -33,8 +33,8 @@ TBA
 
 **Jingxuan Qian** (From April 2024 to present)   
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (7th semester)
-Doing his final year project in the Lab.
+Program: BEng in Telecommunications Engineering (7th semester)   
+Doing his final year project in the Lab.   
 
 **Haoran Xu** (From June 2024 to Aug 2024 (SURF); From October 2024 to present)   
 Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
