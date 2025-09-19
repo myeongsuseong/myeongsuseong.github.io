@@ -21,7 +21,7 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 **Jiachen Zhou** (From September 2024 to present)   
 Email: Jiachen.Zhou24__at__student.xjtlu.edu.cn  
 Program: Ph.D. in Electronic and Electrical Engineering (3rd semester)     
-Working on the development and applications of laser speckle systems.   
+Working on the development and applications of laser speckle imaging systems.   
 Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).          
 
 
