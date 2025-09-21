@@ -10,7 +10,7 @@ After XJTLU
 ------
 Peer-reviewed publications
 1. <ins>Jiachen Zhou</ins>, Siqi Liang#, Jeong Hyeon Park, Anh Nguyen, and **Myeongsu Seong**# "PAI burn review (tentative title)," (in preparation)    
-1. <ins>Jiachen Zhou</ins>, Junyu Yao, Anh Nguyen, Jeong Hyeon Park, Jinxin Gu#, and **Myeongsu Seong**# "C. elegans quantification (tentative title)," (in preparation)   
+1. <ins>Jiachen Zhou</ins>, Junyu Yao, Anh Nguyen, Jeong Hyeon Park, Lei Fu, Jinxin Gu#, and **Myeongsu Seong**# "C. elegans quantification (tentative title)," (in preparation)   
 1. Siqi Liang, Boxiang Liu, Chaoyang Chen, Mingyang Lv, Yue Hu, Qingshan Liu, Sung-Liang Chen#, and **Myeongsu Seong**# "PAE restoration (tentative title)," (in submission)   
 1. Muhammad Jawad Hussain#, **Myeongsu Seong**, Heming Bai  "WordNet-based semantic computation (tentative title)," (in submission)       
 1. Siqi Liang^, Nan Wan^, Guo Chen^, Sung-Liang Chen#, and **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," (in submission)    
