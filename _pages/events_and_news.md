@@ -6,6 +6,10 @@ author_profile: false
 ---
 
 {% include base_path %}
+2026
+-----
+* A research article manuscript titled "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy" that Dr. Seong participated as a co-corresponding author has been accepted by Optics and Laser Technology on January 14, 2026.   
+
 2025
 -----
 * A review article manuscript titled "Advances in electrospun nanofibers for biomedical engineering" that Dr. Seong participated as a co-corresponding author has been accepted by Fibers and Polymers on October 13, 2025.   

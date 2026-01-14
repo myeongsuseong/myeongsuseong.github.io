@@ -13,7 +13,7 @@ Peer-reviewed publications
 1. <ins>Jiachen Zhou</ins>, Junyu Yao, Anh Nguyen, Jeong Hyeon Park, Lei Fu, Jinxin Gu#, and **Myeongsu Seong**# "C. elegans quantification (tentative title)," (in submission)   
 1. Siqi Liang, Boxiang Liu, Chaoyang Chen, Mingyang Lv, Yue Hu, Qingshan Liu, Sung-Liang Chen#, and **Myeongsu Seong**# "PAE restoration (tentative title)," (in submission)   
 1. Muhammad Jawad Hussain#, **Myeongsu Seong**, Heming Bai  "WordNet-based semantic computation (tentative title)," (in submission)       
-1. Siqi Liang^, Nan Wan^, Guo Chen^, Sung-Liang Chen#, and **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," (in submission)    
+1. Siqi Liang^, Nan Wan^, Guo Chen^, Sung-Liang Chen#, and **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," Optics and Laser Technology (Accepted for publication)       
 1. Seokgyu Kwon^, Sangmin Shim^, Kyunghyun Yu, **Myeongsu Seong**#, and Dasol Lee# "Advances in electrospun nanofibers for biomedical engineering," Fibers and Polymers (Accepted for publication)   
 1. Minseo Jeong, Seokgyu Kwon, Changhwan Hyeon, Juhoon Baek **Myeongsu Seong**, Minkyung Kim#, and Dasol Lee# "Hydrophobic radiative cooling using zein-functionalized polyvinyl alcohol nanofibers with dielectric nanoparticles," Small 21(45) e07295, 2025       
 1. Hyeryun Jeong, **Myeongsu Seong**#, Kwangsung Park, and Jae Gwan Kim# "Optical assessment of genital changes associated with female sexual arousal: A mini-review," Sexual Medicine 13(5) qfaf065, 2025       
