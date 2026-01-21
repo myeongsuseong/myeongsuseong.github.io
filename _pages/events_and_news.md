@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2026
 -----
+* Dr. Seong gave an invited talk at International Conference on Electronics, Information, and Communication (ICEIC) 2026 organized by the Institute of Electronics and Information Engineers (IEIE) on February 20, 2026 in Macao, China.     
+
 * A research article manuscript titled "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy" that Dr. Seong participated as a co-corresponding author has been accepted by Optics and Laser Technology on January 14, 2026.   
 
 2025

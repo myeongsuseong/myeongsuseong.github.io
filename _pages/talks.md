@@ -7,6 +7,7 @@ author_profile: true
 
 Invited talks
 ------
+1. **Myeongsu Seong** "Near-Infrared Spectroscopy for Biomedical Applications", Date: February 20, 2026 (period: February 18, 2026 - February 21, 2026). Organizer: Institute of Electronics and Information Engineers (IEIE) (International Conference on Electronics, Information, and Communication (ICEIC) 2026).     
 1. **Myeongsu Seong** "Photoacoustic Microscopy for Visualization of Stents in Multiple Scenarios", Date: August 26, 2025. Invited by Prof. Dasol Lee. Organizer: Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea   
 1. **Myeongsu Seong** "A brief introduction of optical tools for biomedical engineering researches", Date: May 24, 2025. 2025 Spring Conference of Korean Scientists and Engineers Association in China  
 1. **Myeongsu Seong** "의학과 공학의 만남이 열어가는 길: 의공학 (A path opened by the meeting of medicine and engineering: biomedical engineering)", Date: May 23, 2025. Shanghai Korean School (for high school students who will enter a college soon)    

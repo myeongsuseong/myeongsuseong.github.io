@@ -17,12 +17,12 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
+* Dr. Seong gave an invited talk at International Conference on Electronics, Information, and Communication (ICEIC) 2026 organized by the Institute of Electronics and Information Engineers (IEIE) on February 20, 2026 in Macao, China.     
+
 * A research article manuscript titled "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy" that Dr. Seong participated as a co-corresponding author has been accepted by Optics and Laser Technology on January 14, 2026.   
 
 * A review article manuscript titled "Advances in electrospun nanofibers for biomedical engineering" that Dr. Seong participated as a co-corresponding author has been accepted by Fibers and Polymers on October 13, 2025.   
 
 * A research article manuscript titled "Hydrophobic radiative cooling using zein-functionalized polyvinyl alcohol nanofibers with dielectric nanoparticles" that Dr. Seong participated as a co-author has been published in Small on September 24, 2025.   
 
-* Jingxuan Qian, Haoran Xu, Junhe Liu, Ruiyu Wu, Xingyu Chen, and Haobo Zhang work with Dr. Seong for their bachelor's final year projects (FYP) from September 10, 2025. Welcome all!   
-
-* Dr. Seong gave an invited talk about photoacoustic microscopy for through-skin stent imaging at Bio-Nanophotonics System Laboratory, Department of Biomedical Engineering, Yonsei University, Korea, on August 26, 2025.   
+* Jingxuan Qian, Haoran Xu, Junhe Liu, Ruiyu Wu, Xingyu Chen, and Haobo Zhang work with Dr. Seong for their bachelor's final year projects (FYP) from September 10, 2025. Welcome all!     
