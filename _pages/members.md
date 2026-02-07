@@ -20,10 +20,15 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 **Jiachen Zhou** (From September 2024 to present)   
 Email: Jiachen.Zhou24__at__student.xjtlu.edu.cn  
-Program: Ph.D. in Electronic and Electrical Engineering (3rd semester)     
+Program: Ph.D. in Electronic and Electrical Engineering (4th semester)     
 Working on the development and applications of laser speckle imaging systems.   
 Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).          
 
+**Xingqian (Boray) Wang** (From March 2026 to present)   
+Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
+Program: Ph.D. in Electronic and Electrical Engineering (1st semester)       
+Working on the development and applications of brain monitoring system.   
+Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Filbert Juwono (XJTLU).         
 
 ***Master's student***     
 TBA    
@@ -33,32 +38,32 @@ TBA
 
 **Jingxuan Qian** (From April 2024 to present)   
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (7th semester)   
+Program: BEng in Telecommunications Engineering (8th semester)   
 Doing his final year project in the Lab.   
 
 **Haoran Xu** (From June 2024 to Aug 2024 (SURF); From October 2024 to present)   
 Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (7th semester)      
+Program: BEng in Electronic Science and Technology (8th semester)      
 Participated in SURF and doing his final year project in the Lab.     
 
 **Junhe Liu** (From January 2025 to present)   
 Email: Junhe.Liu22__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (7th semester)    
+Program: BEng in Telecommunications Engineering (8th semester)    
 Participated in SURF and doing his final year project in the Lab.  
 
 **Ruiyu Wu** (From September 2025 to present)   
 Email: Ruiyu.Wu2202__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (7th semester)      
+Program: BEng in Electronic Science and Technology (8th semester)      
 Doing his final year project in the Lab.   
 
 **Xingyu Chen** (From September 2025 to present)   
 Email: Xingyu.Chen2203__at__student.xjtlu.edu.cn   
-Program: BSc in Information Management and Information Systems (7th semester)      
+Program: BSc in Information Management and Information Systems (8th semester)      
 Doing his final year project in the Lab.   
 
 **Haobo Zhang** (From September 2025 to present)   
 Email: Haobo.Zhang22__at__student.xjtlu.edu.cn   
-Program: BEng in Digital Media Technology (7th semester)      
+Program: BEng in Digital Media Technology (8th semester)      
 Doing his final year project in the Lab.   
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).

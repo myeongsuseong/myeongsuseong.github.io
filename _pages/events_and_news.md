@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2026
 -----
+* Xingqian Wang, a previous master's student at the Lab, received an unconditional offer for PhD study on February 5, 2026. Xingqian will join the Lab as a PhD student in Electronic and Electrical Engineering in March 2026. He will mainly study and work on the development and applications of brain measurement systems. Welcome aboard Xingqian!   
+
 * Dr. Seong gave an invited talk at International Conference on Electronics, Information, and Communication (ICEIC) 2026 organized by the Institute of Electronics and Information Engineers (IEIE) on February 20, 2026 in Macao, China.     
 
 * A research article manuscript titled "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy" that Dr. Seong participated as a co-corresponding author has been accepted by Optics and Laser Technology on January 14, 2026.   
