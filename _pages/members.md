@@ -24,9 +24,9 @@ Program: Ph.D. in Electronic and Electrical Engineering (4th semester)
 Working on the development and applications of laser speckle imaging systems.   
 Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).          
 
-**Xingqian (Boray) Wang** (From March 2026 to present)   
+**Xingqian Wang** (From March 2026 to present)   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
-Program: Ph.D. in Electronic and Electrical Engineering (1st semester)       
+Program: Ph.D. in Computer Science and Software Engineering (1st semester)       
 Working on the development and applications of brain monitoring system.   
 Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Filbert Juwono (XJTLU).         
 
