@@ -58,14 +58,13 @@ Languages
 * Korean (native)
 * English (advanced)
 * Mandarin Chinese (between mid-intermediate and upper-intermediate)  
-* Spanish (beginner)
-* Japanese (beginner)
+* Cantonese (beginner)   
 
 Grants (as principal investigator)
 ------
-* University internal project (XJTLU), FOSA2506035, Postgraduate research fellowship (PGRS), 2026.03 – 2029.02, 297,000 RMB, 3-year tuition fee of a PhD student, Principal investigator   
+* University internal project (XJTLU), FOSA2506035, Postgraduate Research Fellowship (PGRS), 2026.03 – 2029.02, 297,000 RMB, 3-year tuition fee of a PhD student, Principal investigator   
 * University internal project (XJTLU), SURF-2025-0143 and SURF-2025-0144, Summer Undergraduate Research Fellowship (SURF, supervised four undergraduate students), 10 weeks, 2025.06 – 2025.08, 6,000 RMB, completed, Principal investigator   
-* University internal project (XJTLU), FOSA2406037, Postgraduate research fellowship (PGRS), 2024.09 – 2027.08, 297,000 RMB, 3-year tuition fee of a PhD student, Principal investigator   
+* University internal project (XJTLU), FOSA2406037, Postgraduate Research Fellowship (PGRS), 2024.09 – 2027.08, 297,000 RMB, 3-year tuition fee of a PhD student, Principal investigator   
 * University internal project (XJTLU), SURF-2024-0378, Summer Undergraduate Research Fellowship (SURF, supervised four undergraduate students), 10 weeks, 2024.06 – 2024.08, 6,000 RMB, completed, Principal investigator    
 * University internal project (XJTLU), RDF-23-01-119, Research Development Fund, 36 months, 2024.01 – 2026.12, 100,000 RMB, ongoing, Principal investigator   
 * Provincial project, BK20220603, Jiangsu Young Scientist Fund (江苏省基础研究计划自然科学基金-青年基金项目), 36 months, 2022.07 – 2025.06, 200,000 RMB, completed, Principal investigator
@@ -91,6 +90,8 @@ Awards/Distinctions
 Services and Membership
 ------
 ***Review provided for journals***   
+* 2026   
+Journal of Physics: Photonics (x1); IEEE Transactions on Instumentation and Measurement (x1)       
 * 2025   
 AIP Advances (x1); Spectroscopy Journal (x1); Optics Letters (x1); International Journal of Pervasive Computing and Communications (x1); Sensors (x1)   
 * 2024   
@@ -121,4 +122,4 @@ Neurophotonics (x1)
 * Member, Optical Society of Korea, 2024 – present     
 
 ***External examiner for Ph.D dissertation***   
-* Youngjoo Lee at GIST (November 21, 2023); Minhee Kim at GIST (November 18, 2024); Yoonho Oh at GIST (November 27, 2024); Nourelhuda Ali Yousif Mohamed at GIST (May 19, 2025); Manal Mustafa Mohamedali Mohamed at GIST (May 19, 2025); Semere Araya Asefa at Yonsei University Mirae Campus (June 9, 2025)
+* Youngjoo Lee at GIST (November 21, 2023); Minhee Kim at GIST (November 18, 2024); Yoonho Oh at GIST (November 27, 2024); Nourelhuda Ali Yousif Mohamed at GIST (May 19, 2025); Manal Mustafa Mohamedali Mohamed at GIST (May 19, 2025); Semere Araya Asefa at Yonsei University (June 9, 2025); Dong-Hyuk Choi at GIST (November 26, 2025); Sangmin Shim at Yonsei University (December 02, 2025)

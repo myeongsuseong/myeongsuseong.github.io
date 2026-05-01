@@ -8,10 +8,10 @@ author_profile: true
 
 After XJTLU
 ------
-Peer-reviewed publications
-1. <ins>Jiachen Zhou</ins>, Siqi Liang#, Jeong Hyeon Park, Anh Nguyen, and **Myeongsu Seong**# "PAI burn review (tentative title)," (in submission)    
+Peer-reviewed publications   
 1. <ins>Jiachen Zhou</ins>, Junyu Yao, Anh Nguyen, Jeong Hyeon Park, Lei Fu, Jinxin Gu#, and **Myeongsu Seong**# "C. elegans quantification (tentative title)," (in submission)   
 1. Siqi Liang, Boxiang Liu, Chaoyang Chen, Mingyang Lv, Yue Hu, Qingshan Liu, Sung-Liang Chen#, and **Myeongsu Seong**# "PAE restoration (tentative title)," (in submission)   
+1. <ins>Jiachen Zhou</ins>, Siqi Liang#, Jeong Hyeon Park, Anh Nguyen, and **Myeongsu Seong**# "Burn depth assessment by photoacoustic imaging: a review," Methods, 2026 (accepted for publication), DOI: [10.1016/j.ymeth.2026.04.014](https://doi.org/10.1016/j.ymeth.2026.04.014){:target="_blank"}         
 1. Seokgyu Kwon^, Sangmin Shim^, Kyunghyun Yu, **Myeongsu Seong**#, and Dasol Lee# "Advances in electrospun nanofibers for biomedical engineering," Fibers and Polymers 27, 565-599, 2026, DOI: [10.1007/s12221-025-01219-1](https://doi.org/10.1007/s12221-025-01219-1){:target="_blank"}     
 1. Siqi Liang^, Nan Wan^, Guo Chen^, Sung-Liang Chen#, and **Myeongsu Seong**# "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy," Optics and Laser Technology 197, 114767, 2026, DOI: [10.1016/j.optlastec.2026.114767](https://doi.org/10.1016/j.optlastec.2026.114767){:target="_blank"}         
 1. Minseo Jeong, Seokgyu Kwon, Changhwan Hyeon, Juhoon Baek **Myeongsu Seong**, Minkyung Kim#, and Dasol Lee# "Hydrophobic radiative cooling using zein-functionalized polyvinyl alcohol nanofibers with dielectric nanoparticles," Small 21(45) e07295, 2025, DOI: [10.1002/smll.202507295](https://doi.org/10.1002/smll.202507295){:target="_blank"}             
