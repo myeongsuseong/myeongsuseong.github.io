@@ -17,7 +17,7 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
-* A research article manuscript titled "Restoration of out-of-focus region for photoacoustic endoscopic imaging enabled by convolutional neural networks" that Dr. Seong participated as a co-corresponding author has been accepted by Physica Scripta on May 5, 2026.   
+* A research article manuscript titled "Restoration of out-of-focus region for photoacoustic endoscopic imaging enabled by convolutional neural networks" that Dr. Seong participated as a co-corresponding author has been accepted by Physica Scripta on May 8, 2026.   
 
 * Jiachen's review manuscript entitled "Burn depth assessment by photoacoustic imaging: A review" has been accepted for publication by Methods on April 29, 2026. Congratulations Jiachen!   
 

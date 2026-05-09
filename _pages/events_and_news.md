@@ -8,8 +8,8 @@ author_profile: false
 {% include base_path %}
 2026
 -----
-* A research article manuscript titled "Restoration of out-of-focus region for photoacoustic endoscopic imaging enabled by convolutional neural networks" that Dr. Seong participated as a co-corresponding author has been accepted by Physica Scripta on May 5, 2026.   
-   
+* A research article manuscript titled "Restoration of out-of-focus region for photoacoustic endoscopic imaging enabled by convolutional neural networks" that Dr. Seong participated as a co-corresponding author has been accepted by Physica Scripta on May 8, 2026.   
+
 * Jiachen's review manuscript entitled "Burn depth assessment by photoacoustic imaging: A review" has been accepted for publication by Methods on April 29, 2026. Congratulations Jiachen!   
 
 * Xingqian Wang, a previous master's student at the Lab, received an unconditional offer for PhD study on February 5, 2026. Xingqian will join the Lab as a PhD student in Computer Science and Software Engineering in March 2026. He will mainly study and work on the development and applications of brain measurement systems. Welcome aboard Xingqian!   
