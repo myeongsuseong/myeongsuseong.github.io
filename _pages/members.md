@@ -36,32 +36,32 @@ TBA
 
 ***Undergraduate student***    
 
-**Jingxuan Qian** (From April 2024 to present)   
+**Jingxuan Qian** (From April 2024 to June 2026)   
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering (8th semester)   
 Doing his final year project in the Lab.   
 
-**Haoran Xu** (From June 2024 to Aug 2024 (SURF); From October 2024 to present)   
+**Haoran Xu** (From June 2024 to Aug 2024 (SURF); From October 2024 to June 2026)   
 Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
 Program: BEng in Electronic Science and Technology (8th semester)      
 Participated in SURF and doing his final year project in the Lab.     
 
-**Junhe Liu** (From January 2025 to present)   
+**Junhe Liu** (From January 2025 to June 2026)   
 Email: Junhe.Liu22__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering (8th semester)    
 Participated in SURF and doing his final year project in the Lab.  
 
-**Ruiyu Wu** (From September 2025 to present)   
+**Ruiyu Wu** (From September 2025 to June 2026)   
 Email: Ruiyu.Wu2202__at__student.xjtlu.edu.cn   
 Program: BEng in Electronic Science and Technology (8th semester)      
 Doing his final year project in the Lab.   
 
-**Xingyu Chen** (From September 2025 to present)   
+**Xingyu Chen** (From September 2025 to June 2026)   
 Email: Xingyu.Chen2203__at__student.xjtlu.edu.cn   
 Program: BSc in Information Management and Information Systems (8th semester)      
 Doing his final year project in the Lab.   
 
-**Haobo Zhang** (From September 2025 to present)   
+**Haobo Zhang** (From September 2025 to June 2026)   
 Email: Haobo.Zhang22__at__student.xjtlu.edu.cn   
 Program: BEng in Digital Media Technology (8th semester)      
 Doing his final year project in the Lab.   
@@ -94,30 +94,30 @@ Completed the master's thesis in the Lab.
 ***Undergraduate student***   
 **Mingjian Jia** (From June 2024 to August 2025)   
 Email: Mingjian.Jia23__at__student.xjtlu.edu.cn   
-Program: BEng in Mechatronics and Robotic Systems (4th semester)      
+Program: BEng in Mechatronics and Robotic Systems      
 Participated in SURF.     
 
 **Yihai Hu** (From June 2024 to August 2025)   
 Email: Yihai.Hu23__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (4th semester)      
+Program: BEng in Electronic Science and Technology      
 Participated in SURF.  
 
 **Zibo Ji** (From June 2025 to August 2025)   
 Email: Zibo.Ji23__at__student.xjtlu.edu.cn  
-Program: BEng in Electronic Science and Technology (4th semester)    
-Participated in SURF.  
+Program: BEng in Electronic Science and Technology    
+Participated in SURF.    
 
 **Linwei Ye** (From September 2024 to July 2025)         
 Email: Linwei.Ye21__at__student.xjtlu.edu.cn  
 Program: BSc in Information Management and Information Systems      
-Completed the final year project in the Lab.
+Completed the final year project in the Lab.   
 
 **Miao Lu** (From September 2024 to July 2025)         
 Email: Miao.Lu21__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering      
 Completed the final year project in the Lab.   
 
-**Eunyong Lee** (From June 2024 to July 2025)   
+**Eunyong Lee** (From June 2024 to July 2025)     
 Email: E.Lee1802__at__student.xjtlu.edu.cn   
 Program: BEng in Mechatronics and Robotic systems      
 Participated in SURF and completed the final year project in the Lab.   
