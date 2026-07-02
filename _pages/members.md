@@ -35,36 +35,8 @@ TBA
 
 
 ***Undergraduate student***    
+TBA
 
-**Jingxuan Qian** (From April 2024 to June 2026)   
-Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (8th semester)   
-Doing his final year project in the Lab.   
-
-**Haoran Xu** (From June 2024 to Aug 2024 (SURF); From October 2024 to June 2026)   
-Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (8th semester)      
-Participated in SURF and doing his final year project in the Lab.     
-
-**Junhe Liu** (From January 2025 to June 2026)   
-Email: Junhe.Liu22__at__student.xjtlu.edu.cn  
-Program: BEng in Telecommunications Engineering (8th semester)    
-Participated in SURF and doing his final year project in the Lab.  
-
-**Ruiyu Wu** (From September 2025 to June 2026)   
-Email: Ruiyu.Wu2202__at__student.xjtlu.edu.cn   
-Program: BEng in Electronic Science and Technology (8th semester)      
-Doing his final year project in the Lab.   
-
-**Xingyu Chen** (From September 2025 to June 2026)   
-Email: Xingyu.Chen2203__at__student.xjtlu.edu.cn   
-Program: BSc in Information Management and Information Systems (8th semester)      
-Doing his final year project in the Lab.   
-
-**Haobo Zhang** (From September 2025 to June 2026)   
-Email: Haobo.Zhang22__at__student.xjtlu.edu.cn   
-Program: BEng in Digital Media Technology (8th semester)      
-Doing his final year project in the Lab.   
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 
@@ -92,6 +64,36 @@ Program: MSc in Financial Computing
 Completed the master's thesis in the Lab.   
 
 ***Undergraduate student***   
+**Jingxuan Qian** (From April 2024 to June 2026)   
+Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
+Program: BEng in Telecommunications Engineering  
+Completed the final year project in the Lab.   
+
+**Haoran Xu** (From June 2024 to Aug 2024 (SURF); From October 2024 to June 2026)   
+Email: Haoran.Xu2202__at__student.xjtlu.edu.cn   
+Program: BEng in Electronic Science and Technology    
+Participated in SURF and Completed the final year project in the Lab.     
+
+**Junhe Liu** (From January 2025 to June 2026)   
+Email: Junhe.Liu22__at__student.xjtlu.edu.cn  
+Program: BEng in Telecommunications Engineering
+Participated in SURF and Completed the final year project in the Lab.  
+
+**Ruiyu Wu** (From September 2025 to June 2026)   
+Email: Ruiyu.Wu2202__at__student.xjtlu.edu.cn   
+Program: BEng in Electronic Science and Technology     
+Completed the final year project in the Lab.   
+
+**Xingyu Chen** (From September 2025 to June 2026)   
+Email: Xingyu.Chen2203__at__student.xjtlu.edu.cn   
+Program: BSc in Information Management and Information Systems    
+Completed the final year project in the Lab.   
+
+**Haobo Zhang** (From September 2025 to June 2026)   
+Email: Haobo.Zhang22__at__student.xjtlu.edu.cn   
+Program: BEng in Digital Media Technology    
+Completed the final year project in the Lab.   
+
 **Mingjian Jia** (From June 2024 to August 2025)   
 Email: Mingjian.Jia23__at__student.xjtlu.edu.cn   
 Program: BEng in Mechatronics and Robotic Systems      

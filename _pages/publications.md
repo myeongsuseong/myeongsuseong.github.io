@@ -9,7 +9,8 @@ author_profile: true
 After XJTLU
 ------
 Peer-reviewed publications   
-1. <ins>Xingqian Wang</ins> and **Myeongsu Seong**# "Comparative studies of channel selection methods and classifiers for hybrid brain signals (tentative title)," (in preparation)   
+1. Yoonho Oh^, **Myeongsu Seong**^, Sungchul Kim, Seonghyun Kim, Jaeyoung Bae, Jae Gwan Kim#, Jae Yoon Hwang# "Anesthesia monitoring (tentative title)," (in preparation)  
+1. <ins>Xingqian Wang</ins> and **Myeongsu Seong**# "Signal processing method for hybrid brain signals (tentative title)," (in preparation)   
 1. <ins>Jiachen Zhou</ins>, Junyu Yao, Anh Nguyen, Jeong Hyeon Park, Lei Fu, Jinxin Gu#, and **Myeongsu Seong**# "C. elegans quantification (tentative title)," (in submission)   
 1. Muhammad Jawad Hussain#, Heming Bai, **Myeongsu Seong**, and Shahbaz Hassan Wasti "Integrating lexical semantics for deep conceptual similarity: A WordNet-based vector framework," Information Sciences (Accepted for publication on June 6, 2026), 2026, DOI: [10.1016/j.ins.2026.123757](https://doi.org/10.1016/j.ins.2026.123757){:target="_blank"}       
 1. Siqi Liang, Boxiang Liu, Chaoyang Chen, Mingyang Lv, Yue Hu, Qingshan Liu, Sung-Liang Chen#, and **Myeongsu Seong**# "Restoration of out-of-focus region for photoacoustic endoscopic imaging enabled by convolutional neural networks," Physica Scripta, 2026 (accepted for publication), DOI: [10.1088/1402-4896/ae6ad2](https://doi.org/10.1088/1402-4896/ae6ad2){:target="_blank"}     
