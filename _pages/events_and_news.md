@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2026
 -----
+* Dr. Seong gave an invited talk about near-infrared spectroscopy for biomedical applications at Intelligent Robot OptoMechatronics Laboratory, Department of Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technology, Korea, on August 4, 2026.   
+
 * A research article manuscript titled "Restoration of out-of-focus region for photoacoustic endoscopic imaging enabled by convolutional neural networks" that Dr. Seong participated as a co-corresponding author has been accepted by Physica Scripta on May 8, 2026.   
 
 * Jiachen's review manuscript entitled "Burn depth assessment by photoacoustic imaging: A review" has been accepted for publication by Methods on April 29, 2026. Congratulations Jiachen!   

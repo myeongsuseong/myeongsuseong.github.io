@@ -9,6 +9,7 @@ author_profile: true
 After XJTLU
 ------
 Peer-reviewed publications   
+1. Siqi Liang, Boxiang Liu, Ke Zhang, Jitong Zhang, Sung-Liang Chen#, Chaoyang Chen#, and **Myeongsu Seong**# "A review relevant to photoacoustic imaging  (tentative title)," (in preparation)   
 1. Yoonho Oh^, **Myeongsu Seong**^, Sungchul Kim, Seonghyun Kim, Jaeyoung Bae, Jae Gwan Kim#, Jae Yoon Hwang# "Anesthesia monitoring (tentative title)," (in preparation)   
 1. <ins>Xingqian Wang</ins> and **Myeongsu Seong**# "Signal processing method for hybrid brain signals (tentative title)," (in preparation)   
 1. <ins>Jiachen Zhou</ins>, Junyu Yao, Anh Nguyen, Jeong Hyeon Park, Lei Fu, Jinxin Gu#, and **Myeongsu Seong**# "C. elegans quantification (tentative title)," (in submission)   

@@ -17,6 +17,8 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
+* Dr. Seong gave an invited talk about near-infrared spectroscopy for biomedical applications at Intelligent Robot OptoMechatronics Laboratory, Department of Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technology, Korea, on August 4, 2026.    
+
 * A research article manuscript titled "Restoration of out-of-focus region for photoacoustic endoscopic imaging enabled by convolutional neural networks" that Dr. Seong participated as a co-corresponding author has been accepted by Physica Scripta on May 8, 2026.   
 
 * Jiachen's review manuscript entitled "Burn depth assessment by photoacoustic imaging: A review" has been accepted for publication by Methods on April 29, 2026. Congratulations Jiachen!   
@@ -24,5 +26,3 @@ Latest events and news
 * Xingqian Wang, a previous master's student at the Lab, received an unconditional offer for PhD study on February 5, 2026. Xingqian will join the Lab as a PhD student in Computer Science and Software Engineering in March 2026. He will mainly study and work on the development and applications of brain measurement systems. Welcome aboard Xingqian!   
 
 * Dr. Seong gave an invited talk at International Conference on Electronics, Information, and Communication (ICEIC) 2026 organized by the Institute of Electronics and Information Engineers (IEIE) on February 20, 2026 in Macao, China.     
-
-* A research article manuscript titled "Sensing changes in triglyceride concentration in blood solution using diffuse optical spectroscopy" that Dr. Seong participated as a co-corresponding author has been accepted by Optics and Laser Technology on January 14, 2026.   
