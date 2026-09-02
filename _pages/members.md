@@ -12,7 +12,7 @@ author_profile: false
 Office address: EB324, Xi'an Jiaotong-Liverpool University, Suzhou Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou 215123, China     
 Phone: +86 (0)512-89173951
 Email: Myeongsu.Seong__at__xjtlu.edu.cn          
-Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as 'Sung' (the past participle form of English verb 'Sing')] is currently working as an Assistant Professor at the Department of Mechatronics and Robotics, School of Advanced Technology, Xi’an Jiaotong-Liverpool University (XJTLU) from August 2023. In 2018, Dr. Seong received his Ph.D. from the Department of Biomedical Science and Engineering, Gwangju Institute of Science and Technology, Gwangju, Republic of Korea. Before joining XJTLU, Dr. Seong worked as an Associate Professor at the Research Center for Intelligent Information Technology, Nantong University, Nantong, Jiangsu, China from December 2020 to June 2023. Dr. Seong’s research interest includes the development of new opto-mechatronic imaging/spectroscopic and therapeutic systems which can be used in both preclinical and clinical studies, relevant signal/image processing methods, and applications of the developed systems in neurology or oncology studies for the translation of the systems to the clinics.
+Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as 'Sung' (the past participle form of English verb 'Sing')] is currently working as an Assistant Professor at the Academy of AI and Advanced Technology, Xi’an Jiaotong-Liverpool University (XJTLU) from August 2023. In 2018, Dr. Seong received his Ph.D. from the Department of Biomedical Science and Engineering, Gwangju Institute of Science and Technology, Gwangju, Republic of Korea. Before joining XJTLU, Dr. Seong worked as an Associate Professor at the Research Center for Intelligent Information Technology, Nantong University, Nantong, Jiangsu, China from December 2020 to June 2023. Dr. Seong’s research interest includes the development of new opto-mechatronic imaging/spectroscopic and therapeutic systems which can be used in both preclinical and clinical studies, relevant signal/image processing methods, and applications of the developed systems in neurology or oncology studies for the translation of the systems to the clinics.
 
 ## Current members
 
@@ -20,18 +20,20 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 **Jiachen Zhou** (From September 2024 to present)   
 Email: Jiachen.Zhou24__at__student.xjtlu.edu.cn  
-Program: Ph.D. in Electronic and Electrical Engineering (4th semester)     
+Program: Ph.D. in Electronic and Electrical Engineering (5th semester)     
 Working on the development and applications of laser speckle imaging systems.   
 Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Jeong Hyeon Park (XJTLU).          
 
 **Xingqian Wang** (From March 2026 to present)   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
-Program: Ph.D. in Computer Science and Software Engineering (1st semester)       
+Program: Ph.D. in Computer Science and Software Engineering (2nd semester)       
 Working on the development and applications of brain monitoring system.   
 Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Filbert Juwono (XJTLU).         
 
 ***Master's student***     
-TBA    
+**Eunyong Lee** (From September 26 to present)     
+Email: E.Lee1802__at__student.xjtlu.edu.cn   
+Program: MRes in Pattern Recognition and Intelligent Systems (1st semester)         
 
 
 ***Undergraduate student***    

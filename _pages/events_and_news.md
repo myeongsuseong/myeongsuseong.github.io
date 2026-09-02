@@ -8,6 +8,8 @@ author_profile: false
 {% include base_path %}
 2026
 -----
+* Eunyong Lee, a previous undergraduate student at the Lab, joined the Lab as a MRes student in Pattern Recognition and Intelligent Systems in September 2026. Welcome aboard Eunyong!   
+
 * Dr. Seong gave an invited talk about near-infrared spectroscopy for biomedical applications at Intelligent Robot OptoMechatronics Laboratory, Department of Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technology, Korea, on August 4, 2026.   
 
 * A research article manuscript titled "Restoration of out-of-focus region for photoacoustic endoscopic imaging enabled by convolutional neural networks" that Dr. Seong participated as a co-corresponding author has been accepted by Physica Scripta on May 8, 2026.   

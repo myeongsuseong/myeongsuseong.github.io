@@ -13,20 +13,20 @@ Education
 -----
 * Postgraduate Certificate in Teaching and Supporting Learning in Higher Education (Pass with Merit), University of Liverpool, Liverpool, United Kingdom, August 2024   
 
-* Ph.D in Biomedical engineering (specialized in biophotonics), GIST, Gwangju, Republic of Korea, August 2018  
+* Ph.D in Biomedical Engineering (specialized in biophotonics), Gwangju Institute of Science and Technology (GIST), Gwangju, Republic of Korea, August 2018  
 Advisor: Dr. Jae Gwan Kim   
 Received Excellent Research Award from GIST due to academic excellence   
 
-* M.S. in Medical system engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Republic of Korea, August 2014  
+* M.S. in Medical System Engineering, GIST, Gwangju, Republic of Korea, August 2014  
 Advisor: Dr. Jae Gwan Kim      
 
-* B.S. in Medical engineering, Jungwon University, Goesan, Chungbuk, Republic of Korea, August 2012     
+* B.S. in Medical Engineering, Jungwon University, Goesan, Chungbuk, Republic of Korea, August 2012     
 Graduate one semester earlier due to academic excellence    
 
 Work experience
 ------
 * Assistant Professor (August 2023 - present)
-  * Department of Mechatronics and Robotics, School of Advanced Technology, XJTLU, Suzhou, Jiangsu, China  
+  * Academy of AI and Advanced Technology, XJTLU, Suzhou, Jiangsu, China  
 
 
 * Associate Professor (校聘副教授, December 2020 - June 2023)
