@@ -31,7 +31,7 @@ Working on the development and applications of brain monitoring system.
 Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Filbert Juwono (XJTLU).         
 
 ***Master's student***     
-**Eunyong Lee** (From September 26 to present)     
+**Eunyong Lee** (From September 2026 to present)     
 Email: E.Lee1802__at__student.xjtlu.edu.cn   
 Program: MRes in Pattern Recognition and Intelligent Systems (1st semester)         
 
