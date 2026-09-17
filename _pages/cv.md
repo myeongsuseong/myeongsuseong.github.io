@@ -90,6 +90,9 @@ Awards/Distinctions
 
 Services and Membership
 ------
+***Journal Editorship***   
+Editorial board memeber, Scientific Reports, August 2026 – present   
+
 ***Review provided for journals***   
 * 2026   
 Journal of Physics: Photonics (x1); IEEE Transactions on Instumentation and Measurement (x1)       
