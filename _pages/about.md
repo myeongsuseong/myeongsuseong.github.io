@@ -17,9 +17,9 @@ In the meantime, BSIT is interested in initiating multi-disciplinary collaborati
 
 Latest events and news
 ======
-* Dr. Seong joined the editorial board of Scientific Reports in Ausust 2026.   
-
 * Eunyong Lee, a previous undergraduate student at the Lab, joined the Lab as a MRes student in Pattern Recognition and Intelligent Systems in September 2026. Welcome aboard Eunyong!    
+
+* Dr. Seong joined the editorial board of Scientific Reports in Ausust 2026.   
 
 * Dr. Seong gave an invited talk about near-infrared spectroscopy for biomedical applications at Intelligent Robot OptoMechatronics Laboratory, Department of Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technology, Korea, on August 4, 2026.    
 
