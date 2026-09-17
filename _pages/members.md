@@ -16,7 +16,7 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 ## Current members
 
-***PhD student***   
+***PhD student(s)***   
 
 **Jiachen Zhou** (From September 2024 to present)   
 Email: Jiachen.Zhou24__at__student.xjtlu.edu.cn  
@@ -30,14 +30,24 @@ Program: Ph.D. in Computer Science and Software Engineering (2nd semester)
 Working on the development and applications of brain monitoring system.   
 Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Filbert Juwono (XJTLU).         
 
-***Master's student***     
+***Master's student(s)***     
 **Eunyong Lee** (From September 2026 to present)     
 Email: E.Lee1802__at__student.xjtlu.edu.cn   
 Program: MRes in Pattern Recognition and Intelligent Systems (1st semester)         
 
 
-***Undergraduate student***    
-TBA
+***Undergraduate student(s)***    
+**Jiayi Zhang** (From September 2026 to present)   
+Email: Jiayi.Zhang2302__at__student.xjtlu.edu.cn   
+Program: BEng in Electronic Science and Technology    
+
+**Boming Zhou** (From September 2026 to present)   
+Email: Boming.Zhou23__at__student.xjtlu.edu.cn   
+Program: BEng in Mechatronics and Robotic Systems    
+
+**Guanghaoyue Yang** (From September 2026 to present)   
+Email: Guanghaoyue.Yang23__at__student.xjtlu.edu.cn   
+Program: BEng in Mechatronics and Robotic Systems    
 
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
@@ -45,10 +55,10 @@ We are looking forward to working with you! Please check the section of [Prospec
 
 Previous members
 ------
-***PhD student***   
+***PhD student(s)***   
 TBA      
 
-***Master's student***   
+***Master's student(s)***   
 
 **Xingqian (Boray) Wang** (From October 2023 to April 2025)   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
@@ -65,7 +75,7 @@ Co-supervised with Yu Liu (industry supervisor) at Institute of Digital Medical 
 Program: MSc in Financial Computing   
 Completed the master's thesis in the Lab.   
 
-***Undergraduate student***   
+***Undergraduate student(s)***   
 **Jingxuan Qian** (From April 2024 to June 2026)   
 Email: Jingxuan.Qian22__at__student.xjtlu.edu.cn  
 Program: BEng in Telecommunications Engineering  
