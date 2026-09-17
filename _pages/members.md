@@ -17,7 +17,6 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 ## Current members
 
 ***PhD student(s)***   
-
 **Jiachen Zhou** (From September 2024 to present)   
 Email: Jiachen.Zhou24__at__student.xjtlu.edu.cn  
 Program: Ph.D. in Electronic and Electrical Engineering (5th semester)     
@@ -29,6 +28,7 @@ Email: Xingqian.Wang23__at__student.xjtlu.edu.cn
 Program: Ph.D. in Computer Science and Software Engineering (2nd semester)       
 Working on the development and applications of brain monitoring system.   
 Supervisory team: Dr. Anh Nguyen (UoL) and Dr. Filbert Juwono (XJTLU).         
+
 
 ***Master's student(s)***     
 **Eunyong Lee** (From September 2026 to present)     
@@ -59,7 +59,6 @@ Previous members
 TBA      
 
 ***Master's student(s)***   
-
 **Xingqian (Boray) Wang** (From October 2023 to April 2025)   
 Email: Xingqian.Wang23__at__student.xjtlu.edu.cn  
 Program: MSc in Multimedia Telecommunications      
