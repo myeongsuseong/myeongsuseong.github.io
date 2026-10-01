@@ -95,7 +95,7 @@ Editorial board memeber, Scientific Reports, August 2026 – present
 
 ***Review provided for journals***   
 * 2026   
-Journal of Physics: Photonics (x1); IEEE Transactions on Instumentation and Measurement (x1)       
+Journal of Physics: Photonics (x1); IEEE Transactions on Instumentation and Measurement (x2); Annals of Medicine (x1)       
 * 2025   
 AIP Advances (x1); Spectroscopy Journal (x1); Optics Letters (x1); International Journal of Pervasive Computing and Communications (x1); Sensors (x1)   
 * 2024   
@@ -125,5 +125,5 @@ Neurophotonics (x1)
 * Fellow of Advance HE (FHEA), Advance HE, 2024 – present   
 * Member, Optical Society of Korea, 2024 – present     
 
-***External examiner for Ph.D dissertation***   
+***External examiner for Ph.D. dissertation***   
 * Youngjoo Lee at GIST (November 21, 2023); Minhee Kim at GIST (November 18, 2024); Yoonho Oh at GIST (November 27, 2024); Nourelhuda Ali Yousif Mohamed at GIST (May 19, 2025); Manal Mustafa Mohamedali Mohamed at GIST (May 19, 2025); Semere Araya Asefa at Yonsei University (June 9, 2025); Dong-Hyuk Choi at GIST (November 26, 2025); Sangmin Shim at Yonsei University (December 02, 2025)
