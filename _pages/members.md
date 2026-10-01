@@ -40,15 +40,12 @@ Program: MRes in Pattern Recognition and Intelligent Systems (1st semester)
 **Jiayi Zhang** (From September 2026 to present)   
 Email: Jiayi.Zhang2302__at__student.xjtlu.edu.cn   
 Program: BEng in Electronic Science and Technology    
-
-**Boming Zhou** (From September 2026 to present)   
-Email: Boming.Zhou23__at__student.xjtlu.edu.cn   
-Program: BEng in Mechatronics and Robotic Systems    
+Working on the final year project in the Lab.   
 
 **Guanghaoyue Yang** (From September 2026 to present)   
 Email: Guanghaoyue.Yang23__at__student.xjtlu.edu.cn   
 Program: BEng in Mechatronics and Robotic Systems    
-
+Working on the final year project in the Lab.   
 
 We are looking forward to working with you! Please check the section of [Prospective members](https://myeongsuseong.github.io/prospective_members/).
 
