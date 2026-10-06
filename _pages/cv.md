@@ -13,7 +13,7 @@ Education
 -----
 * Postgraduate Certificate in Teaching and Supporting Learning in Higher Education (Pass with Merit), University of Liverpool, Liverpool, United Kingdom, August 2024   
 
-* Ph.D in Biomedical Engineering (specialized in biophotonics), Gwangju Institute of Science and Technology (GIST), Gwangju, Republic of Korea, August 2018  
+* Ph.D. in Biomedical Engineering (specialized in biophotonics), Gwangju Institute of Science and Technology (GIST), Gwangju, Republic of Korea, August 2018  
 Advisor: Dr. Jae Gwan Kim   
 Received Excellent Research Award from GIST due to academic excellence   
 

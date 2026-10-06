@@ -16,7 +16,7 @@ Dr. Myeongsu [should be pronounced m-Young Sue] Seong [should be pronounced as '
 
 ## Current members
 
-***PhD student(s)***   
+***Ph.D. student(s)***   
 **Jiachen Zhou** (From September 2024 to present)   
 Email: Jiachen.Zhou24__at__student.xjtlu.edu.cn  
 Program: Ph.D. in Electronic and Electrical Engineering (5th semester)     
@@ -52,7 +52,7 @@ We are looking forward to working with you! Please check the section of [Prospec
 
 Previous members
 ------
-***PhD student(s)***   
+***Ph.D. student(s)***   
 TBA      
 
 ***Master's student(s)***   
